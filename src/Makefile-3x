@@ -42,7 +42,7 @@ MORE_CFLAGS = -I. \
  -fno-strength-reduce -finline-functions \
  -fsingle-precision-constant \
  -DNO_STDIO_REDIRECT \
- -DUSE_PSP_IRKEYB
+ -DUSE_PSP_IRKEYB -G0
 
 PSP_FW_VERSION=500
 PSPXTI_VERSION=1.3.0-fw5x
@@ -50,7 +50,7 @@ PSPXTI_VERSION=1.3.0-fw5x
 CFLAGS = $(DEFAULT_CFLAGS) $(MORE_CFLAGS)
 CXXFLAGS = $(DEFAULT_CFLAGS) $(MORE_CFLAGS) -fno-exceptions -fno-rtti
 
-LIBS += -lpspirkeyb -lpsppower -lSDL_image -lSDL -lpng -ljpeg -lpspaudio -lpspgu -lpsphprm -lz -lm
+LIBS += -lpspirkeyb -lpsppower -lSDL_image -lSDL -lGL -lpspvfpu -lpsprtc -lpng -ljpeg -lpspaudio -lpspgu -lpsphprm -lz -lm
 
 BUILD_PRX=1
 
