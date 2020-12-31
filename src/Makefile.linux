@@ -1,0 +1,56 @@
+#
+# PSPXTI port on PSP 
+#
+# Copyright (C) 2009 Ludovic Jacomme (ludovic.jacomme@gmail.com)
+#
+# This program is free software; you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation; either version 2 of the License, or
+# (at your option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# along with this program; if not, write to the Free Software
+# Foundation, Inc., 675 Mass Ave, Cambridge, MA 02139, USA.
+#
+TARGET = pspxti
+
+SDL_CONFIG = sdl-config
+OBJS = \
+  psp_main.o ti92_main.o psp_font.o psp_sdl.o psp_danzeff.o psp_fmgr.o \
+  psp_menu.o psp_menu_help.o psp_irkeyb.o psp_editor.o \
+  psp_battery.o psp_menu_kbd.o psp_menu_set.o \
+  newcpu.o memory.o hardware.o packets.o keyboard.o \
+  readcpu.o cpudefs.o cpu0.o cpu1.o cpu2.o cpu3.o cpu4.o cpu5.o cpu6.o \
+  cpu7.o cpu8.o cpu9.o cpuA.o cpuB.o cpuC.o cpuD.o cpuE.o cpuF.o \
+  cpustbl.o noasm.o psp_kbd.o \
+  global.o psp_specific.o ti_main.o \
+  pspsdk_linux.o
+
+DEFAULT_CFLAGS = $(shell $(SDL_CONFIG) --cflags) \
+                 -I/usr/include  -I. -Iinclude/ -I./pspsdk_linux
+
+MORE_CFLAGS = $(DEFAULT_CFLAGS) -O2 -Wall -DPSP -DLINUX_MODE \
+-Iinclude/ \
+-DPSPXTI_VERSION=\"$(PSPXTI_VERSION)\" \
+-DINTEL_FLAG_OPT \
+-DNO_STDIO_REDIRECT
+
+CFLAGS = $(DEFAULT_CFLAGS) $(MORE_CFLAGS)
+CXXFLAGS = $(DEFAULT_CFLAGS) $(MORE_CFLAGS) -fno-exceptions -fno-rtti
+
+LIBS += -L/usr/lib -L/usr/X11R6/lib -lSDL_image -lSDL -lXext -lX11 -lpng -ljpeg -lz -lm -lpthread
+all : $(TARGET)
+
+$(TARGET): $(OBJS)
+	gcc $(CFLAGS) $(OBJS) $(LIBS) -o $(TARGET)
+
+clean:
+	rm -f $(OBJS) $(TARGET)
+
+ctags: 
+	ctags *[ch] 

@@ -1,0 +1,28 @@
+/*
+ *  xtiger port on PSP 
+ *
+ *  Copyright (C) 2006 Ludovic Jacomme (ludovic.jacomme@gmail.com)
+ *
+ *  This program is free software; you can redistribute it and/or modify
+ *  it under the terms of the GNU General Public License as published by
+ *  the Free Software Foundation; either version 2 of the License, or
+ *  (at your option) any later version.
+ *
+ *  This program is distributed in the hope that it will be useful,
+ *  but WITHOUT ANY WARRANTY; without even the implied warranty of
+ *  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ *  GNU General Public License for more details.
+ *
+ *  You should have received a copy of the GNU General Public License
+ *  along with this program; if not, write to the Free Software
+ *  Foundation, Inc., 675 Mass Ave, Cambridge, MA 02139, USA.
+ */
+
+# ifndef _TI_MAIN_H_
+# define _TI_MAIN_H_
+
+  extern void run_emulator(void);
+  extern int  save_emulator_stuff(void);
+  extern int ti92_load_prog_file(char *prog_filename);
+
+# endif

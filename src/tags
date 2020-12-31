@@ -1,0 +1,2809 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.5.4	//
+ACT_CONTEOD	packets.h	55;"	d
+ACT_EOF	packets.h	52;"	d
+ACT_NOACTION	packets.h	54;"	d
+ACT_VARDATA	packets.h	53;"	d
+ACT_VARHEAD	packets.h	51;"	d
+ANALOG_THRESHOLD	psp_kbd.c	936;"	d	file:
+Ad16	readcpu.h	/^  Dreg, Areg, Aind, Aipi, Apdi, Ad16, Ad8r, $/;"	e
+Ad8r	readcpu.h	/^  Dreg, Areg, Aind, Aipi, Apdi, Ad16, Ad8r, $/;"	e
+Aind	readcpu.h	/^  Dreg, Areg, Aind, Aipi, Apdi, Ad16, Ad8r, $/;"	e
+Aipi	readcpu.h	/^  Dreg, Areg, Aind, Aipi, Apdi, Ad16, Ad8r, $/;"	e
+Apdi	readcpu.h	/^  Dreg, Areg, Aind, Aipi, Apdi, Ad16, Ad8r, $/;"	e
+Areg	readcpu.h	/^  Dreg, Areg, Aind, Aipi, Apdi, Ad16, Ad8r, $/;"	e
+BYTE	sysdeps.h	/^typedef signed char BYTE;$/;"	t
+CFLG	newcpu.h	109;"	d
+CLEARFLGS	noasm.h	23;"	d
+CLEARVC	noasm.h	22;"	d
+CPTR	sysdeps.h	/^typedef ULONG CPTR;$/;"	t
+CPU_EMU_SIZE	options.h	31;"	d
+CTRUE	noasm.h	25;"	d
+CYCLES_PER_INSTR	hardware.h	34;"	d
+CYCLES_PER_TICK	hardware.h	35;"	d
+CloseTigerWin	psp_specific.c	/^void CloseTigerWin(void)$/;"	f
+DANZEFF_2ND	psp_danzeff.h	62;"	d
+DANZEFF_ANGLE	psp_danzeff.h	43;"	d
+DANZEFF_ANS	psp_danzeff.h	38;"	d
+DANZEFF_APPS	psp_danzeff.h	71;"	d
+DANZEFF_BACKSPACE	psp_danzeff.h	67;"	d
+DANZEFF_BETA	psp_danzeff.h	42;"	d
+DANZEFF_CAPS	psp_danzeff.h	45;"	d
+DANZEFF_CATALOG	psp_danzeff.h	35;"	d
+DANZEFF_CHAR	psp_danzeff.h	37;"	d
+DANZEFF_CLEAR	psp_danzeff.h	64;"	d
+DANZEFF_COS	psp_danzeff.h	16;"	d
+DANZEFF_COS_INV	psp_danzeff.h	23;"	d
+DANZEFF_CUSTOM	psp_danzeff.h	36;"	d
+DANZEFF_DEL	psp_danzeff.h	57;"	d
+DANZEFF_DERIVATE	psp_danzeff.h	27;"	d
+DANZEFF_DIAMOND	psp_danzeff.h	61;"	d
+DANZEFF_DOWN	psp_danzeff.h	73;"	d
+DANZEFF_EE	psp_danzeff.h	34;"	d
+DANZEFF_ENTER1	psp_danzeff.h	68;"	d
+DANZEFF_ENTER2	psp_danzeff.h	69;"	d
+DANZEFF_ENTRY	psp_danzeff.h	39;"	d
+DANZEFF_ENVIRON	psp_danzeff.h	58;"	d
+DANZEFF_ESCAPE	psp_danzeff.h	70;"	d
+DANZEFF_EXP	psp_danzeff.h	19;"	d
+DANZEFF_F1	psp_danzeff.h	76;"	d
+DANZEFF_F2	psp_danzeff.h	77;"	d
+DANZEFF_F3	psp_danzeff.h	78;"	d
+DANZEFF_F4	psp_danzeff.h	79;"	d
+DANZEFF_F5	psp_danzeff.h	80;"	d
+DANZEFF_F6	psp_danzeff.h	81;"	d
+DANZEFF_F7	psp_danzeff.h	82;"	d
+DANZEFF_F8	psp_danzeff.h	83;"	d
+DANZEFF_GRAPH	psp_danzeff.h	52;"	d
+DANZEFF_HAND	psp_danzeff.h	84;"	d
+DANZEFF_HOME	psp_danzeff.h	49;"	d
+DANZEFF_INFINITE	psp_danzeff.h	44;"	d
+DANZEFF_INFO	psp_danzeff.h	41;"	d
+DANZEFF_INS	psp_danzeff.h	48;"	d
+DANZEFF_INTEGRAL	psp_danzeff.h	26;"	d
+DANZEFF_INV_X	psp_danzeff.h	28;"	d
+DANZEFF_KEY	psp_danzeff.h	56;"	d
+DANZEFF_LEFT	psp_danzeff.h	72;"	d
+DANZEFF_LN	psp_danzeff.h	14;"	d
+DANZEFF_MATH	psp_danzeff.h	31;"	d
+DANZEFF_MEM	psp_danzeff.h	32;"	d
+DANZEFF_MODE	psp_danzeff.h	63;"	d
+DANZEFF_MOVE_CURSOR	psp_danzeff.h	21;"	d
+DANZEFF_NEGATE	psp_danzeff.h	13;"	d
+DANZEFF_OFF	psp_danzeff.h	46;"	d
+DANZEFF_ON	psp_danzeff.h	60;"	d
+DANZEFF_PI	psp_danzeff.h	25;"	d
+DANZEFF_QUIT	psp_danzeff.h	20;"	d
+DANZEFF_RCL	psp_danzeff.h	47;"	d
+DANZEFF_RIGHT	psp_danzeff.h	75;"	d
+DANZEFF_SDL	psp_danzeff.h	8;"	d
+DANZEFF_SELECT	psp_danzeff.h	10;"	d
+DANZEFF_SHIFT	psp_danzeff.h	59;"	d
+DANZEFF_SIN	psp_danzeff.h	15;"	d
+DANZEFF_SIN_INV	psp_danzeff.h	22;"	d
+DANZEFF_SQUARE_ROOT	psp_danzeff.h	29;"	d
+DANZEFF_START	psp_danzeff.h	11;"	d
+DANZEFF_STORE	psp_danzeff.h	66;"	d
+DANZEFF_SUM	psp_danzeff.h	30;"	d
+DANZEFF_TABLE	psp_danzeff.h	54;"	d
+DANZEFF_TAN	psp_danzeff.h	17;"	d
+DANZEFF_TAN_INV	psp_danzeff.h	24;"	d
+DANZEFF_TBL_SET	psp_danzeff.h	53;"	d
+DANZEFF_THETA	psp_danzeff.h	65;"	d
+DANZEFF_TRIANGLE	psp_danzeff.h	40;"	d
+DANZEFF_UNITS	psp_danzeff.h	55;"	d
+DANZEFF_UP	psp_danzeff.h	74;"	d
+DANZEFF_VAR_LINK	psp_danzeff.h	33;"	d
+DANZEFF_WINDOW	psp_danzeff.h	51;"	d
+DANZEFF_Y_EQ	psp_danzeff.h	50;"	d
+DEFAULT_CFGFILE	ti_main.c	63;"	d	file:
+DEFAULT_DEVFILE	ti_main.c	67;"	d	file:
+DEFAULT_MEMFILE	ti_main.c	65;"	d	file:
+DEFAULT_ROMFILE	ti_main.c	64;"	d	file:
+DELAY_KEY_FIRST	pspsdk_linux.h	43;"	d
+DELAY_KEY_REPEAT	pspsdk_linux.h	44;"	d
+Dreg	readcpu.h	/^  Dreg, Areg, Aind, Aipi, Apdi, Ad16, Ad8r, $/;"	e
+ESTAT_CMDS	commands.h	23;"	d
+ESTAT_CMDS	psp_specific.c	47;"	d	file:
+ESTAT_LINKON	commands.h	21;"	d
+ESTAT_LINKON	psp_specific.c	46;"	d	file:
+ESTAT_SCREENON	commands.h	20;"	d
+ESTAT_SCREENON	psp_specific.c	45;"	d	file:
+ESTAT_UPDATESCREEN	commands.h	22;"	d
+Exception	newcpu.c	/^void Exception(int nr)$/;"	f
+FMGR_FORMAT_92	psp_fmgr.h	28;"	d
+FMGR_FORMAT_KBD	psp_fmgr.h	29;"	d
+GlobalInformation	globinfo.h	/^struct GlobalInformation {$/;"	s
+HAVE_DIRENT_H	sysconfig.h	102;"	d
+HAVE_FCNTL_H	sysconfig.h	105;"	d
+HAVE_GETTIMEOFDAY	sysconfig.h	81;"	d
+HAVE_MKDIR	sysconfig.h	84;"	d
+HAVE_RMDIR	sysconfig.h	87;"	d
+HAVE_SELECT	sysconfig.h	90;"	d
+HAVE_STATFS	sysconfig.h	93;"	d
+HAVE_STRERROR	sysconfig.h	96;"	d
+HAVE_STRINGS_H	sysconfig.h	117;"	d
+HAVE_STRING_H	sysconfig.h	114;"	d
+HAVE_STRSTR	sysconfig.h	99;"	d
+HAVE_ST_BLOCKS	sysconfig.h	33;"	d
+HAVE_SYS_MOUNT_H	sysconfig.h	123;"	d
+HAVE_SYS_PARAM_H	sysconfig.h	129;"	d
+HAVE_SYS_STAT_H	sysconfig.h	132;"	d
+HAVE_SYS_TIME_H	sysconfig.h	141;"	d
+HAVE_SYS_TYPES_H	sysconfig.h	144;"	d
+HAVE_SYS_VFS_H	sysconfig.h	147;"	d
+HAVE_UNISTD_H	sysconfig.h	150;"	d
+HAVE_UTIME_H	sysconfig.h	153;"	d
+HAVE_UTIME_NULL	sysconfig.h	36;"	d
+HAVE_VALUES_H	sysconfig.h	156;"	d
+HELP_CHAR_BY_LINE	psp_menu_help.c	49;"	d	file:
+HELP_LINE_BY_PAGE	psp_menu_help.c	48;"	d	file:
+INCLUDED_KEYBOARDS_DANZEFF_H	psp_danzeff.h	2;"	d
+IN_SIZE	packets.c	56;"	d	file:
+IN_UNIX	options.h	32;"	d
+IO_SIZE	memory.h	51;"	d
+Interrupt	newcpu.c	/^Interrupt(int nr)$/;"	f	file:
+KBD_ALL_BUTTONS	psp_kbd.h	48;"	d
+KBD_CIRCLE	psp_kbd.h	31;"	d
+KBD_CROSS	psp_kbd.h	32;"	d
+KBD_DOWN	psp_kbd.h	28;"	d
+KBD_HOLD	psp_kbd.h	37;"	d
+KBD_HOME	psp_kbd.h	36;"	d
+KBD_JOY_DOWN	psp_kbd.h	45;"	d
+KBD_JOY_LEFT	psp_kbd.h	46;"	d
+KBD_JOY_RIGHT	psp_kbd.h	44;"	d
+KBD_JOY_UP	psp_kbd.h	43;"	d
+KBD_LEFT	psp_kbd.h	29;"	d
+KBD_LTRIGGER	psp_kbd.h	38;"	d
+KBD_LTRIGGER_MAPPING	psp_kbd.h	52;"	d
+KBD_MAX_BUTTONS	psp_kbd.h	41;"	d
+KBD_MAX_ENTRIES	psp_kbd.c	220;"	d	file:
+KBD_MAX_EVENT_TIME	psp_kbd.c	56;"	d	file:
+KBD_MIN_ANALOG_TIME1	psp_kbd.c	59;"	d	file:
+KBD_MIN_ANALOG_TIME2	psp_kbd.c	60;"	d	file:
+KBD_MIN_BATTCHECK_TIME	psp_kbd.c	62;"	d	file:
+KBD_MIN_DANZEFF_TIME	psp_kbd.c	61;"	d	file:
+KBD_MIN_EVENT_TIME	psp_kbd.c	58;"	d	file:
+KBD_MIN_PENDING_TIME	psp_kbd.c	57;"	d	file:
+KBD_MIN_START_TIME	psp_kbd.c	55;"	d	file:
+KBD_NORMAL_MAPPING	psp_kbd.h	54;"	d
+KBD_RIGHT	psp_kbd.h	27;"	d
+KBD_RTRIGGER	psp_kbd.h	39;"	d
+KBD_RTRIGGER_MAPPING	psp_kbd.h	53;"	d
+KBD_SELECT	psp_kbd.h	34;"	d
+KBD_SQUARE	psp_kbd.h	33;"	d
+KBD_START	psp_kbd.h	35;"	d
+KBD_TRIANGLE	psp_kbd.h	30;"	d
+KBD_UNASSIGNED	psp_kbd.h	50;"	d
+KBD_UP	psp_kbd.h	26;"	d
+KERNELMODE	psp_irkeyb.c	34;"	d	file:
+LINK_BACKUP	specific.h	50;"	d
+LINK_DIR	specific.h	51;"	d
+LINK_FAIL	specific.h	49;"	d
+LINK_FILE	specific.h	52;"	d
+LINK_RUNNING	specific.h	47;"	d
+LINK_STOP	specific.h	48;"	d
+LM_BYTE	memory.c	51;"	d	file:
+LM_LONG	memory.c	53;"	d	file:
+LM_READ	memory.c	55;"	d	file:
+LM_WORD	memory.c	52;"	d	file:
+LM_WRITE	memory.c	56;"	d	file:
+LONG	sysdeps.h	/^typedef int LONG;$/;"	t
+LONG	sysdeps.h	/^typedef long LONG;$/;"	t
+MAX_CLOCK_VALUES	psp_menu.c	279;"	d	file:
+MAX_HELP_LINE	psp_menu_help.c	46;"	d	file:
+MAX_MENU_ITEM	psp_menu.c	69;"	d	file:
+MAX_MENU_KBD_ITEM	psp_menu_kbd.c	69;"	d	file:
+MAX_PATH	global.h	31;"	d
+MAX_VKEYBOARD	psp_danzeff.c	44;"	d	file:
+MC68000_reset	newcpu.c	/^void MC68000_reset(void)$/;"	f
+MC68000_run	newcpu.c	/^void MC68000_run(void)$/;"	f
+MEM_SIZE	memory.c	/^int MEM_SIZE;$/;"	v
+MENU_ANALOG	psp_menu.c	51;"	d	file:
+MENU_BACK	psp_menu.c	66;"	d	file:
+MENU_CLOCK	psp_menu.c	52;"	d	file:
+MENU_DISPLAY_LR	psp_menu.c	53;"	d	file:
+MENU_EXIT	psp_menu.c	67;"	d	file:
+MENU_HARD_RESET	psp_menu.c	65;"	d	file:
+MENU_HELP	psp_menu.c	58;"	d	file:
+MENU_KBD_BACK	psp_menu_kbd.c	67;"	d	file:
+MENU_KBD_CIRCLE	psp_menu_kbd.c	55;"	d	file:
+MENU_KBD_CROSS	psp_menu_kbd.c	52;"	d	file:
+MENU_KBD_DOWN	psp_menu_kbd.c	49;"	d	file:
+MENU_KBD_JOY_DOWN	psp_menu_kbd.c	59;"	d	file:
+MENU_KBD_JOY_LEFT	psp_menu_kbd.c	60;"	d	file:
+MENU_KBD_JOY_RIGHT	psp_menu_kbd.c	61;"	d	file:
+MENU_KBD_JOY_UP	psp_menu_kbd.c	58;"	d	file:
+MENU_KBD_KBD_SELECT	psp_menu_kbd.c	47;"	d	file:
+MENU_KBD_LEFT	psp_menu_kbd.c	50;"	d	file:
+MENU_KBD_LOAD	psp_menu_kbd.c	63;"	d	file:
+MENU_KBD_LTRIGGER	psp_menu_kbd.c	56;"	d	file:
+MENU_KBD_RESET	psp_menu_kbd.c	65;"	d	file:
+MENU_KBD_RIGHT	psp_menu_kbd.c	51;"	d	file:
+MENU_KBD_RTRIGGER	psp_menu_kbd.c	57;"	d	file:
+MENU_KBD_SAVE	psp_menu_kbd.c	64;"	d	file:
+MENU_KBD_SKIN	psp_menu_kbd.c	46;"	d	file:
+MENU_KBD_SQUARE	psp_menu_kbd.c	53;"	d	file:
+MENU_KBD_TRIANGLE	psp_menu_kbd.c	54;"	d	file:
+MENU_KBD_UP	psp_menu_kbd.c	48;"	d	file:
+MENU_KEYBOARD	psp_menu.c	62;"	d	file:
+MENU_LOAD_PRG	psp_menu.c	60;"	d	file:
+MENU_SAVE_CFG	psp_menu.c	61;"	d	file:
+MENU_SCREENSHOT	psp_menu.c	56;"	d	file:
+MENU_SKIP_FPS	psp_menu.c	54;"	d	file:
+MENU_SOFT_RESET	psp_menu.c	64;"	d	file:
+MENU_VIEW_FPS	psp_menu.c	55;"	d	file:
+MODE_COUNT	psp_danzeff.c	43;"	d	file:
+MakeFromSR	newcpu.c	/^void MakeFromSR(void)$/;"	f
+MakeSR	newcpu.c	/^void MakeSR(void)$/;"	f
+NFLG	newcpu.h	108;"	d
+NTRUE	noasm.h	28;"	d
+OPT_DEBUGGER	keyboard.h	/^TIKEY_ON, OPT_DEBUGGER, OPT_LOADFILE, OPT_QUIT, OPT_QUITNOSAVE };$/;"	e
+OPT_LOADFILE	keyboard.h	/^TIKEY_ON, OPT_DEBUGGER, OPT_LOADFILE, OPT_QUIT, OPT_QUITNOSAVE };$/;"	e
+OPT_QUIT	keyboard.h	/^TIKEY_ON, OPT_DEBUGGER, OPT_LOADFILE, OPT_QUIT, OPT_QUITNOSAVE };$/;"	e
+OPT_QUITNOSAVE	keyboard.h	/^TIKEY_ON, OPT_DEBUGGER, OPT_LOADFILE, OPT_QUIT, OPT_QUITNOSAVE };$/;"	e
+OUT_SIZE	packets.c	55;"	d	file:
+PC16	readcpu.h	/^  absw, absl, PC16, PC8r, imm, imm0, imm1, imm2, immi, am_unknown, am_illg$/;"	e
+PC8r	readcpu.h	/^  absw, absl, PC16, PC8r, imm, imm0, imm1, imm2, immi, am_unknown, am_illg$/;"	e
+PICS_BASEDIR	psp_danzeff.c	30;"	d	file:
+PKT_CONT	packets.h	49;"	d
+PKT_EOD	packets.h	45;"	d
+PKT_EXPECT	packets.h	44;"	d
+PKT_READY	packets.h	43;"	d
+PKT_VARDATA	packets.h	46;"	d
+PKT_VARHEAD	packets.h	47;"	d
+PKT_VARREQ	packets.h	48;"	d
+PSP_ALL_BUTTON_MASK	psp_kbd.h	24;"	d
+PSP_CIRCLE	pspsdk_linux.h	26;"	d
+PSP_CROSS	pspsdk_linux.h	25;"	d
+PSP_CTRL_DOWNLEFT	pspsdk_linux.c	20;"	d	file:
+PSP_CTRL_DOWNRIGHT	pspsdk_linux.c	19;"	d	file:
+PSP_CTRL_UPLEFT	pspsdk_linux.c	18;"	d	file:
+PSP_CTRL_UPRIGHT	pspsdk_linux.c	17;"	d	file:
+PSP_DOWN	pspsdk_linux.h	20;"	d
+PSP_DOWNLEFT	pspsdk_linux.h	19;"	d
+PSP_DOWNRIGHT	pspsdk_linux.h	21;"	d
+PSP_FIRE	pspsdk_linux.h	30;"	d
+PSP_FMGR_MAX_ENTRY	psp_fmgr.h	26;"	d
+PSP_FMGR_MAX_NAME	psp_fmgr.h	25;"	d
+PSP_FMGR_MAX_PATH	psp_fmgr.h	24;"	d
+PSP_FMGR_MIN_TIME	psp_fmgr.c	42;"	d	file:
+PSP_IRKEYB_CIRCLE	psp_irkeyb.h	37;"	d
+PSP_IRKEYB_CROSS	psp_irkeyb.h	35;"	d
+PSP_IRKEYB_DOWN	psp_irkeyb.h	32;"	d
+PSP_IRKEYB_EMPTY	psp_irkeyb.h	43;"	d
+PSP_IRKEYB_LEFT	psp_irkeyb.h	33;"	d
+PSP_IRKEYB_LTRIGGER	psp_irkeyb.h	41;"	d
+PSP_IRKEYB_RIGHT	psp_irkeyb.h	34;"	d
+PSP_IRKEYB_RTRIGGER	psp_irkeyb.h	42;"	d
+PSP_IRKEYB_SELECT	psp_irkeyb.h	39;"	d
+PSP_IRKEYB_SQUARE	psp_irkeyb.h	38;"	d
+PSP_IRKEYB_START	psp_irkeyb.h	40;"	d
+PSP_IRKEYB_TRIANGLE	psp_irkeyb.h	36;"	d
+PSP_IRKEYB_UP	psp_irkeyb.h	31;"	d
+PSP_JOY_DOWN	pspsdk_linux.h	35;"	d
+PSP_JOY_LEFT	pspsdk_linux.h	36;"	d
+PSP_JOY_RIGHT	pspsdk_linux.h	37;"	d
+PSP_JOY_UP	pspsdk_linux.h	34;"	d
+PSP_KBD_MAX_SKIN	psp_danzeff.c	11;"	d	file:
+PSP_L	pspsdk_linux.h	28;"	d
+PSP_LCD_BACKGROUND	psp_sdl.h	38;"	d
+PSP_LCD_FOREGROUND	psp_sdl.h	39;"	d
+PSP_LEFT	pspsdk_linux.h	16;"	d
+PSP_LINE_SIZE	psp_sdl.h	27;"	d
+PSP_LINE_SIZE	psp_sdl.h	29;"	d
+PSP_MENU_AUTHOR_COLOR	psp_menu.h	27;"	d
+PSP_MENU_BACKGROUND_COLOR	psp_menu.h	25;"	d
+PSP_MENU_BLACK_COLOR	psp_menu.h	26;"	d
+PSP_MENU_BORDER_COLOR	psp_menu.h	22;"	d
+PSP_MENU_GREEN_COLOR	psp_menu.h	28;"	d
+PSP_MENU_KBD_MIN_TIME	psp_menu_kbd.h	25;"	d
+PSP_MENU_MIN_TIME	psp_menu.h	36;"	d
+PSP_MENU_NOTE_COLOR	psp_menu.h	24;"	d
+PSP_MENU_RED_COLOR	psp_menu.h	29;"	d
+PSP_MENU_SEL2_COLOR	psp_menu.h	34;"	d
+PSP_MENU_SEL_COLOR	psp_menu.h	33;"	d
+PSP_MENU_TEXT2_COLOR	psp_menu.h	32;"	d
+PSP_MENU_TEXT_COLOR	psp_menu.h	31;"	d
+PSP_MENU_WARNING_COLOR	psp_menu.h	23;"	d
+PSP_MIN_TIME_REPEAT	pspsdk_linux.c	29;"	d	file:
+PSP_NOEVENT	pspsdk_linux.h	41;"	d
+PSP_R	pspsdk_linux.h	29;"	d
+PSP_RIGHT	pspsdk_linux.h	17;"	d
+PSP_SDL_NOP	psp_sdl.h	32;"	d
+PSP_SDL_SCREEN_HEIGHT	psp_sdl.h	36;"	d
+PSP_SDL_SCREEN_WIDTH	psp_sdl.h	35;"	d
+PSP_SDL_XOR	psp_sdl.h	33;"	d
+PSP_SELECT	pspsdk_linux.h	32;"	d
+PSP_SQUARE	pspsdk_linux.h	24;"	d
+PSP_START	pspsdk_linux.h	31;"	d
+PSP_TRIANGLE	pspsdk_linux.h	23;"	d
+PSP_UP	pspsdk_linux.h	13;"	d
+PSP_UPLEFT	pspsdk_linux.h	12;"	d
+PSP_UPRIGHT	pspsdk_linux.h	14;"	d
+REGPARAM	options.h	33;"	d
+RETSIGTYPE	sysconfig.h	54;"	d
+ROM_SIZE	memory.c	/^int ROM_SIZE;$/;"	v
+SDL_main	ti92_main.c	/^SDL_main(int argc, char **argv)$/;"	f
+SIZEOF_CHAR	sysconfig.h	66;"	d
+SIZEOF_INT	sysconfig.h	69;"	d
+SIZEOF_INT	sysdeps.h	26;"	d
+SIZEOF_LONG	sysconfig.h	72;"	d
+SIZEOF_LONG	sysdeps.h	27;"	d
+SIZEOF_LONG_LONG	sysconfig.h	75;"	d
+SIZEOF_SHORT	sysconfig.h	78;"	d
+SIZEOF_SHORT	sysdeps.h	25;"	d
+SJISCopy	psp_fmgr.c	/^SJISCopy(struct SceIoDirent *a, char *file)$/;"	f	file:
+SPCFLAG_ADRERR	newcpu.h	44;"	d
+SPCFLAG_BRK	newcpu.h	37;"	d
+SPCFLAG_DBSKIP	newcpu.h	35;"	d
+SPCFLAG_DBTRACE	newcpu.h	33;"	d
+SPCFLAG_DELAY	newcpu.h	43;"	d
+SPCFLAG_DOINT	newcpu.h	41;"	d
+SPCFLAG_DOTRACE	newcpu.h	40;"	d
+SPCFLAG_EXTRA_CYCLES	newcpu.h	38;"	d
+SPCFLAG_INT	newcpu.h	36;"	d
+SPCFLAG_STOP	newcpu.h	34;"	d
+SPCFLAG_TIMER	newcpu.h	42;"	d
+SPCFLAG_TRACE	newcpu.h	39;"	d
+STDC_HEADERS	sysconfig.h	57;"	d
+STDERR_FILE	psp_main.c	36;"	d	file:
+STDOUT_FILE	psp_main.c	35;"	d	file:
+ShowEA	newcpu.c	/^static void ShowEA(int reg, amodes mode, wordsizes size)$/;"	f	file:
+TI92	global.c	/^  TI92_t TI92;$/;"	v
+TI92_BUTTON_0	psp_kbd.h	/^    TI92_BUTTON_0           ,$/;"	e	enum:ti92_button_id
+TI92_BUTTON_1	psp_kbd.h	/^    TI92_BUTTON_1           ,$/;"	e	enum:ti92_button_id
+TI92_BUTTON_2	psp_kbd.h	/^    TI92_BUTTON_2           ,$/;"	e	enum:ti92_button_id
+TI92_BUTTON_2ND	psp_kbd.h	/^    TI92_BUTTON_2ND         ,$/;"	e	enum:ti92_button_id
+TI92_BUTTON_3	psp_kbd.h	/^    TI92_BUTTON_3           ,$/;"	e	enum:ti92_button_id
+TI92_BUTTON_4	psp_kbd.h	/^    TI92_BUTTON_4           ,$/;"	e	enum:ti92_button_id
+TI92_BUTTON_5	psp_kbd.h	/^    TI92_BUTTON_5           ,$/;"	e	enum:ti92_button_id
+TI92_BUTTON_6	psp_kbd.h	/^    TI92_BUTTON_6           ,$/;"	e	enum:ti92_button_id
+TI92_BUTTON_7	psp_kbd.h	/^    TI92_BUTTON_7           ,$/;"	e	enum:ti92_button_id
+TI92_BUTTON_8	psp_kbd.h	/^    TI92_BUTTON_8           ,$/;"	e	enum:ti92_button_id
+TI92_BUTTON_9	psp_kbd.h	/^    TI92_BUTTON_9           ,$/;"	e	enum:ti92_button_id
+TI92_BUTTON_A	psp_kbd.h	/^    TI92_BUTTON_A           ,$/;"	e	enum:ti92_button_id
+TI92_BUTTON_ANGLE	psp_kbd.h	/^    TI92_BUTTON_ANGLE      ,$/;"	e	enum:ti92_button_id
+TI92_BUTTON_ANS	psp_kbd.h	/^    TI92_BUTTON_ANS        ,$/;"	e	enum:ti92_button_id
+TI92_BUTTON_APPS	psp_kbd.h	/^    TI92_BUTTON_APPS        ,$/;"	e	enum:ti92_button_id
+TI92_BUTTON_B	psp_kbd.h	/^    TI92_BUTTON_B           ,$/;"	e	enum:ti92_button_id
+TI92_BUTTON_BACKSLASH	psp_kbd.h	/^    TI92_BUTTON_BACKSLASH  ,$/;"	e	enum:ti92_button_id
+TI92_BUTTON_BACKSPACE	psp_kbd.h	/^    TI92_BUTTON_BACKSPACE   ,$/;"	e	enum:ti92_button_id
+TI92_BUTTON_BETA	psp_kbd.h	/^    TI92_BUTTON_BETA       ,$/;"	e	enum:ti92_button_id
+TI92_BUTTON_BRACE_LEFT	psp_kbd.h	/^    TI92_BUTTON_BRACE_LEFT,    \/* { *\/$/;"	e	enum:ti92_button_id
+TI92_BUTTON_BRACE_RIGHT	psp_kbd.h	/^    TI92_BUTTON_BRACE_RIGHT,   \/* } *\/$/;"	e	enum:ti92_button_id
+TI92_BUTTON_BRACKET_LEFT	psp_kbd.h	/^    TI92_BUTTON_BRACKET_LEFT,  \/* [ *\/$/;"	e	enum:ti92_button_id
+TI92_BUTTON_BRACKET_RIGHT	psp_kbd.h	/^    TI92_BUTTON_BRACKET_RIGHT, \/* ] *\/$/;"	e	enum:ti92_button_id
+TI92_BUTTON_C	psp_kbd.h	/^    TI92_BUTTON_C           ,$/;"	e	enum:ti92_button_id
+TI92_BUTTON_CAPS	psp_kbd.h	/^    TI92_BUTTON_CAPS       ,$/;"	e	enum:ti92_button_id
+TI92_BUTTON_CATALOG	psp_kbd.h	/^    TI92_BUTTON_CATALOG    ,$/;"	e	enum:ti92_button_id
+TI92_BUTTON_CHAR	psp_kbd.h	/^    TI92_BUTTON_CHAR       ,$/;"	e	enum:ti92_button_id
+TI92_BUTTON_CLEAR	psp_kbd.h	/^    TI92_BUTTON_CLEAR       ,$/;"	e	enum:ti92_button_id
+TI92_BUTTON_COLON	psp_kbd.h	/^    TI92_BUTTON_COLON      ,$/;"	e	enum:ti92_button_id
+TI92_BUTTON_COMMA	psp_kbd.h	/^    TI92_BUTTON_COMMA       ,$/;"	e	enum:ti92_button_id
+TI92_BUTTON_COS	psp_kbd.h	/^    TI92_BUTTON_COS         ,$/;"	e	enum:ti92_button_id
+TI92_BUTTON_COS_INV	psp_kbd.h	/^    TI92_BUTTON_COS_INV     ,$/;"	e	enum:ti92_button_id
+TI92_BUTTON_CUSTOM	psp_kbd.h	/^    TI92_BUTTON_CUSTOM     ,$/;"	e	enum:ti92_button_id
+TI92_BUTTON_D	psp_kbd.h	/^    TI92_BUTTON_D           ,$/;"	e	enum:ti92_button_id
+TI92_BUTTON_DBL_QUOTE	psp_kbd.h	/^    TI92_BUTTON_DBL_QUOTE  ,$/;"	e	enum:ti92_button_id
+TI92_BUTTON_DEL	psp_kbd.h	/^    TI92_BUTTON_DEL        ,$/;"	e	enum:ti92_button_id
+TI92_BUTTON_DERIVATE	psp_kbd.h	/^    TI92_BUTTON_DERIVATE   ,$/;"	e	enum:ti92_button_id
+TI92_BUTTON_DIAMOND	psp_kbd.h	/^    TI92_BUTTON_DIAMOND     ,$/;"	e	enum:ti92_button_id
+TI92_BUTTON_DIVIDE	psp_kbd.h	/^    TI92_BUTTON_DIVIDE      ,$/;"	e	enum:ti92_button_id
+TI92_BUTTON_DOWN	psp_kbd.h	/^    TI92_BUTTON_DOWN        ,$/;"	e	enum:ti92_button_id
+TI92_BUTTON_E	psp_kbd.h	/^    TI92_BUTTON_E           ,$/;"	e	enum:ti92_button_id
+TI92_BUTTON_EE	psp_kbd.h	/^    TI92_BUTTON_EE         ,$/;"	e	enum:ti92_button_id
+TI92_BUTTON_ENTER1	psp_kbd.h	/^    TI92_BUTTON_ENTER1      ,$/;"	e	enum:ti92_button_id
+TI92_BUTTON_ENTER2	psp_kbd.h	/^    TI92_BUTTON_ENTER2      ,$/;"	e	enum:ti92_button_id
+TI92_BUTTON_ENTRY	psp_kbd.h	/^    TI92_BUTTON_ENTRY      ,$/;"	e	enum:ti92_button_id
+TI92_BUTTON_ENVIRON	psp_kbd.h	/^    TI92_BUTTON_ENVIRON    , \/* End diamon keys *\/$/;"	e	enum:ti92_button_id
+TI92_BUTTON_EQUAL	psp_kbd.h	/^    TI92_BUTTON_EQUAL       ,$/;"	e	enum:ti92_button_id
+TI92_BUTTON_ESCAPE	psp_kbd.h	/^    TI92_BUTTON_ESCAPE      ,$/;"	e	enum:ti92_button_id
+TI92_BUTTON_EXP	psp_kbd.h	/^    TI92_BUTTON_EXP         ,$/;"	e	enum:ti92_button_id
+TI92_BUTTON_F	psp_kbd.h	/^    TI92_BUTTON_F           ,$/;"	e	enum:ti92_button_id
+TI92_BUTTON_F1	psp_kbd.h	/^    TI92_BUTTON_F1          ,$/;"	e	enum:ti92_button_id
+TI92_BUTTON_F2	psp_kbd.h	/^    TI92_BUTTON_F2          ,$/;"	e	enum:ti92_button_id
+TI92_BUTTON_F3	psp_kbd.h	/^    TI92_BUTTON_F3          ,$/;"	e	enum:ti92_button_id
+TI92_BUTTON_F4	psp_kbd.h	/^    TI92_BUTTON_F4          ,$/;"	e	enum:ti92_button_id
+TI92_BUTTON_F5	psp_kbd.h	/^    TI92_BUTTON_F5          ,$/;"	e	enum:ti92_button_id
+TI92_BUTTON_F6	psp_kbd.h	/^    TI92_BUTTON_F6          ,$/;"	e	enum:ti92_button_id
+TI92_BUTTON_F7	psp_kbd.h	/^    TI92_BUTTON_F7          ,$/;"	e	enum:ti92_button_id
+TI92_BUTTON_F8	psp_kbd.h	/^    TI92_BUTTON_F8          ,$/;"	e	enum:ti92_button_id
+TI92_BUTTON_G	psp_kbd.h	/^    TI92_BUTTON_G           ,$/;"	e	enum:ti92_button_id
+TI92_BUTTON_GRAPH	psp_kbd.h	/^    TI92_BUTTON_GRAPH      ,$/;"	e	enum:ti92_button_id
+TI92_BUTTON_GT	psp_kbd.h	/^    TI92_BUTTON_GT         ,$/;"	e	enum:ti92_button_id
+TI92_BUTTON_H	psp_kbd.h	/^    TI92_BUTTON_H           ,$/;"	e	enum:ti92_button_id
+TI92_BUTTON_HAND	psp_kbd.h	/^    TI92_BUTTON_HAND        ,$/;"	e	enum:ti92_button_id
+TI92_BUTTON_HOME	psp_kbd.h	/^    TI92_BUTTON_HOME       ,  \/* Diamon keys *\/$/;"	e	enum:ti92_button_id
+TI92_BUTTON_I	psp_kbd.h	/^    TI92_BUTTON_I           ,$/;"	e	enum:ti92_button_id
+TI92_BUTTON_INFINITE	psp_kbd.h	/^    TI92_BUTTON_INFINITE   ,$/;"	e	enum:ti92_button_id
+TI92_BUTTON_INFO	psp_kbd.h	/^    TI92_BUTTON_INFO       ,$/;"	e	enum:ti92_button_id
+TI92_BUTTON_INS	psp_kbd.h	/^    TI92_BUTTON_INS        ,$/;"	e	enum:ti92_button_id
+TI92_BUTTON_INTEGRAL	psp_kbd.h	/^    TI92_BUTTON_INTEGRAL   ,$/;"	e	enum:ti92_button_id
+TI92_BUTTON_INV_X	psp_kbd.h	/^    TI92_BUTTON_INV_X      ,$/;"	e	enum:ti92_button_id
+TI92_BUTTON_J	psp_kbd.h	/^    TI92_BUTTON_J           ,$/;"	e	enum:ti92_button_id
+TI92_BUTTON_K	psp_kbd.h	/^    TI92_BUTTON_K           ,$/;"	e	enum:ti92_button_id
+TI92_BUTTON_KEY	psp_kbd.h	/^    TI92_BUTTON_KEY        ,$/;"	e	enum:ti92_button_id
+TI92_BUTTON_L	psp_kbd.h	/^    TI92_BUTTON_L           ,$/;"	e	enum:ti92_button_id
+TI92_BUTTON_LEFT	psp_kbd.h	/^    TI92_BUTTON_LEFT        ,$/;"	e	enum:ti92_button_id
+TI92_BUTTON_LEFT_PARENT	psp_kbd.h	/^    TI92_BUTTON_LEFT_PARENT ,$/;"	e	enum:ti92_button_id
+TI92_BUTTON_LN	psp_kbd.h	/^    TI92_BUTTON_LN          ,$/;"	e	enum:ti92_button_id
+TI92_BUTTON_LT	psp_kbd.h	/^    TI92_BUTTON_LT         ,$/;"	e	enum:ti92_button_id
+TI92_BUTTON_M	psp_kbd.h	/^    TI92_BUTTON_M           ,$/;"	e	enum:ti92_button_id
+TI92_BUTTON_MATH	psp_kbd.h	/^    TI92_BUTTON_MATH       ,$/;"	e	enum:ti92_button_id
+TI92_BUTTON_MEM	psp_kbd.h	/^    TI92_BUTTON_MEM        ,$/;"	e	enum:ti92_button_id
+TI92_BUTTON_MINUS	psp_kbd.h	/^    TI92_BUTTON_MINUS       ,$/;"	e	enum:ti92_button_id
+TI92_BUTTON_MODE	psp_kbd.h	/^    TI92_BUTTON_MODE        ,$/;"	e	enum:ti92_button_id
+TI92_BUTTON_MOVE_CURSOR	psp_kbd.h	/^    TI92_BUTTON_MOVE_CURSOR ,$/;"	e	enum:ti92_button_id
+TI92_BUTTON_MULTIPLY	psp_kbd.h	/^    TI92_BUTTON_MULTIPLY    ,$/;"	e	enum:ti92_button_id
+TI92_BUTTON_N	psp_kbd.h	/^    TI92_BUTTON_N           ,$/;"	e	enum:ti92_button_id
+TI92_BUTTON_NEGATE	psp_kbd.h	/^    TI92_BUTTON_NEGATE      ,$/;"	e	enum:ti92_button_id
+TI92_BUTTON_O	psp_kbd.h	/^    TI92_BUTTON_O           ,$/;"	e	enum:ti92_button_id
+TI92_BUTTON_OFF	psp_kbd.h	/^    TI92_BUTTON_OFF        ,$/;"	e	enum:ti92_button_id
+TI92_BUTTON_ON	psp_kbd.h	/^    TI92_BUTTON_ON          ,$/;"	e	enum:ti92_button_id
+TI92_BUTTON_P	psp_kbd.h	/^    TI92_BUTTON_P           ,$/;"	e	enum:ti92_button_id
+TI92_BUTTON_PERIOD	psp_kbd.h	/^    TI92_BUTTON_PERIOD      ,$/;"	e	enum:ti92_button_id
+TI92_BUTTON_PI	psp_kbd.h	/^    TI92_BUTTON_PI          ,$/;"	e	enum:ti92_button_id
+TI92_BUTTON_PIPE	psp_kbd.h	/^    TI92_BUTTON_PIPE       ,$/;"	e	enum:ti92_button_id
+TI92_BUTTON_PLUS	psp_kbd.h	/^    TI92_BUTTON_PLUS        ,$/;"	e	enum:ti92_button_id
+TI92_BUTTON_POWER	psp_kbd.h	/^    TI92_BUTTON_POWER       ,$/;"	e	enum:ti92_button_id
+TI92_BUTTON_Q	psp_kbd.h	/^    TI92_BUTTON_Q           ,$/;"	e	enum:ti92_button_id
+TI92_BUTTON_QUIT	psp_kbd.h	/^    TI92_BUTTON_QUIT        ,$/;"	e	enum:ti92_button_id
+TI92_BUTTON_QUOTE	psp_kbd.h	/^    TI92_BUTTON_QUOTE      ,$/;"	e	enum:ti92_button_id
+TI92_BUTTON_R	psp_kbd.h	/^    TI92_BUTTON_R           ,$/;"	e	enum:ti92_button_id
+TI92_BUTTON_RCL	psp_kbd.h	/^    TI92_BUTTON_RCL        ,$/;"	e	enum:ti92_button_id
+TI92_BUTTON_RIGHT	psp_kbd.h	/^    TI92_BUTTON_RIGHT       ,$/;"	e	enum:ti92_button_id
+TI92_BUTTON_RIGHT_PARENT	psp_kbd.h	/^    TI92_BUTTON_RIGHT_PARENT,$/;"	e	enum:ti92_button_id
+TI92_BUTTON_S	psp_kbd.h	/^    TI92_BUTTON_S           ,$/;"	e	enum:ti92_button_id
+TI92_BUTTON_SEMICOLON	psp_kbd.h	/^    TI92_BUTTON_SEMICOLON  ,$/;"	e	enum:ti92_button_id
+TI92_BUTTON_SHIFT	psp_kbd.h	/^    TI92_BUTTON_SHIFT       ,$/;"	e	enum:ti92_button_id
+TI92_BUTTON_SIN	psp_kbd.h	/^    TI92_BUTTON_SIN         ,$/;"	e	enum:ti92_button_id
+TI92_BUTTON_SIN_INV	psp_kbd.h	/^    TI92_BUTTON_SIN_INV     ,$/;"	e	enum:ti92_button_id
+TI92_BUTTON_SPACE	psp_kbd.h	/^    TI92_BUTTON_SPACE       ,$/;"	e	enum:ti92_button_id
+TI92_BUTTON_SQUARE_ROOT	psp_kbd.h	/^    TI92_BUTTON_SQUARE_ROOT,$/;"	e	enum:ti92_button_id
+TI92_BUTTON_STORE	psp_kbd.h	/^    TI92_BUTTON_STORE       ,$/;"	e	enum:ti92_button_id
+TI92_BUTTON_SUM	psp_kbd.h	/^    TI92_BUTTON_SUM        ,$/;"	e	enum:ti92_button_id
+TI92_BUTTON_T	psp_kbd.h	/^    TI92_BUTTON_T           ,$/;"	e	enum:ti92_button_id
+TI92_BUTTON_TABLE	psp_kbd.h	/^    TI92_BUTTON_TABLE      ,$/;"	e	enum:ti92_button_id
+TI92_BUTTON_TAN	psp_kbd.h	/^    TI92_BUTTON_TAN         ,$/;"	e	enum:ti92_button_id
+TI92_BUTTON_TAN_INV	psp_kbd.h	/^    TI92_BUTTON_TAN_INV     ,$/;"	e	enum:ti92_button_id
+TI92_BUTTON_TBL_SET	psp_kbd.h	/^    TI92_BUTTON_TBL_SET    ,$/;"	e	enum:ti92_button_id
+TI92_BUTTON_THETA	psp_kbd.h	/^    TI92_BUTTON_THETA       ,$/;"	e	enum:ti92_button_id
+TI92_BUTTON_TRIANGLE	psp_kbd.h	/^    TI92_BUTTON_TRIANGLE   ,$/;"	e	enum:ti92_button_id
+TI92_BUTTON_U	psp_kbd.h	/^    TI92_BUTTON_U           ,$/;"	e	enum:ti92_button_id
+TI92_BUTTON_UNDERSCORE	psp_kbd.h	/^    TI92_BUTTON_UNDERSCORE ,$/;"	e	enum:ti92_button_id
+TI92_BUTTON_UNITS	psp_kbd.h	/^    TI92_BUTTON_UNITS      ,$/;"	e	enum:ti92_button_id
+TI92_BUTTON_UP	psp_kbd.h	/^    TI92_BUTTON_UP          ,$/;"	e	enum:ti92_button_id
+TI92_BUTTON_V	psp_kbd.h	/^    TI92_BUTTON_V           ,$/;"	e	enum:ti92_button_id
+TI92_BUTTON_VAR_LINK	psp_kbd.h	/^    TI92_BUTTON_VAR_LINK   ,$/;"	e	enum:ti92_button_id
+TI92_BUTTON_W	psp_kbd.h	/^    TI92_BUTTON_W           ,$/;"	e	enum:ti92_button_id
+TI92_BUTTON_WINDOW	psp_kbd.h	/^    TI92_BUTTON_WINDOW     ,$/;"	e	enum:ti92_button_id
+TI92_BUTTON_X	psp_kbd.h	/^    TI92_BUTTON_X           ,$/;"	e	enum:ti92_button_id
+TI92_BUTTON_Y	psp_kbd.h	/^    TI92_BUTTON_Y           ,$/;"	e	enum:ti92_button_id
+TI92_BUTTON_Y_EQ	psp_kbd.h	/^    TI92_BUTTON_Y_EQ       ,$/;"	e	enum:ti92_button_id
+TI92_BUTTON_Z	psp_kbd.h	/^    TI92_BUTTON_Z           ,$/;"	e	enum:ti92_button_id
+TI92_BUTTON_a	psp_kbd.h	/^    TI92_BUTTON_a           ,$/;"	e	enum:ti92_button_id
+TI92_BUTTON_b	psp_kbd.h	/^    TI92_BUTTON_b           ,$/;"	e	enum:ti92_button_id
+TI92_BUTTON_c	psp_kbd.h	/^    TI92_BUTTON_c           ,$/;"	e	enum:ti92_button_id
+TI92_BUTTON_d	psp_kbd.h	/^    TI92_BUTTON_d           ,$/;"	e	enum:ti92_button_id
+TI92_BUTTON_e	psp_kbd.h	/^    TI92_BUTTON_e           ,$/;"	e	enum:ti92_button_id
+TI92_BUTTON_f	psp_kbd.h	/^    TI92_BUTTON_f           ,$/;"	e	enum:ti92_button_id
+TI92_BUTTON_g	psp_kbd.h	/^    TI92_BUTTON_g           ,$/;"	e	enum:ti92_button_id
+TI92_BUTTON_h	psp_kbd.h	/^    TI92_BUTTON_h           ,$/;"	e	enum:ti92_button_id
+TI92_BUTTON_i	psp_kbd.h	/^    TI92_BUTTON_i           ,$/;"	e	enum:ti92_button_id
+TI92_BUTTON_j	psp_kbd.h	/^    TI92_BUTTON_j           ,$/;"	e	enum:ti92_button_id
+TI92_BUTTON_k	psp_kbd.h	/^    TI92_BUTTON_k           ,$/;"	e	enum:ti92_button_id
+TI92_BUTTON_l	psp_kbd.h	/^    TI92_BUTTON_l           ,$/;"	e	enum:ti92_button_id
+TI92_BUTTON_m	psp_kbd.h	/^    TI92_BUTTON_m           ,$/;"	e	enum:ti92_button_id
+TI92_BUTTON_n	psp_kbd.h	/^    TI92_BUTTON_n           ,$/;"	e	enum:ti92_button_id
+TI92_BUTTON_o	psp_kbd.h	/^    TI92_BUTTON_o           ,$/;"	e	enum:ti92_button_id
+TI92_BUTTON_p	psp_kbd.h	/^    TI92_BUTTON_p           ,$/;"	e	enum:ti92_button_id
+TI92_BUTTON_q	psp_kbd.h	/^    TI92_BUTTON_q           ,$/;"	e	enum:ti92_button_id
+TI92_BUTTON_r	psp_kbd.h	/^    TI92_BUTTON_r           ,$/;"	e	enum:ti92_button_id
+TI92_BUTTON_s	psp_kbd.h	/^    TI92_BUTTON_s           ,$/;"	e	enum:ti92_button_id
+TI92_BUTTON_t	psp_kbd.h	/^    TI92_BUTTON_t           ,$/;"	e	enum:ti92_button_id
+TI92_BUTTON_u	psp_kbd.h	/^    TI92_BUTTON_u           ,$/;"	e	enum:ti92_button_id
+TI92_BUTTON_v	psp_kbd.h	/^    TI92_BUTTON_v           ,$/;"	e	enum:ti92_button_id
+TI92_BUTTON_w	psp_kbd.h	/^    TI92_BUTTON_w           ,$/;"	e	enum:ti92_button_id
+TI92_BUTTON_x	psp_kbd.h	/^    TI92_BUTTON_x           ,$/;"	e	enum:ti92_button_id
+TI92_BUTTON_y	psp_kbd.h	/^    TI92_BUTTON_y           ,$/;"	e	enum:ti92_button_id
+TI92_BUTTON_z	psp_kbd.h	/^    TI92_BUTTON_z           ,$/;"	e	enum:ti92_button_id
+TI92_HEIGHT	global.h	35;"	d
+TI92_LAST_BUTTON	psp_kbd.h	/^    TI92_LAST_BUTTON$/;"	e	enum:ti92_button_id
+TI92_META_2ND	psp_kbd.h	220;"	d
+TI92_META_DIAMOND	psp_kbd.h	221;"	d
+TI92_META_NONE	psp_kbd.h	219;"	d
+TI92_META_SHIFT	psp_kbd.h	222;"	d
+TI92_WIDTH	global.h	34;"	d
+TI92_t	global.h	/^   typedef struct TI92_t {$/;"	s
+TI92_t	global.h	/^   } TI92_t;$/;"	t
+TIKEY_0	keyboard.h	/^TIKEY_0, TIKEY_F4, TIKEY_Q, TIKEY_A, TIKEY_ENTER1, TIKEY_MINUS,$/;"	e
+TIKEY_1	keyboard.h	/^TIKEY_SHIFT, TIKEY_DIAMOND, TIKEY_2ND, TIKEY_3, TIKEY_2, TIKEY_1,$/;"	e
+TIKEY_2	keyboard.h	/^TIKEY_SHIFT, TIKEY_DIAMOND, TIKEY_2ND, TIKEY_3, TIKEY_2, TIKEY_1,$/;"	e
+TIKEY_2ND	keyboard.h	/^TIKEY_SHIFT, TIKEY_DIAMOND, TIKEY_2ND, TIKEY_3, TIKEY_2, TIKEY_1,$/;"	e
+TIKEY_3	keyboard.h	/^TIKEY_SHIFT, TIKEY_DIAMOND, TIKEY_2ND, TIKEY_3, TIKEY_2, TIKEY_1,$/;"	e
+TIKEY_4	keyboard.h	/^TIKEY_F8, TIKEY_W, TIKEY_S, TIKEY_Z, TIKEY_6, TIKEY_5, TIKEY_4,$/;"	e
+TIKEY_5	keyboard.h	/^TIKEY_F8, TIKEY_W, TIKEY_S, TIKEY_Z, TIKEY_6, TIKEY_5, TIKEY_4,$/;"	e
+TIKEY_6	keyboard.h	/^TIKEY_F8, TIKEY_W, TIKEY_S, TIKEY_Z, TIKEY_6, TIKEY_5, TIKEY_4,$/;"	e
+TIKEY_7	keyboard.h	/^TIKEY_F3, TIKEY_E, TIKEY_D, TIKEY_X, TIKEY_9, TIKEY_8, TIKEY_7,$/;"	e
+TIKEY_8	keyboard.h	/^TIKEY_F3, TIKEY_E, TIKEY_D, TIKEY_X, TIKEY_9, TIKEY_8, TIKEY_7,$/;"	e
+TIKEY_9	keyboard.h	/^TIKEY_F3, TIKEY_E, TIKEY_D, TIKEY_X, TIKEY_9, TIKEY_8, TIKEY_7,$/;"	e
+TIKEY_A	keyboard.h	/^TIKEY_0, TIKEY_F4, TIKEY_Q, TIKEY_A, TIKEY_ENTER1, TIKEY_MINUS,$/;"	e
+TIKEY_APPS	keyboard.h	/^TIKEY_APPS, TIKEY_CLEAR, TIKEY_F5, TIKEY_I, TIKEY_K, TIKEY_M,$/;"	e
+TIKEY_B	keyboard.h	/^TIKEY_H, TIKEY_B, TIKEY_DIVIDE, TIKEY_P, TIKEY_ENTER2, TIKEY_LN,$/;"	e
+TIKEY_BACKSPACE	keyboard.h	/^TIKEY_L, TIKEY_THETA, TIKEY_BACKSPACE, TIKEY_NEGATE, TIKEY_PERIOD,$/;"	e
+TIKEY_C	keyboard.h	/^TIKEY_F7, TIKEY_R, TIKEY_F, TIKEY_C, TIKEY_STORE, TIKEY_COMMA,$/;"	e
+TIKEY_CLEAR	keyboard.h	/^TIKEY_APPS, TIKEY_CLEAR, TIKEY_F5, TIKEY_I, TIKEY_K, TIKEY_M,$/;"	e
+TIKEY_COMMA	keyboard.h	/^TIKEY_F7, TIKEY_R, TIKEY_F, TIKEY_C, TIKEY_STORE, TIKEY_COMMA,$/;"	e
+TIKEY_COS	keyboard.h	/^TIKEY_SPACE, TIKEY_TAN, TIKEY_COS, TIKEY_SIN, TIKEY_F6, TIKEY_Y,$/;"	e
+TIKEY_D	keyboard.h	/^TIKEY_F3, TIKEY_E, TIKEY_D, TIKEY_X, TIKEY_9, TIKEY_8, TIKEY_7,$/;"	e
+TIKEY_DIAMOND	keyboard.h	/^TIKEY_SHIFT, TIKEY_DIAMOND, TIKEY_2ND, TIKEY_3, TIKEY_2, TIKEY_1,$/;"	e
+TIKEY_DIVIDE	keyboard.h	/^TIKEY_H, TIKEY_B, TIKEY_DIVIDE, TIKEY_P, TIKEY_ENTER2, TIKEY_LN,$/;"	e
+TIKEY_DOWN	keyboard.h	/^enum { TIKEY_DOWN, TIKEY_RIGHT, TIKEY_UP, TIKEY_LEFT, TIKEY_HAND,$/;"	e
+TIKEY_E	keyboard.h	/^TIKEY_F3, TIKEY_E, TIKEY_D, TIKEY_X, TIKEY_9, TIKEY_8, TIKEY_7,$/;"	e
+TIKEY_ENTER1	keyboard.h	/^TIKEY_0, TIKEY_F4, TIKEY_Q, TIKEY_A, TIKEY_ENTER1, TIKEY_MINUS,$/;"	e
+TIKEY_ENTER2	keyboard.h	/^TIKEY_H, TIKEY_B, TIKEY_DIVIDE, TIKEY_P, TIKEY_ENTER2, TIKEY_LN,$/;"	e
+TIKEY_EQUALS	keyboard.h	/^TIKEY_EQUALS, TIKEY_NU, TIKEY_ESCAPE, TIKEY_MODE, TIKEY_PLUS, TIKEY_O,$/;"	e
+TIKEY_ESCAPE	keyboard.h	/^TIKEY_EQUALS, TIKEY_NU, TIKEY_ESCAPE, TIKEY_MODE, TIKEY_PLUS, TIKEY_O,$/;"	e
+TIKEY_F	keyboard.h	/^TIKEY_F7, TIKEY_R, TIKEY_F, TIKEY_C, TIKEY_STORE, TIKEY_COMMA,$/;"	e
+TIKEY_F1	keyboard.h	/^TIKEY_F1, TIKEY_U, TIKEY_J, TIKEY_N, TIKEY_POWER, TIKEY_MULTIPLY,$/;"	e
+TIKEY_F2	keyboard.h	/^TIKEY_PARIGHT, TIKEY_PALEFT, TIKEY_F2, TIKEY_T, TIKEY_G, TIKEY_V,$/;"	e
+TIKEY_F3	keyboard.h	/^TIKEY_F3, TIKEY_E, TIKEY_D, TIKEY_X, TIKEY_9, TIKEY_8, TIKEY_7,$/;"	e
+TIKEY_F4	keyboard.h	/^TIKEY_0, TIKEY_F4, TIKEY_Q, TIKEY_A, TIKEY_ENTER1, TIKEY_MINUS,$/;"	e
+TIKEY_F5	keyboard.h	/^TIKEY_APPS, TIKEY_CLEAR, TIKEY_F5, TIKEY_I, TIKEY_K, TIKEY_M,$/;"	e
+TIKEY_F6	keyboard.h	/^TIKEY_SPACE, TIKEY_TAN, TIKEY_COS, TIKEY_SIN, TIKEY_F6, TIKEY_Y,$/;"	e
+TIKEY_F7	keyboard.h	/^TIKEY_F7, TIKEY_R, TIKEY_F, TIKEY_C, TIKEY_STORE, TIKEY_COMMA,$/;"	e
+TIKEY_F8	keyboard.h	/^TIKEY_F8, TIKEY_W, TIKEY_S, TIKEY_Z, TIKEY_6, TIKEY_5, TIKEY_4,$/;"	e
+TIKEY_G	keyboard.h	/^TIKEY_PARIGHT, TIKEY_PALEFT, TIKEY_F2, TIKEY_T, TIKEY_G, TIKEY_V,$/;"	e
+TIKEY_H	keyboard.h	/^TIKEY_H, TIKEY_B, TIKEY_DIVIDE, TIKEY_P, TIKEY_ENTER2, TIKEY_LN,$/;"	e
+TIKEY_HAND	keyboard.h	/^enum { TIKEY_DOWN, TIKEY_RIGHT, TIKEY_UP, TIKEY_LEFT, TIKEY_HAND,$/;"	e
+TIKEY_I	keyboard.h	/^TIKEY_APPS, TIKEY_CLEAR, TIKEY_F5, TIKEY_I, TIKEY_K, TIKEY_M,$/;"	e
+TIKEY_J	keyboard.h	/^TIKEY_F1, TIKEY_U, TIKEY_J, TIKEY_N, TIKEY_POWER, TIKEY_MULTIPLY,$/;"	e
+TIKEY_K	keyboard.h	/^TIKEY_APPS, TIKEY_CLEAR, TIKEY_F5, TIKEY_I, TIKEY_K, TIKEY_M,$/;"	e
+TIKEY_L	keyboard.h	/^TIKEY_L, TIKEY_THETA, TIKEY_BACKSPACE, TIKEY_NEGATE, TIKEY_PERIOD,$/;"	e
+TIKEY_LEFT	keyboard.h	/^enum { TIKEY_DOWN, TIKEY_RIGHT, TIKEY_UP, TIKEY_LEFT, TIKEY_HAND,$/;"	e
+TIKEY_LN	keyboard.h	/^TIKEY_H, TIKEY_B, TIKEY_DIVIDE, TIKEY_P, TIKEY_ENTER2, TIKEY_LN,$/;"	e
+TIKEY_M	keyboard.h	/^TIKEY_APPS, TIKEY_CLEAR, TIKEY_F5, TIKEY_I, TIKEY_K, TIKEY_M,$/;"	e
+TIKEY_MINUS	keyboard.h	/^TIKEY_0, TIKEY_F4, TIKEY_Q, TIKEY_A, TIKEY_ENTER1, TIKEY_MINUS,$/;"	e
+TIKEY_MODE	keyboard.h	/^TIKEY_EQUALS, TIKEY_NU, TIKEY_ESCAPE, TIKEY_MODE, TIKEY_PLUS, TIKEY_O,$/;"	e
+TIKEY_MULTIPLY	keyboard.h	/^TIKEY_F1, TIKEY_U, TIKEY_J, TIKEY_N, TIKEY_POWER, TIKEY_MULTIPLY,$/;"	e
+TIKEY_N	keyboard.h	/^TIKEY_F1, TIKEY_U, TIKEY_J, TIKEY_N, TIKEY_POWER, TIKEY_MULTIPLY,$/;"	e
+TIKEY_NEGATE	keyboard.h	/^TIKEY_L, TIKEY_THETA, TIKEY_BACKSPACE, TIKEY_NEGATE, TIKEY_PERIOD,$/;"	e
+TIKEY_NU	keyboard.h	/^TIKEY_EQUALS, TIKEY_NU, TIKEY_ESCAPE, TIKEY_MODE, TIKEY_PLUS, TIKEY_O,$/;"	e
+TIKEY_O	keyboard.h	/^TIKEY_EQUALS, TIKEY_NU, TIKEY_ESCAPE, TIKEY_MODE, TIKEY_PLUS, TIKEY_O,$/;"	e
+TIKEY_ON	keyboard.h	/^TIKEY_ON, OPT_DEBUGGER, OPT_LOADFILE, OPT_QUIT, OPT_QUITNOSAVE };$/;"	e
+TIKEY_P	keyboard.h	/^TIKEY_H, TIKEY_B, TIKEY_DIVIDE, TIKEY_P, TIKEY_ENTER2, TIKEY_LN,$/;"	e
+TIKEY_PALEFT	keyboard.h	/^TIKEY_PARIGHT, TIKEY_PALEFT, TIKEY_F2, TIKEY_T, TIKEY_G, TIKEY_V,$/;"	e
+TIKEY_PARIGHT	keyboard.h	/^TIKEY_PARIGHT, TIKEY_PALEFT, TIKEY_F2, TIKEY_T, TIKEY_G, TIKEY_V,$/;"	e
+TIKEY_PERIOD	keyboard.h	/^TIKEY_L, TIKEY_THETA, TIKEY_BACKSPACE, TIKEY_NEGATE, TIKEY_PERIOD,$/;"	e
+TIKEY_PLUS	keyboard.h	/^TIKEY_EQUALS, TIKEY_NU, TIKEY_ESCAPE, TIKEY_MODE, TIKEY_PLUS, TIKEY_O,$/;"	e
+TIKEY_POWER	keyboard.h	/^TIKEY_F1, TIKEY_U, TIKEY_J, TIKEY_N, TIKEY_POWER, TIKEY_MULTIPLY,$/;"	e
+TIKEY_Q	keyboard.h	/^TIKEY_0, TIKEY_F4, TIKEY_Q, TIKEY_A, TIKEY_ENTER1, TIKEY_MINUS,$/;"	e
+TIKEY_R	keyboard.h	/^TIKEY_F7, TIKEY_R, TIKEY_F, TIKEY_C, TIKEY_STORE, TIKEY_COMMA,$/;"	e
+TIKEY_RIGHT	keyboard.h	/^enum { TIKEY_DOWN, TIKEY_RIGHT, TIKEY_UP, TIKEY_LEFT, TIKEY_HAND,$/;"	e
+TIKEY_S	keyboard.h	/^TIKEY_F8, TIKEY_W, TIKEY_S, TIKEY_Z, TIKEY_6, TIKEY_5, TIKEY_4,$/;"	e
+TIKEY_SHIFT	keyboard.h	/^TIKEY_SHIFT, TIKEY_DIAMOND, TIKEY_2ND, TIKEY_3, TIKEY_2, TIKEY_1,$/;"	e
+TIKEY_SIN	keyboard.h	/^TIKEY_SPACE, TIKEY_TAN, TIKEY_COS, TIKEY_SIN, TIKEY_F6, TIKEY_Y,$/;"	e
+TIKEY_SPACE	keyboard.h	/^TIKEY_SPACE, TIKEY_TAN, TIKEY_COS, TIKEY_SIN, TIKEY_F6, TIKEY_Y,$/;"	e
+TIKEY_STORE	keyboard.h	/^TIKEY_F7, TIKEY_R, TIKEY_F, TIKEY_C, TIKEY_STORE, TIKEY_COMMA,$/;"	e
+TIKEY_T	keyboard.h	/^TIKEY_PARIGHT, TIKEY_PALEFT, TIKEY_F2, TIKEY_T, TIKEY_G, TIKEY_V,$/;"	e
+TIKEY_TAN	keyboard.h	/^TIKEY_SPACE, TIKEY_TAN, TIKEY_COS, TIKEY_SIN, TIKEY_F6, TIKEY_Y,$/;"	e
+TIKEY_THETA	keyboard.h	/^TIKEY_L, TIKEY_THETA, TIKEY_BACKSPACE, TIKEY_NEGATE, TIKEY_PERIOD,$/;"	e
+TIKEY_U	keyboard.h	/^TIKEY_F1, TIKEY_U, TIKEY_J, TIKEY_N, TIKEY_POWER, TIKEY_MULTIPLY,$/;"	e
+TIKEY_UP	keyboard.h	/^enum { TIKEY_DOWN, TIKEY_RIGHT, TIKEY_UP, TIKEY_LEFT, TIKEY_HAND,$/;"	e
+TIKEY_V	keyboard.h	/^TIKEY_PARIGHT, TIKEY_PALEFT, TIKEY_F2, TIKEY_T, TIKEY_G, TIKEY_V,$/;"	e
+TIKEY_W	keyboard.h	/^TIKEY_F8, TIKEY_W, TIKEY_S, TIKEY_Z, TIKEY_6, TIKEY_5, TIKEY_4,$/;"	e
+TIKEY_X	keyboard.h	/^TIKEY_F3, TIKEY_E, TIKEY_D, TIKEY_X, TIKEY_9, TIKEY_8, TIKEY_7,$/;"	e
+TIKEY_Y	keyboard.h	/^TIKEY_SPACE, TIKEY_TAN, TIKEY_COS, TIKEY_SIN, TIKEY_F6, TIKEY_Y,$/;"	e
+TIKEY_Z	keyboard.h	/^TIKEY_F8, TIKEY_W, TIKEY_S, TIKEY_Z, TIKEY_6, TIKEY_5, TIKEY_4,$/;"	e
+TIME_WITH_SYS_TIME	sysconfig.h	60;"	d
+TO_VALUE	hardware.c	41;"	d	file:
+TXM_BACKUP	packets.h	57;"	d
+TXM_GETDIR	packets.h	59;"	d
+TXM_SENDVAR	packets.h	58;"	d
+UBYTE	sysdeps.h	/^typedef unsigned char UBYTE;$/;"	t
+ULONG	sysdeps.h	/^typedef unsigned int ULONG;$/;"	t
+ULONG	sysdeps.h	/^typedef unsigned long ULONG;$/;"	t
+UWORD	sysdeps.h	/^typedef unsigned int UWORD;$/;"	t
+UWORD	sysdeps.h	/^typedef unsigned short UWORD;$/;"	t
+VARTYPE_BACKUP	packets.h	61;"	d
+VFLG	newcpu.h	110;"	d
+VTRUE	noasm.h	26;"	d
+WORD	sysdeps.h	/^typedef int WORD;$/;"	t
+WORD	sysdeps.h	/^typedef short WORD;$/;"	t
+XTRUE	noasm.h	29;"	d
+ZFLG	newcpu.h	107;"	d
+ZTRUE	noasm.h	27;"	d
+_GLOBAL_H	global.h	22;"	d
+_KBD_H_	psp_kbd.h	22;"	d
+_NOASM_H_	noasm.h	20;"	d
+_OPTIONS_H_	options.h	27;"	d
+_PSP_BATTERY_H_	psp_battery.h	20;"	d
+_PSP_FMGR_H_	psp_fmgr.h	22;"	d
+_PSP_INIT_H_	psp_init.h	22;"	d
+_PSP_IRKEYB_H_	psp_irkeyb.h	20;"	d
+_PSP_MENU_HELP_H_	psp_menu_help.h	20;"	d
+_PSP_MENU_H_	psp_menu.h	20;"	d
+_PSP_MENU_KBD_H_	psp_menu_kbd.h	20;"	d
+_PSP_SDL_H_	psp_sdl.h	18;"	d
+_PSP_SPECIFIC_H_	psp_specific.h	22;"	d
+_SYS_DEPS_H	sysdeps.h	20;"	d
+_TI_MAIN_H_	ti_main.h	22;"	d
+__SDL_JOY_H__	pspsdk_linux.h	2;"	d
+a	newcpu.h	/^    CPTR  a[8],usp;$/;"	m	struct:regstruct
+absl	readcpu.h	/^  absw, absl, PC16, PC8r, imm, imm0, imm1, imm2, immi, am_unknown, am_illg$/;"	e
+absw	readcpu.h	/^  absw, absl, PC16, PC8r, imm, imm0, imm1, imm2, immi, am_unknown, am_illg$/;"	e
+activeBreak	ti_main.c	/^int activeBreak = -1;$/;"	v
+add_flags_b	noasm.c	/^add_flags_b(BYTE src, BYTE dst)$/;"	f
+add_flags_l	noasm.c	/^add_flags_l(LONG src, LONG dst)$/;"	f
+add_flags_w	noasm.c	/^add_flags_w(WORD src, WORD dst)$/;"	f
+am_illg	readcpu.h	/^  absw, absl, PC16, PC8r, imm, imm0, imm1, imm2, immi, am_unknown, am_illg$/;"	e
+am_unknown	readcpu.h	/^  absw, absl, PC16, PC8r, imm, imm0, imm1, imm2, immi, am_unknown, am_illg$/;"	e
+amodes	readcpu.h	/^} amodes;$/;"	t
+areg_byteinc	newcpu.c	/^int areg_byteinc[] = { 1,1,1,1,1,1,1,2 };$/;"	v
+back2_surface	psp_sdl.c	/^  SDL_Surface *back2_surface;$/;"	v
+back_surface	psp_sdl.c	/^  SDL_Surface *back_surface;$/;"	v
+backupBlock	packets.c	/^int backupBlock = 0;$/;"	v
+backupPtr	packets.c	/^UBYTE *backupPtr = NULL;$/;"	v
+backupSize	packets.c	/^int backupSize = 0;$/;"	v
+bget	memory.c	125;"	d	file:
+bit0	readcpu.h	/^    bit0, bit1, bitc, bitC, bitf, biti, bitI, bitj, bitJ, $/;"	e
+bit1	readcpu.h	/^    bit0, bit1, bitc, bitC, bitf, biti, bitI, bitj, bitJ, $/;"	e
+bitC	readcpu.h	/^    bit0, bit1, bitc, bitC, bitf, biti, bitI, bitj, bitJ, $/;"	e
+bitD	readcpu.h	/^    bits, bitS, bitd, bitD, bitr, bitR, bitz, lastbit$/;"	e
+bitI	readcpu.h	/^    bit0, bit1, bitc, bitC, bitf, biti, bitI, bitj, bitJ, $/;"	e
+bitJ	readcpu.h	/^    bit0, bit1, bitc, bitC, bitf, biti, bitI, bitj, bitJ, $/;"	e
+bitR	readcpu.h	/^    bits, bitS, bitd, bitD, bitr, bitR, bitz, lastbit$/;"	e
+bitS	readcpu.h	/^    bits, bitS, bitd, bitD, bitr, bitR, bitz, lastbit$/;"	e
+bitc	readcpu.h	/^    bit0, bit1, bitc, bitC, bitf, biti, bitI, bitj, bitJ, $/;"	e
+bitd	readcpu.h	/^    bits, bitS, bitd, bitD, bitr, bitR, bitz, lastbit$/;"	e
+bitf	readcpu.h	/^    bit0, bit1, bitc, bitC, bitf, biti, bitI, bitj, bitJ, $/;"	e
+biti	readcpu.h	/^    bit0, bit1, bitc, bitC, bitf, biti, bitI, bitj, bitJ, $/;"	e
+bitj	readcpu.h	/^    bit0, bit1, bitc, bitC, bitf, biti, bitI, bitj, bitJ, $/;"	e
+bitpos	readcpu.h	/^    char bitpos[16];$/;"	m	struct:instr_def
+bitr	readcpu.h	/^    bits, bitS, bitd, bitD, bitr, bitR, bitz, lastbit$/;"	e
+bits	readcpu.h	/^    UWORD bits;$/;"	m	struct:instr_def
+bits	readcpu.h	/^    bits, bitS, bitd, bitD, bitr, bitR, bitz, lastbit$/;"	e
+bitvals	readcpu.h	/^} bitvals;$/;"	t
+bitz	readcpu.h	/^    bits, bitS, bitd, bitD, bitr, bitR, bitz, lastbit$/;"	e
+bput	memory.c	121;"	d	file:
+breakAdr	ti_main.c	/^ULONG breakAdr[16];$/;"	v
+breakPoints	ti_main.c	/^int breakPoints = 0;$/;"	v
+breakSave	ti_main.c	/^UWORD breakSave[16];$/;"	v
+broken_in	newcpu.c	/^int broken_in;$/;"	v
+build_insn	readcpu.c	/^static void build_insn(int insn)$/;"	f	file:
+buserr	memory.c	/^int buserr = 0;$/;"	v
+bwl_str	memory.c	/^char * bwl_str[] = {"byte", "word", "long"};$/;"	v
+byteAvail	hardware.c	/^int byteAvail = 0;$/;"	v
+c	newcpu.h	/^        char c;$/;"	m	struct:flagu::<anonymous>
+caar	newcpu.c	/^static int caar, cacr;$/;"	v	file:
+cacr	newcpu.c	/^static int caar, cacr;$/;"	v	file:
+calibrate_pcounter	newcpu.c	/^void calibrate_pcounter(void) {$/;"	f
+cc	readcpu.h	/^    unsigned char cc:4;$/;"	m	struct:instr
+ccnames	newcpu.c	/^static char* ccnames[] =$/;"	v	file:
+cctrue	newcpu.h	/^static __inline__ int cctrue(const int cc)$/;"	f
+cfgFile	globinfo.h	/^  char cfgFile[128];$/;"	m	struct:GlobalInformation
+cleanup_output	psp_main.c	/^static void cleanup_output(void)$/;"	f	file:
+clock_values	psp_menu.c	/^static int clock_values[MAX_CLOCK_VALUES] = { 133, 222, 266, 300, 333 };$/;"	v	file:
+cmpFile	psp_fmgr.c	/^cmpFile(struct SceIoDirent *a, struct SceIoDirent *b)$/;"	f	file:
+code	psp_kbd.h	/^    int                  code;$/;"	m	struct:ti92_button_t
+contrast	psp_specific.c	/^int contrast = 16;$/;"	v
+convtab	psp_specific.c	/^int convtab[512];$/;"	v
+count	packets.c	/^int count=0;$/;"	v
+cpufunctbl	newcpu.c	/^cpuop_func *cpufunctbl[65536];$/;"	v
+cpuop_func	newcpu.h	/^typedef void cpuop_func(ULONG);$/;"	t
+cputbl	newcpu.h	/^struct cputbl {$/;"	s
+cur_menu_id	psp_menu.c	/^  static int cur_menu_id = MENU_LOAD_PRG;$/;"	v	file:
+cur_menu_id	psp_menu_kbd.c	/^  static int cur_menu_id = MENU_KBD_LOAD;$/;"	v	file:
+currIntLev	newcpu.c	/^int currIntLev = -1;$/;"	v
+currPlane	psp_specific.c	/^int currPlane = 0;$/;"	v
+cycleDiff	newcpu.c	/^unsigned long cycleDiff = 0;$/;"	v
+cycleInstr	hardware.c	/^int cycleInstr = 640;$/;"	v
+cycleRate	globinfo.h	/^  ULONG cycleRate;$/;"	m	struct:GlobalInformation
+cycleRate	newcpu.c	/^unsigned long cycleRate = 0;$/;"	v
+cycle_count	hardware.c	/^int cycle_count = 0;$/;"	v
+d	newcpu.h	/^    ULONG d[8];$/;"	m	struct:regstruct
+danzeff_change_skin	psp_danzeff.c	/^danzeff_change_skin()$/;"	f
+danzeff_dirty	psp_danzeff.c	/^danzeff_dirty()$/;"	f
+danzeff_free	psp_danzeff.c	/^danzeff_free()$/;"	f
+danzeff_init_skin	psp_danzeff.c	/^danzeff_init_skin()$/;"	f
+danzeff_isinitialized	psp_danzeff.c	/^danzeff_isinitialized()$/;"	f
+danzeff_load	psp_danzeff.c	/^danzeff_load()$/;"	f
+danzeff_mode	psp_kbd.c	/^ static int danzeff_mode        = 0;$/;"	v	file:
+danzeff_moveTo	psp_danzeff.c	/^danzeff_moveTo(const int newX, const int newY)$/;"	f
+danzeff_readInput	psp_danzeff.c	/^danzeff_readInput(SceCtrlData pspctrl)$/;"	f
+danzeff_render	psp_danzeff.c	/^danzeff_render()$/;"	f
+danzeff_screen	psp_danzeff.c	/^static SDL_Surface* danzeff_screen;$/;"	v	file:
+danzeff_screen_rect	psp_danzeff.c	/^static SDL_Rect danzeff_screen_rect;$/;"	v	file:
+danzeff_set_screen	psp_danzeff.c	/^danzeff_set_screen(SDL_Surface* screen)$/;"	f
+danzeff_ti92_key	psp_kbd.c	/^ static int danzeff_ti92_key     = 0;$/;"	v	file:
+danzeff_ti92_pending	psp_kbd.c	/^ static int danzeff_ti92_pending = 0;$/;"	v	file:
+darkCol	globinfo.h	/^  ULONG darkCol;$/;"	m	struct:GlobalInformation
+dataSize	packets.c	/^int dataSize = 0;$/;"	v
+defs68k	cpudefs.c	/^struct instr_def defs68k[] = {$/;"	v
+delayTime	newcpu.c	/^int delayTime = 0;$/;"	v
+devFile	globinfo.h	/^  char devFile[128];$/;"	m	struct:GlobalInformation
+dfc	newcpu.h	/^    ULONG vbr,sfc,dfc;$/;"	m	struct:regstruct
+dirPtr	packets.c	/^tifile *dirPtr = NULL;$/;"	v
+dirty	psp_danzeff.c	/^static \/*bool*\/ int dirty = true;        \/\/keyboard needs redrawing$/;"	v	file:
+dmode	readcpu.h	/^    amodes dmode;$/;"	m	struct:instr
+do_cycles	hardware.h	/^static inline void do_cycles(void) {$/;"	f
+do_merges	readcpu.c	/^void do_merges ()$/;"	f
+do_period	hardware.c	/^do_period() $/;"	f
+dontSaveState	ti_main.c	/^int dontSaveState = 1;$/;"	v
+dpos	readcpu.h	/^    signed char dpos;$/;"	m	struct:instr
+dreg	readcpu.h	/^    unsigned char dreg;$/;"	m	struct:instr
+duse	readcpu.h	/^    unsigned char duse:1;$/;"	m	struct:instr
+exit_hardware	hardware.c	/^void exit_hardware(void) {$/;"	f
+exit_specific	psp_specific.c	/^exit_specific(void) $/;"	f
+false	psp_danzeff.c	8;"	d	file:
+fargo_core	core.h	/^unsigned char fargo_core[] = {$/;"	v
+fast_cycle	hardware.c	/^int fast_cycle = 0;$/;"	v
+fast_memcmp	options.h	35;"	d
+files	psp_fmgr.c	/^static struct SceIoDirent files[PSP_FMGR_MAX_ENTRY];$/;"	v	file:
+filter	psp_specific.c	97;"	d	file:
+first_time_batt_stamp	psp_kbd.c	/^ static long           first_time_batt_stamp = -1;$/;"	v	file:
+first_time_stamp	psp_kbd.c	/^ static long           first_time_stamp = -1;$/;"	v	file:
+flags	newcpu.h	/^    } flags;$/;"	m	union:flagu
+flagtype	newcpu.h	/^typedef char flagtype; $/;"	t
+flagu	newcpu.h	/^union flagu {$/;"	u
+generic_memcmpy	options.h	/^static __inline__ int generic_memcmpy(void *foo, const void *bar, int len)$/;"	f
+getDir	psp_fmgr.c	/^getDir(const char *path) $/;"	f	file:
+get_byte	memory.c	/^UBYTE get_byte(CPTR adr) {$/;"	f
+get_disp_ea	newcpu.h	/^static __inline__ ULONG get_disp_ea (ULONG base, UWORD dp)$/;"	f
+get_long	memory.c	/^ULONG get_long(CPTR adr) {$/;"	f
+get_no_mismatches	readcpu.c	/^int get_no_mismatches ()$/;"	f
+get_real_address	memory.c	/^UBYTE *get_real_address(CPTR adr) {$/;"	f
+get_rowmask	keyboard.c	/^UBYTE get_rowmask(UBYTE r) {$/;"	f
+get_word	memory.c	/^UWORD get_word(CPTR adr) {$/;"	f
+globInf	ti_main.c	/^struct GlobalInformation globInf;$/;"	v
+grayPlanes	globinfo.h	/^  int grayPlanes;$/;"	m	struct:GlobalInformation
+grayPlanes	psp_specific.c	/^int grayPlanes = 2;$/;"	v
+guiStrings	psp_danzeff.c	/^static char *guiStrings[] = $/;"	v	file:
+guiStringsSize	psp_danzeff.c	29;"	d	file:
+handle_merges	readcpu.c	/^static void handle_merges(long int opcode)$/;"	f	file:
+handler	newcpu.h	/^    cpuop_func *handler;$/;"	m	struct:cputbl
+handler	readcpu.h	/^    long int handler;$/;"	m	struct:instr
+hard_reset_emulator	ti_main.c	/^hard_reset_emulator()$/;"	f
+highCnt	newcpu.c	/^unsigned long highCnt;$/;"	v
+holding	psp_danzeff.c	/^static \/*bool*\/ int holding = false;     \/\/user is holding a button$/;"	v	file:
+i_ABCD	readcpu.h	/^    i_ADD, i_ADDA, i_ADDX, i_ABCD,$/;"	e
+i_ADD	readcpu.h	/^    i_ADD, i_ADDA, i_ADDX, i_ABCD,$/;"	e
+i_ADDA	readcpu.h	/^    i_ADD, i_ADDA, i_ADDX, i_ABCD,$/;"	e
+i_ADDX	readcpu.h	/^    i_ADD, i_ADDA, i_ADDX, i_ABCD,$/;"	e
+i_AND	readcpu.h	/^    i_OR, i_AND, i_EOR, i_ORSR, i_ANDSR, i_EORSR, $/;"	e
+i_ANDSR	readcpu.h	/^    i_OR, i_AND, i_EOR, i_ORSR, i_ANDSR, i_EORSR, $/;"	e
+i_ASL	readcpu.h	/^    i_ASR, i_ASL, i_LSR, i_LSL, i_ROL, i_ROR, i_ROXL, i_ROXR,$/;"	e
+i_ASLW	readcpu.h	/^    i_ASRW, i_ASLW, i_LSRW, i_LSLW, i_ROLW, i_RORW, i_ROXLW, i_ROXRW,$/;"	e
+i_ASR	readcpu.h	/^    i_ASR, i_ASL, i_LSR, i_LSL, i_ROL, i_ROR, i_ROXL, i_ROXR,$/;"	e
+i_ASRW	readcpu.h	/^    i_ASRW, i_ASLW, i_LSRW, i_LSLW, i_ROLW, i_RORW, i_ROXLW, i_ROXRW,$/;"	e
+i_BCHG	readcpu.h	/^    i_BTST, i_BCHG, i_BCLR, i_BSET,$/;"	e
+i_BCLR	readcpu.h	/^    i_BTST, i_BCHG, i_BCLR, i_BSET,$/;"	e
+i_BSET	readcpu.h	/^    i_BTST, i_BCHG, i_BCLR, i_BSET,$/;"	e
+i_BSR	readcpu.h	/^    i_JSR, i_JMP, i_BSR, i_Bcc,$/;"	e
+i_BTST	readcpu.h	/^    i_BTST, i_BCHG, i_BCLR, i_BSET,$/;"	e
+i_Bcc	readcpu.h	/^    i_JSR, i_JMP, i_BSR, i_Bcc,$/;"	e
+i_CAS	readcpu.h	/^    i_MOVEC2, i_MOVE2C, i_CAS, i_DIVL, i_MULL$/;"	e
+i_CHK	readcpu.h	/^    i_CHK,$/;"	e
+i_CLR	readcpu.h	/^    i_NEG, i_NEGX, i_NBCD, i_CLR, i_NOT, i_TST,$/;"	e
+i_CMP	readcpu.h	/^    i_CMP, i_CMPM, i_CMPA, $/;"	e
+i_CMPA	readcpu.h	/^    i_CMP, i_CMPM, i_CMPA, $/;"	e
+i_CMPM	readcpu.h	/^    i_CMP, i_CMPM, i_CMPA, $/;"	e
+i_DBcc	readcpu.h	/^    i_LEA, i_PEA, i_DBcc, i_Scc,$/;"	e
+i_DIVL	readcpu.h	/^    i_MOVEC2, i_MOVE2C, i_CAS, i_DIVL, i_MULL$/;"	e
+i_DIVS	readcpu.h	/^    i_DIVU, i_DIVS, i_MULU, i_MULS, $/;"	e
+i_DIVU	readcpu.h	/^    i_DIVU, i_DIVS, i_MULU, i_MULS, $/;"	e
+i_EOR	readcpu.h	/^    i_OR, i_AND, i_EOR, i_ORSR, i_ANDSR, i_EORSR, $/;"	e
+i_EORSR	readcpu.h	/^    i_OR, i_AND, i_EOR, i_ORSR, i_ANDSR, i_EORSR, $/;"	e
+i_EXG	readcpu.h	/^    i_SWAP, i_EXG, i_EXT, i_MVMEL, i_MVMLE, $/;"	e
+i_EXT	readcpu.h	/^    i_SWAP, i_EXG, i_EXT, i_MVMEL, i_MVMLE, $/;"	e
+i_ILLG	readcpu.h	/^    i_ILLG,$/;"	e
+i_JMP	readcpu.h	/^    i_JSR, i_JMP, i_BSR, i_Bcc,$/;"	e
+i_JSR	readcpu.h	/^    i_JSR, i_JMP, i_BSR, i_Bcc,$/;"	e
+i_LEA	readcpu.h	/^    i_LEA, i_PEA, i_DBcc, i_Scc,$/;"	e
+i_LINK	readcpu.h	/^    i_LINK, i_UNLK, $/;"	e
+i_LSL	readcpu.h	/^    i_ASR, i_ASL, i_LSR, i_LSL, i_ROL, i_ROR, i_ROXL, i_ROXR,$/;"	e
+i_LSLW	readcpu.h	/^    i_ASRW, i_ASLW, i_LSRW, i_LSLW, i_ROLW, i_RORW, i_ROXLW, i_ROXRW,$/;"	e
+i_LSR	readcpu.h	/^    i_ASR, i_ASL, i_LSR, i_LSL, i_ROL, i_ROR, i_ROXL, i_ROXR,$/;"	e
+i_LSRW	readcpu.h	/^    i_ASRW, i_ASLW, i_LSRW, i_LSLW, i_ROLW, i_RORW, i_ROXLW, i_ROXRW,$/;"	e
+i_MOVE	readcpu.h	/^    i_MVPRM, i_MVPMR, i_MOVE, i_MOVEA, i_MVSR2, i_MV2SR, $/;"	e
+i_MOVE2C	readcpu.h	/^    i_MOVEC2, i_MOVE2C, i_CAS, i_DIVL, i_MULL$/;"	e
+i_MOVEA	readcpu.h	/^    i_MVPRM, i_MVPMR, i_MOVE, i_MOVEA, i_MVSR2, i_MV2SR, $/;"	e
+i_MOVEC2	readcpu.h	/^    i_MOVEC2, i_MOVE2C, i_CAS, i_DIVL, i_MULL$/;"	e
+i_MULL	readcpu.h	/^    i_MOVEC2, i_MOVE2C, i_CAS, i_DIVL, i_MULL$/;"	e
+i_MULS	readcpu.h	/^    i_DIVU, i_DIVS, i_MULU, i_MULS, $/;"	e
+i_MULU	readcpu.h	/^    i_DIVU, i_DIVS, i_MULU, i_MULS, $/;"	e
+i_MV2SR	readcpu.h	/^    i_MVPRM, i_MVPMR, i_MOVE, i_MOVEA, i_MVSR2, i_MV2SR, $/;"	e
+i_MVMEL	readcpu.h	/^    i_SWAP, i_EXG, i_EXT, i_MVMEL, i_MVMLE, $/;"	e
+i_MVMLE	readcpu.h	/^    i_SWAP, i_EXG, i_EXT, i_MVMEL, i_MVMLE, $/;"	e
+i_MVPMR	readcpu.h	/^    i_MVPRM, i_MVPMR, i_MOVE, i_MOVEA, i_MVSR2, i_MV2SR, $/;"	e
+i_MVPRM	readcpu.h	/^    i_MVPRM, i_MVPMR, i_MOVE, i_MOVEA, i_MVSR2, i_MV2SR, $/;"	e
+i_MVR2USP	readcpu.h	/^    i_TRAP, i_MVR2USP, i_MVUSP2R, i_RESET, i_NOP, i_STOP, i_RTE, i_RTD, $/;"	e
+i_MVSR2	readcpu.h	/^    i_MVPRM, i_MVPMR, i_MOVE, i_MOVEA, i_MVSR2, i_MV2SR, $/;"	e
+i_MVUSP2R	readcpu.h	/^    i_TRAP, i_MVR2USP, i_MVUSP2R, i_RESET, i_NOP, i_STOP, i_RTE, i_RTD, $/;"	e
+i_NBCD	readcpu.h	/^    i_NEG, i_NEGX, i_NBCD, i_CLR, i_NOT, i_TST,$/;"	e
+i_NEG	readcpu.h	/^    i_NEG, i_NEGX, i_NBCD, i_CLR, i_NOT, i_TST,$/;"	e
+i_NEGX	readcpu.h	/^    i_NEG, i_NEGX, i_NBCD, i_CLR, i_NOT, i_TST,$/;"	e
+i_NOP	readcpu.h	/^    i_TRAP, i_MVR2USP, i_MVUSP2R, i_RESET, i_NOP, i_STOP, i_RTE, i_RTD, $/;"	e
+i_NOT	readcpu.h	/^    i_NEG, i_NEGX, i_NBCD, i_CLR, i_NOT, i_TST,$/;"	e
+i_OR	readcpu.h	/^    i_OR, i_AND, i_EOR, i_ORSR, i_ANDSR, i_EORSR, $/;"	e
+i_ORSR	readcpu.h	/^    i_OR, i_AND, i_EOR, i_ORSR, i_ANDSR, i_EORSR, $/;"	e
+i_PEA	readcpu.h	/^    i_LEA, i_PEA, i_DBcc, i_Scc,$/;"	e
+i_RESET	readcpu.h	/^    i_TRAP, i_MVR2USP, i_MVUSP2R, i_RESET, i_NOP, i_STOP, i_RTE, i_RTD, $/;"	e
+i_ROL	readcpu.h	/^    i_ASR, i_ASL, i_LSR, i_LSL, i_ROL, i_ROR, i_ROXL, i_ROXR,$/;"	e
+i_ROLW	readcpu.h	/^    i_ASRW, i_ASLW, i_LSRW, i_LSLW, i_ROLW, i_RORW, i_ROXLW, i_ROXRW,$/;"	e
+i_ROR	readcpu.h	/^    i_ASR, i_ASL, i_LSR, i_LSL, i_ROL, i_ROR, i_ROXL, i_ROXR,$/;"	e
+i_RORW	readcpu.h	/^    i_ASRW, i_ASLW, i_LSRW, i_LSLW, i_ROLW, i_RORW, i_ROXLW, i_ROXRW,$/;"	e
+i_ROXL	readcpu.h	/^    i_ASR, i_ASL, i_LSR, i_LSL, i_ROL, i_ROR, i_ROXL, i_ROXR,$/;"	e
+i_ROXLW	readcpu.h	/^    i_ASRW, i_ASLW, i_LSRW, i_LSLW, i_ROLW, i_RORW, i_ROXLW, i_ROXRW,$/;"	e
+i_ROXR	readcpu.h	/^    i_ASR, i_ASL, i_LSR, i_LSL, i_ROL, i_ROR, i_ROXL, i_ROXR,$/;"	e
+i_ROXRW	readcpu.h	/^    i_ASRW, i_ASLW, i_LSRW, i_LSLW, i_ROLW, i_RORW, i_ROXLW, i_ROXRW,$/;"	e
+i_RTD	readcpu.h	/^    i_TRAP, i_MVR2USP, i_MVUSP2R, i_RESET, i_NOP, i_STOP, i_RTE, i_RTD, $/;"	e
+i_RTE	readcpu.h	/^    i_TRAP, i_MVR2USP, i_MVUSP2R, i_RESET, i_NOP, i_STOP, i_RTE, i_RTD, $/;"	e
+i_RTR	readcpu.h	/^    i_RTS, i_TRAPV, i_RTR, $/;"	e
+i_RTS	readcpu.h	/^    i_RTS, i_TRAPV, i_RTR, $/;"	e
+i_SBCD	readcpu.h	/^    i_SUB, i_SUBA, i_SUBX, i_SBCD, $/;"	e
+i_STOP	readcpu.h	/^    i_TRAP, i_MVR2USP, i_MVUSP2R, i_RESET, i_NOP, i_STOP, i_RTE, i_RTD, $/;"	e
+i_SUB	readcpu.h	/^    i_SUB, i_SUBA, i_SUBX, i_SBCD, $/;"	e
+i_SUBA	readcpu.h	/^    i_SUB, i_SUBA, i_SUBX, i_SBCD, $/;"	e
+i_SUBX	readcpu.h	/^    i_SUB, i_SUBA, i_SUBX, i_SBCD, $/;"	e
+i_SWAP	readcpu.h	/^    i_SWAP, i_EXG, i_EXT, i_MVMEL, i_MVMLE, $/;"	e
+i_Scc	readcpu.h	/^    i_LEA, i_PEA, i_DBcc, i_Scc,$/;"	e
+i_TRAP	readcpu.h	/^    i_TRAP, i_MVR2USP, i_MVUSP2R, i_RESET, i_NOP, i_STOP, i_RTE, i_RTD, $/;"	e
+i_TRAPV	readcpu.h	/^    i_RTS, i_TRAPV, i_RTR, $/;"	e
+i_TST	readcpu.h	/^    i_NEG, i_NEGX, i_NBCD, i_CLR, i_NOT, i_TST,$/;"	e
+i_UNLK	readcpu.h	/^    i_LINK, i_UNLK, $/;"	e
+imm	readcpu.h	/^  absw, absl, PC16, PC8r, imm, imm0, imm1, imm2, immi, am_unknown, am_illg$/;"	e
+imm0	readcpu.h	/^  absw, absl, PC16, PC8r, imm, imm0, imm1, imm2, immi, am_unknown, am_illg$/;"	e
+imm1	readcpu.h	/^  absw, absl, PC16, PC8r, imm, imm0, imm1, imm2, immi, am_unknown, am_illg$/;"	e
+imm2	readcpu.h	/^  absw, absl, PC16, PC8r, imm, imm0, imm1, imm2, immi, am_unknown, am_illg$/;"	e
+imm8_table	newcpu.c	/^int imm8_table[] = { 8,1,2,3,4,5,6,7 };$/;"	v
+immi	readcpu.h	/^  absw, absl, PC16, PC8r, imm, imm0, imm1, imm2, immi, am_unknown, am_illg$/;"	e
+inBuffer	packets.c	/^UBYTE *inBuffer;$/;"	v
+inBytes	packets.c	/^int inBytes = 0;$/;"	v
+init_hardware	hardware.c	/^void init_hardware(char *name) {$/;"	f
+init_keyboard	keyboard.c	/^void init_keyboard(void) {$/;"	f
+init_m68k	newcpu.c	/^void init_m68k (void)$/;"	f
+init_protocol	packets.c	/^int init_protocol(void) {$/;"	f
+init_specific	psp_specific.c	/^init_specific(void) $/;"	f
+initialized	psp_danzeff.c	/^static \/*bool*\/ int initialized = false; \/\/keyboard is initialized$/;"	v	file:
+instr	readcpu.h	/^typedef struct instr {$/;"	s
+instr_def	readcpu.h	/^struct instr_def {$/;"	s
+instrmnem	readcpu.h	/^} instrmnem;$/;"	t
+intel_flag_lookup	newcpu.c	/^union flagu intel_flag_lookup[256];$/;"	v
+internalLink	hardware.c	/^int internalLink = 0;$/;"	v
+intlev	newcpu.c	/^int intlev(void) {$/;"	f
+intlink	ti_main.c	/^int intlink = 0;$/;"	v
+intmask	newcpu.h	/^    int intmask;$/;"	m	struct:regstruct
+io_get_byte	memory.c	/^UBYTE io_get_byte(CPTR adr) {$/;"	f
+io_get_long	memory.c	/^ULONG io_get_long(CPTR adr) {$/;"	f
+io_get_word	memory.c	/^UWORD io_get_word(CPTR adr) {$/;"	f
+io_put_byte	memory.c	/^void io_put_byte(CPTR adr, UBYTE arg) {$/;"	f
+io_put_long	memory.c	/^void io_put_long(CPTR adr, ULONG arg) {$/;"	f
+io_put_word	memory.c	/^void io_put_word(CPTR adr, UWORD arg) {$/;"	f
+irkeyb_ti92_key	psp_kbd.c	/^ static int irkeyb_ti92_key     = 0;$/;"	v	file:
+irkeyb_ti92_pending	psp_kbd.c	/^ static int irkeyb_ti92_pending = 0;$/;"	v	file:
+itick	globinfo.h	/^  int itick;$/;"	m	struct:GlobalInformation
+kbd_get_analog_direction	psp_kbd.c	/^kbd_get_analog_direction(int Analog_x, int Analog_y, int *x, int *y)$/;"	f
+kbd_layout	psp_kbd.c	/^  int kbd_layout[KBD_MAX_ENTRIES][2] = {$/;"	v
+kbd_ltrigger_mapping_active	psp_kbd.c	/^ int kbd_ltrigger_mapping_active;$/;"	v
+kbd_rtrigger_mapping_active	psp_kbd.c	/^ int kbd_rtrigger_mapping_active;$/;"	v
+kbd_scan_keyboard	psp_kbd.c	/^kbd_scan_keyboard(void)$/;"	f
+kbd_wait_start	psp_kbd.c	/^kbd_wait_start(void)$/;"	f
+keyBits	psp_danzeff.c	/^static SDL_Surface* keyBits[guiStringsSize];$/;"	v	file:
+keyRow	keyboard.c	/^int keyRow[10][8] =$/;"	v
+keyStates	psp_kbd.c	/^  UBYTE keyStates[120];$/;"	v
+keyWasPressed	psp_kbd.c	/^  volatile int keyWasPressed;$/;"	v
+lastByte	hardware.c	/^UBYTE lastByte;$/;"	v
+lastPacketPos	packets.c	/^int lastPacketPos = 0;$/;"	v
+lastTime	newcpu.c	/^unsigned long lastTime = 0;$/;"	v
+lastbit	readcpu.h	/^    bits, bitS, bitd, bitD, bitr, bitR, bitz, lastbit$/;"	e
+lastc	psp_specific.c	/^int lastc = 0;$/;"	v
+lget	memory.c	127;"	d	file:
+lightCol	globinfo.h	/^  ULONG lightCol;$/;"	m	struct:GlobalInformation
+linkFPr	hardware.c	/^int linkFPr = -1;$/;"	v
+linkFPw	hardware.c	/^int linkFPw = -1;$/;"	v
+linkReadName	hardware.c	/^char linkReadName[64] = "\/dev\/ti";$/;"	v
+linkWriteName	hardware.c	/^char linkWriteName[64] = "\/dev\/ti";$/;"	v
+link_byteavail	hardware.c	/^int link_byteavail(void) {$/;"	f
+link_checkread	hardware.c	/^int link_checkread(void) {$/;"	f
+link_getbyte	hardware.c	/^UBYTE link_getbyte(void) {$/;"	f
+link_progress	psp_specific.c	/^link_progress(int type, char *name, int size) $/;"	f
+link_putbyte	hardware.c	/^void link_putbyte(UBYTE arg) {$/;"	f
+loc_CurrEventButtons	pspsdk_linux.c	/^static int    loc_CurrEventButtons = 0;$/;"	v	file:
+loc_CurrEventMask	pspsdk_linux.c	/^static int    loc_CurrEventMask    = 0;$/;"	v	file:
+loc_CurrTimeStamp	pspsdk_linux.c	/^static u32    loc_CurrTimeStamp    = 0;$/;"	v	file:
+loc_LastEventMask	pspsdk_linux.c	/^static int    loc_LastEventMask    = 0;$/;"	v	file:
+loc_LastTimeStamp	pspsdk_linux.c	/^static u32    loc_LastTimeStamp    = 0;$/;"	v	file:
+loc_PutImage	psp_specific.c	/^loc_PutImage(void)$/;"	f	file:
+loc_PutImage_max	psp_specific.c	/^loc_PutImage_max()$/;"	f	file:
+loc_batt_str	psp_battery.c	/^static char loc_batt_str[128];$/;"	v	file:
+loc_button_data	psp_kbd.c	/^ static SceCtrlData    loc_button_data;$/;"	v	file:
+loc_button_mask	psp_kbd.c	/^ static unsigned int   loc_button_mask[ KBD_MAX_BUTTONS ] =$/;"	v	file:
+loc_button_name	psp_kbd.c	/^  static char loc_button_name[ KBD_ALL_BUTTONS ][10] =$/;"	v	file:
+loc_button_name_L	psp_kbd.c	/^ static char loc_button_name_L[ KBD_ALL_BUTTONS ][20] =$/;"	v	file:
+loc_button_name_R	psp_kbd.c	/^  static char loc_button_name_R[ KBD_ALL_BUTTONS ][20] =$/;"	v	file:
+loc_button_press	psp_kbd.c	/^ static char           loc_button_press[ KBD_MAX_BUTTONS ]; $/;"	v	file:
+loc_button_release	psp_kbd.c	/^ static char           loc_button_release[ KBD_MAX_BUTTONS ]; $/;"	v	file:
+loc_default_mapping	psp_kbd.c	/^ static int loc_default_mapping[ KBD_ALL_BUTTONS ] = {$/;"	v	file:
+loc_default_mapping_L	psp_kbd.c	/^ static int loc_default_mapping_L[ KBD_ALL_BUTTONS ] = {$/;"	v	file:
+loc_default_mapping_R	psp_kbd.c	/^ static int loc_default_mapping_R[ KBD_ALL_BUTTONS ] = {$/;"	v	file:
+loc_irkbd_buffer	psp_irkeyb.c	/^ static u8  loc_irkbd_buffer[ 512 ];$/;"	v	file:
+loc_irkbd_current	psp_irkeyb.c	/^ static int loc_irkbd_current = 0;$/;"	v	file:
+loc_irkbd_inc_step	psp_irkeyb.c	/^ static int loc_irkbd_inc_step = 0;$/;"	v	file:
+loc_irkbd_length	psp_irkeyb.c	/^ static int loc_irkbd_length  = 0;$/;"	v	file:
+loc_kbd_mapping	psp_menu_kbd.c	/^  static int loc_kbd_mapping[ KBD_ALL_BUTTONS ];$/;"	v	file:
+loc_kbd_mapping_L	psp_menu_kbd.c	/^  static int loc_kbd_mapping_L[ KBD_ALL_BUTTONS ];$/;"	v	file:
+loc_kbd_mapping_R	psp_menu_kbd.c	/^  static int loc_kbd_mapping_R[ KBD_ALL_BUTTONS ];$/;"	v	file:
+loc_last_event_time	psp_kbd.c	/^ static unsigned int   loc_last_event_time = 0;$/;"	v	file:
+loc_last_irkbd_event_time	psp_kbd.c	/^ static unsigned int   loc_last_irkbd_event_time = 0;$/;"	v	file:
+loc_lcd_background	psp_specific.c	/^static u32 loc_lcd_background = 0;$/;"	v	file:
+loc_lcd_foreground	psp_specific.c	/^static u32 loc_lcd_foreground = 0;$/;"	v	file:
+loc_psp_debug	psp_sdl.c	/^loc_psp_debug(char *file, int line, char *message)$/;"	f
+loc_psp_irkeyb_mode	psp_irkeyb.c	/^  static int loc_psp_irkeyb_mode = 0;$/;"	v	file:
+loc_psp_irkeyb_read_key	psp_irkeyb.c	/^loc_psp_irkeyb_read_key()$/;"	f	file:
+logFP	memory.c	/^FILE *logFP = NULL;$/;"	v
+log_mem	memory.c	/^void log_mem(CPTR adr, int size, int rw, int arg) {$/;"	f
+longflags	newcpu.h	/^    ULONG longflags;$/;"	m	union:flagu
+lookuptab	readcpu.c	/^struct mnemolookup lookuptab[] = {$/;"	v
+lput	memory.c	123;"	d	file:
+m68k_divl	newcpu.c	/^extern void m68k_divl (UWORD opcode, ULONG src, UWORD extra)$/;"	f
+m68k_getpc	newcpu.h	/^static __inline__ CPTR m68k_getpc(void)$/;"	f
+m68k_move2c	newcpu.c	/^void m68k_move2c (int regno, ULONG *regp)$/;"	f
+m68k_movec2	newcpu.c	/^void m68k_movec2 (int regno, ULONG *regp)$/;"	f
+m68k_mull	newcpu.c	/^extern void m68k_mull (UWORD opcode, ULONG src, UWORD extra)$/;"	f
+m68k_setpc	newcpu.h	/^static __inline__ void m68k_setpc(CPTR newpc)$/;"	f
+m68k_setstopped	newcpu.h	/^static __inline__ void m68k_setstopped(int stop)$/;"	f
+main	psp_main.c	/^main(int argc, char *argv[])$/;"	f
+main	psp_main.c	131;"	d	file:
+mask	readcpu.h	/^    UWORD mask;$/;"	m	struct:instr_def
+matrixCols	keyboard.c	/^UBYTE matrixCols[120];$/;"	v
+matrixRows	keyboard.c	/^UBYTE matrixRows[120];$/;"	v
+memFile	globinfo.h	/^  char memFile[128];$/;"	m	struct:GlobalInformation
+memSize	globinfo.h	/^  int memSize;$/;"	m	struct:GlobalInformation
+mem_exit	memory.c	/^void mem_exit(void) {$/;"	f
+mem_init	memory.c	/^int mem_init(int msize, int rsize) {$/;"	f
+mem_mask	memory.c	/^ULONG mem_mask[8] = {0,0,0,0,0,0,0,0};$/;"	v
+mem_tab	memory.c	/^UBYTE * mem_tab[8] = {0,0,0,0,0,0,0,0};$/;"	v
+memcmpy	options.h	36;"	d
+menu_item_t	psp_menu.h	/^  typedef struct menu_item_t {$/;"	s
+menu_item_t	psp_menu.h	/^  } menu_item_t;$/;"	t
+menu_kbd_selected	psp_menu_kbd.c	/^  int menu_kbd_selected = -1;$/;"	v
+menu_list	psp_menu.c	/^  static menu_item_t menu_list[] =$/;"	v	file:
+menu_list	psp_menu_kbd.c	/^  static menu_item_t menu_list[] =$/;"	v	file:
+meta	psp_kbd.h	/^    int                  meta;$/;"	m	struct:ti92_button_t
+mismatch	readcpu.c	/^static int mismatch;$/;"	v	file:
+mnemo	readcpu.h	/^    instrmnem mnemo;$/;"	m	struct:instr
+mnemo	readcpu.h	/^    instrmnem mnemo;$/;"	m	struct:mnemolookup
+mnemolookup	readcpu.h	/^extern struct mnemolookup {$/;"	s
+mode	psp_danzeff.c	/^static int mode = 0;             \/\/charset selected. (0 - letters or 1 - numbers)$/;"	v	file:
+modeChar	psp_danzeff.c	/^static unsigned char modeChar[MAX_VKEYBOARD][3][3][5] = $/;"	v	file:
+mode_from_mr	readcpu.c	/^static amodes mode_from_mr(int mode, int reg) $/;"	f	file:
+mode_from_str	readcpu.c	/^static amodes mode_from_str(const char *str)$/;"	f	file:
+moved_x	psp_danzeff.c	/^static int moved_x = 0, moved_y = 0; \/\/ location that we are moved to$/;"	v	file:
+moved_y	psp_danzeff.c	/^static int moved_x = 0, moved_y = 0; \/\/ location that we are moved to$/;"	v	file:
+my_sort	psp_fmgr.c	/^my_sort(struct SceIoDirent **a, int left, int right) $/;"	f	file:
+n	newcpu.h	/^        char n;$/;"	m	struct:flagu::<anonymous>
+n_defs68k	cpudefs.c	/^int n_defs68k = 122;$/;"	v
+n_variable	readcpu.h	/^    int n_variable;$/;"	m	struct:instr_def
+name	packets.h	/^  char name[10];$/;"	m
+name	psp_kbd.h	/^    char                *name;$/;"	m	struct:ti92_button_t
+name	readcpu.h	/^    const char *name;$/;"	m	struct:mnemolookup
+nextAction	packets.c	/^int nextAction = 0;$/;"	v
+nextilong	newcpu.h	/^static __inline__ ULONG nextilong(void)$/;"	f
+nextiword	newcpu.h	/^static __inline__ UWORD nextiword(void)$/;"	f
+nfiles	psp_fmgr.c	/^static int nfiles;$/;"	v	file:
+onKey	hardware.c	/^int onKey = 0;$/;"	v
+op_0	cpu0.c	/^void op_0(ULONG opcode)$/;"	f
+op_10	cpu0.c	/^void op_10(ULONG opcode)$/;"	f
+op_100	cpu0.c	/^void op_100(ULONG opcode)$/;"	f
+op_1000	cpu1.c	/^void op_1000(ULONG opcode)$/;"	f
+op_1010	cpu1.c	/^void op_1010(ULONG opcode)$/;"	f
+op_1018	cpu1.c	/^void op_1018(ULONG opcode)$/;"	f
+op_1020	cpu1.c	/^void op_1020(ULONG opcode)$/;"	f
+op_1028	cpu1.c	/^void op_1028(ULONG opcode)$/;"	f
+op_1030	cpu1.c	/^void op_1030(ULONG opcode)$/;"	f
+op_1038	cpu1.c	/^void op_1038(ULONG opcode)$/;"	f
+op_1039	cpu1.c	/^void op_1039(ULONG opcode)$/;"	f
+op_103a	cpu1.c	/^void op_103a(ULONG opcode)$/;"	f
+op_103b	cpu1.c	/^void op_103b(ULONG opcode)$/;"	f
+op_103c	cpu1.c	/^void op_103c(ULONG opcode)$/;"	f
+op_108	cpu0.c	/^void op_108(ULONG opcode)$/;"	f
+op_1080	cpu1.c	/^void op_1080(ULONG opcode)$/;"	f
+op_1090	cpu1.c	/^void op_1090(ULONG opcode)$/;"	f
+op_1098	cpu1.c	/^void op_1098(ULONG opcode)$/;"	f
+op_10a0	cpu1.c	/^void op_10a0(ULONG opcode)$/;"	f
+op_10a8	cpu1.c	/^void op_10a8(ULONG opcode)$/;"	f
+op_10b0	cpu1.c	/^void op_10b0(ULONG opcode)$/;"	f
+op_10b8	cpu1.c	/^void op_10b8(ULONG opcode)$/;"	f
+op_10b9	cpu1.c	/^void op_10b9(ULONG opcode)$/;"	f
+op_10ba	cpu1.c	/^void op_10ba(ULONG opcode)$/;"	f
+op_10bb	cpu1.c	/^void op_10bb(ULONG opcode)$/;"	f
+op_10bc	cpu1.c	/^void op_10bc(ULONG opcode)$/;"	f
+op_10c0	cpu1.c	/^void op_10c0(ULONG opcode)$/;"	f
+op_10d0	cpu1.c	/^void op_10d0(ULONG opcode)$/;"	f
+op_10d8	cpu1.c	/^void op_10d8(ULONG opcode)$/;"	f
+op_10e0	cpu1.c	/^void op_10e0(ULONG opcode)$/;"	f
+op_10e8	cpu1.c	/^void op_10e8(ULONG opcode)$/;"	f
+op_10f0	cpu1.c	/^void op_10f0(ULONG opcode)$/;"	f
+op_10f8	cpu1.c	/^void op_10f8(ULONG opcode)$/;"	f
+op_10f9	cpu1.c	/^void op_10f9(ULONG opcode)$/;"	f
+op_10fa	cpu1.c	/^void op_10fa(ULONG opcode)$/;"	f
+op_10fb	cpu1.c	/^void op_10fb(ULONG opcode)$/;"	f
+op_10fc	cpu1.c	/^void op_10fc(ULONG opcode)$/;"	f
+op_110	cpu0.c	/^void op_110(ULONG opcode)$/;"	f
+op_1100	cpu1.c	/^void op_1100(ULONG opcode)$/;"	f
+op_1110	cpu1.c	/^void op_1110(ULONG opcode)$/;"	f
+op_1118	cpu1.c	/^void op_1118(ULONG opcode)$/;"	f
+op_1120	cpu1.c	/^void op_1120(ULONG opcode)$/;"	f
+op_1128	cpu1.c	/^void op_1128(ULONG opcode)$/;"	f
+op_1130	cpu1.c	/^void op_1130(ULONG opcode)$/;"	f
+op_1138	cpu1.c	/^void op_1138(ULONG opcode)$/;"	f
+op_1139	cpu1.c	/^void op_1139(ULONG opcode)$/;"	f
+op_113a	cpu1.c	/^void op_113a(ULONG opcode)$/;"	f
+op_113b	cpu1.c	/^void op_113b(ULONG opcode)$/;"	f
+op_113c	cpu1.c	/^void op_113c(ULONG opcode)$/;"	f
+op_1140	cpu1.c	/^void op_1140(ULONG opcode)$/;"	f
+op_1150	cpu1.c	/^void op_1150(ULONG opcode)$/;"	f
+op_1158	cpu1.c	/^void op_1158(ULONG opcode)$/;"	f
+op_1160	cpu1.c	/^void op_1160(ULONG opcode)$/;"	f
+op_1168	cpu1.c	/^void op_1168(ULONG opcode)$/;"	f
+op_1170	cpu1.c	/^void op_1170(ULONG opcode)$/;"	f
+op_1178	cpu1.c	/^void op_1178(ULONG opcode)$/;"	f
+op_1179	cpu1.c	/^void op_1179(ULONG opcode)$/;"	f
+op_117a	cpu1.c	/^void op_117a(ULONG opcode)$/;"	f
+op_117b	cpu1.c	/^void op_117b(ULONG opcode)$/;"	f
+op_117c	cpu1.c	/^void op_117c(ULONG opcode)$/;"	f
+op_118	cpu0.c	/^void op_118(ULONG opcode)$/;"	f
+op_1180	cpu1.c	/^void op_1180(ULONG opcode)$/;"	f
+op_1190	cpu1.c	/^void op_1190(ULONG opcode)$/;"	f
+op_1198	cpu1.c	/^void op_1198(ULONG opcode)$/;"	f
+op_11a0	cpu1.c	/^void op_11a0(ULONG opcode)$/;"	f
+op_11a8	cpu1.c	/^void op_11a8(ULONG opcode)$/;"	f
+op_11b0	cpu1.c	/^void op_11b0(ULONG opcode)$/;"	f
+op_11b8	cpu1.c	/^void op_11b8(ULONG opcode)$/;"	f
+op_11b9	cpu1.c	/^void op_11b9(ULONG opcode)$/;"	f
+op_11ba	cpu1.c	/^void op_11ba(ULONG opcode)$/;"	f
+op_11bb	cpu1.c	/^void op_11bb(ULONG opcode)$/;"	f
+op_11bc	cpu1.c	/^void op_11bc(ULONG opcode)$/;"	f
+op_11c0	cpu1.c	/^void op_11c0(ULONG opcode)$/;"	f
+op_11d0	cpu1.c	/^void op_11d0(ULONG opcode)$/;"	f
+op_11d8	cpu1.c	/^void op_11d8(ULONG opcode)$/;"	f
+op_11e0	cpu1.c	/^void op_11e0(ULONG opcode)$/;"	f
+op_11e8	cpu1.c	/^void op_11e8(ULONG opcode)$/;"	f
+op_11f0	cpu1.c	/^void op_11f0(ULONG opcode)$/;"	f
+op_11f8	cpu1.c	/^void op_11f8(ULONG opcode)$/;"	f
+op_11f9	cpu1.c	/^void op_11f9(ULONG opcode)$/;"	f
+op_11fa	cpu1.c	/^void op_11fa(ULONG opcode)$/;"	f
+op_11fb	cpu1.c	/^void op_11fb(ULONG opcode)$/;"	f
+op_11fc	cpu1.c	/^void op_11fc(ULONG opcode)$/;"	f
+op_120	cpu0.c	/^void op_120(ULONG opcode)$/;"	f
+op_128	cpu0.c	/^void op_128(ULONG opcode)$/;"	f
+op_130	cpu0.c	/^void op_130(ULONG opcode)$/;"	f
+op_138	cpu0.c	/^void op_138(ULONG opcode)$/;"	f
+op_139	cpu0.c	/^void op_139(ULONG opcode)$/;"	f
+op_13a	cpu0.c	/^void op_13a(ULONG opcode)$/;"	f
+op_13b	cpu0.c	/^void op_13b(ULONG opcode)$/;"	f
+op_13c	cpu0.c	/^void op_13c(ULONG opcode)$/;"	f
+op_13c0	cpu1.c	/^void op_13c0(ULONG opcode)$/;"	f
+op_13d0	cpu1.c	/^void op_13d0(ULONG opcode)$/;"	f
+op_13d8	cpu1.c	/^void op_13d8(ULONG opcode)$/;"	f
+op_13e0	cpu1.c	/^void op_13e0(ULONG opcode)$/;"	f
+op_13e8	cpu1.c	/^void op_13e8(ULONG opcode)$/;"	f
+op_13f0	cpu1.c	/^void op_13f0(ULONG opcode)$/;"	f
+op_13f8	cpu1.c	/^void op_13f8(ULONG opcode)$/;"	f
+op_13f9	cpu1.c	/^void op_13f9(ULONG opcode)$/;"	f
+op_13fa	cpu1.c	/^void op_13fa(ULONG opcode)$/;"	f
+op_13fb	cpu1.c	/^void op_13fb(ULONG opcode)$/;"	f
+op_13fc	cpu1.c	/^void op_13fc(ULONG opcode)$/;"	f
+op_140	cpu0.c	/^void op_140(ULONG opcode)$/;"	f
+op_148	cpu0.c	/^void op_148(ULONG opcode)$/;"	f
+op_150	cpu0.c	/^void op_150(ULONG opcode)$/;"	f
+op_158	cpu0.c	/^void op_158(ULONG opcode)$/;"	f
+op_160	cpu0.c	/^void op_160(ULONG opcode)$/;"	f
+op_168	cpu0.c	/^void op_168(ULONG opcode)$/;"	f
+op_170	cpu0.c	/^void op_170(ULONG opcode)$/;"	f
+op_178	cpu0.c	/^void op_178(ULONG opcode)$/;"	f
+op_179	cpu0.c	/^void op_179(ULONG opcode)$/;"	f
+op_17a	cpu0.c	/^void op_17a(ULONG opcode)$/;"	f
+op_17b	cpu0.c	/^void op_17b(ULONG opcode)$/;"	f
+op_18	cpu0.c	/^void op_18(ULONG opcode)$/;"	f
+op_180	cpu0.c	/^void op_180(ULONG opcode)$/;"	f
+op_188	cpu0.c	/^void op_188(ULONG opcode)$/;"	f
+op_190	cpu0.c	/^void op_190(ULONG opcode)$/;"	f
+op_198	cpu0.c	/^void op_198(ULONG opcode)$/;"	f
+op_1a0	cpu0.c	/^void op_1a0(ULONG opcode)$/;"	f
+op_1a8	cpu0.c	/^void op_1a8(ULONG opcode)$/;"	f
+op_1b0	cpu0.c	/^void op_1b0(ULONG opcode)$/;"	f
+op_1b8	cpu0.c	/^void op_1b8(ULONG opcode)$/;"	f
+op_1b9	cpu0.c	/^void op_1b9(ULONG opcode)$/;"	f
+op_1ba	cpu0.c	/^void op_1ba(ULONG opcode)$/;"	f
+op_1bb	cpu0.c	/^void op_1bb(ULONG opcode)$/;"	f
+op_1c0	cpu0.c	/^void op_1c0(ULONG opcode)$/;"	f
+op_1c8	cpu0.c	/^void op_1c8(ULONG opcode)$/;"	f
+op_1d0	cpu0.c	/^void op_1d0(ULONG opcode)$/;"	f
+op_1d8	cpu0.c	/^void op_1d8(ULONG opcode)$/;"	f
+op_1e0	cpu0.c	/^void op_1e0(ULONG opcode)$/;"	f
+op_1e8	cpu0.c	/^void op_1e8(ULONG opcode)$/;"	f
+op_1f0	cpu0.c	/^void op_1f0(ULONG opcode)$/;"	f
+op_1f8	cpu0.c	/^void op_1f8(ULONG opcode)$/;"	f
+op_1f9	cpu0.c	/^void op_1f9(ULONG opcode)$/;"	f
+op_1fa	cpu0.c	/^void op_1fa(ULONG opcode)$/;"	f
+op_1fb	cpu0.c	/^void op_1fb(ULONG opcode)$/;"	f
+op_20	cpu0.c	/^void op_20(ULONG opcode)$/;"	f
+op_200	cpu0.c	/^void op_200(ULONG opcode)$/;"	f
+op_2000	cpu2.c	/^void op_2000(ULONG opcode)$/;"	f
+op_2008	cpu2.c	/^void op_2008(ULONG opcode)$/;"	f
+op_2010	cpu2.c	/^void op_2010(ULONG opcode)$/;"	f
+op_2018	cpu2.c	/^void op_2018(ULONG opcode)$/;"	f
+op_2020	cpu2.c	/^void op_2020(ULONG opcode)$/;"	f
+op_2028	cpu2.c	/^void op_2028(ULONG opcode)$/;"	f
+op_2030	cpu2.c	/^void op_2030(ULONG opcode)$/;"	f
+op_2038	cpu2.c	/^void op_2038(ULONG opcode)$/;"	f
+op_2039	cpu2.c	/^void op_2039(ULONG opcode)$/;"	f
+op_203a	cpu2.c	/^void op_203a(ULONG opcode)$/;"	f
+op_203b	cpu2.c	/^void op_203b(ULONG opcode)$/;"	f
+op_203c	cpu2.c	/^void op_203c(ULONG opcode)$/;"	f
+op_2040	cpu2.c	/^void op_2040(ULONG opcode)$/;"	f
+op_2048	cpu2.c	/^void op_2048(ULONG opcode)$/;"	f
+op_2050	cpu2.c	/^void op_2050(ULONG opcode)$/;"	f
+op_2058	cpu2.c	/^void op_2058(ULONG opcode)$/;"	f
+op_2060	cpu2.c	/^void op_2060(ULONG opcode)$/;"	f
+op_2068	cpu2.c	/^void op_2068(ULONG opcode)$/;"	f
+op_2070	cpu2.c	/^void op_2070(ULONG opcode)$/;"	f
+op_2078	cpu2.c	/^void op_2078(ULONG opcode)$/;"	f
+op_2079	cpu2.c	/^void op_2079(ULONG opcode)$/;"	f
+op_207a	cpu2.c	/^void op_207a(ULONG opcode)$/;"	f
+op_207b	cpu2.c	/^void op_207b(ULONG opcode)$/;"	f
+op_207c	cpu2.c	/^void op_207c(ULONG opcode)$/;"	f
+op_2080	cpu2.c	/^void op_2080(ULONG opcode)$/;"	f
+op_2088	cpu2.c	/^void op_2088(ULONG opcode)$/;"	f
+op_2090	cpu2.c	/^void op_2090(ULONG opcode)$/;"	f
+op_2098	cpu2.c	/^void op_2098(ULONG opcode)$/;"	f
+op_20a0	cpu2.c	/^void op_20a0(ULONG opcode)$/;"	f
+op_20a8	cpu2.c	/^void op_20a8(ULONG opcode)$/;"	f
+op_20b0	cpu2.c	/^void op_20b0(ULONG opcode)$/;"	f
+op_20b8	cpu2.c	/^void op_20b8(ULONG opcode)$/;"	f
+op_20b9	cpu2.c	/^void op_20b9(ULONG opcode)$/;"	f
+op_20ba	cpu2.c	/^void op_20ba(ULONG opcode)$/;"	f
+op_20bb	cpu2.c	/^void op_20bb(ULONG opcode)$/;"	f
+op_20bc	cpu2.c	/^void op_20bc(ULONG opcode)$/;"	f
+op_20c0	cpu2.c	/^void op_20c0(ULONG opcode)$/;"	f
+op_20c8	cpu2.c	/^void op_20c8(ULONG opcode)$/;"	f
+op_20d0	cpu2.c	/^void op_20d0(ULONG opcode)$/;"	f
+op_20d8	cpu2.c	/^void op_20d8(ULONG opcode)$/;"	f
+op_20e0	cpu2.c	/^void op_20e0(ULONG opcode)$/;"	f
+op_20e8	cpu2.c	/^void op_20e8(ULONG opcode)$/;"	f
+op_20f0	cpu2.c	/^void op_20f0(ULONG opcode)$/;"	f
+op_20f8	cpu2.c	/^void op_20f8(ULONG opcode)$/;"	f
+op_20f9	cpu2.c	/^void op_20f9(ULONG opcode)$/;"	f
+op_20fa	cpu2.c	/^void op_20fa(ULONG opcode)$/;"	f
+op_20fb	cpu2.c	/^void op_20fb(ULONG opcode)$/;"	f
+op_20fc	cpu2.c	/^void op_20fc(ULONG opcode)$/;"	f
+op_210	cpu0.c	/^void op_210(ULONG opcode)$/;"	f
+op_2100	cpu2.c	/^void op_2100(ULONG opcode)$/;"	f
+op_2108	cpu2.c	/^void op_2108(ULONG opcode)$/;"	f
+op_2110	cpu2.c	/^void op_2110(ULONG opcode)$/;"	f
+op_2118	cpu2.c	/^void op_2118(ULONG opcode)$/;"	f
+op_2120	cpu2.c	/^void op_2120(ULONG opcode)$/;"	f
+op_2128	cpu2.c	/^void op_2128(ULONG opcode)$/;"	f
+op_2130	cpu2.c	/^void op_2130(ULONG opcode)$/;"	f
+op_2138	cpu2.c	/^void op_2138(ULONG opcode)$/;"	f
+op_2139	cpu2.c	/^void op_2139(ULONG opcode)$/;"	f
+op_213a	cpu2.c	/^void op_213a(ULONG opcode)$/;"	f
+op_213b	cpu2.c	/^void op_213b(ULONG opcode)$/;"	f
+op_213c	cpu2.c	/^void op_213c(ULONG opcode)$/;"	f
+op_2140	cpu2.c	/^void op_2140(ULONG opcode)$/;"	f
+op_2148	cpu2.c	/^void op_2148(ULONG opcode)$/;"	f
+op_2150	cpu2.c	/^void op_2150(ULONG opcode)$/;"	f
+op_2158	cpu2.c	/^void op_2158(ULONG opcode)$/;"	f
+op_2160	cpu2.c	/^void op_2160(ULONG opcode)$/;"	f
+op_2168	cpu2.c	/^void op_2168(ULONG opcode)$/;"	f
+op_2170	cpu2.c	/^void op_2170(ULONG opcode)$/;"	f
+op_2178	cpu2.c	/^void op_2178(ULONG opcode)$/;"	f
+op_2179	cpu2.c	/^void op_2179(ULONG opcode)$/;"	f
+op_217a	cpu2.c	/^void op_217a(ULONG opcode)$/;"	f
+op_217b	cpu2.c	/^void op_217b(ULONG opcode)$/;"	f
+op_217c	cpu2.c	/^void op_217c(ULONG opcode)$/;"	f
+op_218	cpu0.c	/^void op_218(ULONG opcode)$/;"	f
+op_2180	cpu2.c	/^void op_2180(ULONG opcode)$/;"	f
+op_2188	cpu2.c	/^void op_2188(ULONG opcode)$/;"	f
+op_2190	cpu2.c	/^void op_2190(ULONG opcode)$/;"	f
+op_2198	cpu2.c	/^void op_2198(ULONG opcode)$/;"	f
+op_21a0	cpu2.c	/^void op_21a0(ULONG opcode)$/;"	f
+op_21a8	cpu2.c	/^void op_21a8(ULONG opcode)$/;"	f
+op_21b0	cpu2.c	/^void op_21b0(ULONG opcode)$/;"	f
+op_21b8	cpu2.c	/^void op_21b8(ULONG opcode)$/;"	f
+op_21b9	cpu2.c	/^void op_21b9(ULONG opcode)$/;"	f
+op_21ba	cpu2.c	/^void op_21ba(ULONG opcode)$/;"	f
+op_21bb	cpu2.c	/^void op_21bb(ULONG opcode)$/;"	f
+op_21bc	cpu2.c	/^void op_21bc(ULONG opcode)$/;"	f
+op_21c0	cpu2.c	/^void op_21c0(ULONG opcode)$/;"	f
+op_21c8	cpu2.c	/^void op_21c8(ULONG opcode)$/;"	f
+op_21d0	cpu2.c	/^void op_21d0(ULONG opcode)$/;"	f
+op_21d8	cpu2.c	/^void op_21d8(ULONG opcode)$/;"	f
+op_21e0	cpu2.c	/^void op_21e0(ULONG opcode)$/;"	f
+op_21e8	cpu2.c	/^void op_21e8(ULONG opcode)$/;"	f
+op_21f0	cpu2.c	/^void op_21f0(ULONG opcode)$/;"	f
+op_21f8	cpu2.c	/^void op_21f8(ULONG opcode)$/;"	f
+op_21f9	cpu2.c	/^void op_21f9(ULONG opcode)$/;"	f
+op_21fa	cpu2.c	/^void op_21fa(ULONG opcode)$/;"	f
+op_21fb	cpu2.c	/^void op_21fb(ULONG opcode)$/;"	f
+op_21fc	cpu2.c	/^void op_21fc(ULONG opcode)$/;"	f
+op_220	cpu0.c	/^void op_220(ULONG opcode)$/;"	f
+op_228	cpu0.c	/^void op_228(ULONG opcode)$/;"	f
+op_230	cpu0.c	/^void op_230(ULONG opcode)$/;"	f
+op_238	cpu0.c	/^void op_238(ULONG opcode)$/;"	f
+op_239	cpu0.c	/^void op_239(ULONG opcode)$/;"	f
+op_23c	cpu0.c	/^void op_23c(ULONG opcode)$/;"	f
+op_23c0	cpu2.c	/^void op_23c0(ULONG opcode)$/;"	f
+op_23c8	cpu2.c	/^void op_23c8(ULONG opcode)$/;"	f
+op_23d0	cpu2.c	/^void op_23d0(ULONG opcode)$/;"	f
+op_23d8	cpu2.c	/^void op_23d8(ULONG opcode)$/;"	f
+op_23e0	cpu2.c	/^void op_23e0(ULONG opcode)$/;"	f
+op_23e8	cpu2.c	/^void op_23e8(ULONG opcode)$/;"	f
+op_23f0	cpu2.c	/^void op_23f0(ULONG opcode)$/;"	f
+op_23f8	cpu2.c	/^void op_23f8(ULONG opcode)$/;"	f
+op_23f9	cpu2.c	/^void op_23f9(ULONG opcode)$/;"	f
+op_23fa	cpu2.c	/^void op_23fa(ULONG opcode)$/;"	f
+op_23fb	cpu2.c	/^void op_23fb(ULONG opcode)$/;"	f
+op_23fc	cpu2.c	/^void op_23fc(ULONG opcode)$/;"	f
+op_240	cpu0.c	/^void op_240(ULONG opcode)$/;"	f
+op_250	cpu0.c	/^void op_250(ULONG opcode)$/;"	f
+op_258	cpu0.c	/^void op_258(ULONG opcode)$/;"	f
+op_260	cpu0.c	/^void op_260(ULONG opcode)$/;"	f
+op_268	cpu0.c	/^void op_268(ULONG opcode)$/;"	f
+op_270	cpu0.c	/^void op_270(ULONG opcode)$/;"	f
+op_278	cpu0.c	/^void op_278(ULONG opcode)$/;"	f
+op_279	cpu0.c	/^void op_279(ULONG opcode)$/;"	f
+op_27c	cpu0.c	/^void op_27c(ULONG opcode)$/;"	f
+op_28	cpu0.c	/^void op_28(ULONG opcode)$/;"	f
+op_280	cpu0.c	/^void op_280(ULONG opcode)$/;"	f
+op_290	cpu0.c	/^void op_290(ULONG opcode)$/;"	f
+op_298	cpu0.c	/^void op_298(ULONG opcode)$/;"	f
+op_2a0	cpu0.c	/^void op_2a0(ULONG opcode)$/;"	f
+op_2a8	cpu0.c	/^void op_2a8(ULONG opcode)$/;"	f
+op_2b0	cpu0.c	/^void op_2b0(ULONG opcode)$/;"	f
+op_2b8	cpu0.c	/^void op_2b8(ULONG opcode)$/;"	f
+op_2b9	cpu0.c	/^void op_2b9(ULONG opcode)$/;"	f
+op_30	cpu0.c	/^void op_30(ULONG opcode)$/;"	f
+op_3000	cpu3.c	/^void op_3000(ULONG opcode)$/;"	f
+op_3008	cpu3.c	/^void op_3008(ULONG opcode)$/;"	f
+op_3010	cpu3.c	/^void op_3010(ULONG opcode)$/;"	f
+op_3018	cpu3.c	/^void op_3018(ULONG opcode)$/;"	f
+op_3020	cpu3.c	/^void op_3020(ULONG opcode)$/;"	f
+op_3028	cpu3.c	/^void op_3028(ULONG opcode)$/;"	f
+op_3030	cpu3.c	/^void op_3030(ULONG opcode)$/;"	f
+op_3038	cpu3.c	/^void op_3038(ULONG opcode)$/;"	f
+op_3039	cpu3.c	/^void op_3039(ULONG opcode)$/;"	f
+op_303a	cpu3.c	/^void op_303a(ULONG opcode)$/;"	f
+op_303b	cpu3.c	/^void op_303b(ULONG opcode)$/;"	f
+op_303c	cpu3.c	/^void op_303c(ULONG opcode)$/;"	f
+op_3040	cpu3.c	/^void op_3040(ULONG opcode)$/;"	f
+op_3048	cpu3.c	/^void op_3048(ULONG opcode)$/;"	f
+op_3050	cpu3.c	/^void op_3050(ULONG opcode)$/;"	f
+op_3058	cpu3.c	/^void op_3058(ULONG opcode)$/;"	f
+op_3060	cpu3.c	/^void op_3060(ULONG opcode)$/;"	f
+op_3068	cpu3.c	/^void op_3068(ULONG opcode)$/;"	f
+op_3070	cpu3.c	/^void op_3070(ULONG opcode)$/;"	f
+op_3078	cpu3.c	/^void op_3078(ULONG opcode)$/;"	f
+op_3079	cpu3.c	/^void op_3079(ULONG opcode)$/;"	f
+op_307a	cpu3.c	/^void op_307a(ULONG opcode)$/;"	f
+op_307b	cpu3.c	/^void op_307b(ULONG opcode)$/;"	f
+op_307c	cpu3.c	/^void op_307c(ULONG opcode)$/;"	f
+op_3080	cpu3.c	/^void op_3080(ULONG opcode)$/;"	f
+op_3088	cpu3.c	/^void op_3088(ULONG opcode)$/;"	f
+op_3090	cpu3.c	/^void op_3090(ULONG opcode)$/;"	f
+op_3098	cpu3.c	/^void op_3098(ULONG opcode)$/;"	f
+op_30a0	cpu3.c	/^void op_30a0(ULONG opcode)$/;"	f
+op_30a8	cpu3.c	/^void op_30a8(ULONG opcode)$/;"	f
+op_30b0	cpu3.c	/^void op_30b0(ULONG opcode)$/;"	f
+op_30b8	cpu3.c	/^void op_30b8(ULONG opcode)$/;"	f
+op_30b9	cpu3.c	/^void op_30b9(ULONG opcode)$/;"	f
+op_30ba	cpu3.c	/^void op_30ba(ULONG opcode)$/;"	f
+op_30bb	cpu3.c	/^void op_30bb(ULONG opcode)$/;"	f
+op_30bc	cpu3.c	/^void op_30bc(ULONG opcode)$/;"	f
+op_30c0	cpu3.c	/^void op_30c0(ULONG opcode)$/;"	f
+op_30c8	cpu3.c	/^void op_30c8(ULONG opcode)$/;"	f
+op_30d0	cpu3.c	/^void op_30d0(ULONG opcode)$/;"	f
+op_30d8	cpu3.c	/^void op_30d8(ULONG opcode)$/;"	f
+op_30e0	cpu3.c	/^void op_30e0(ULONG opcode)$/;"	f
+op_30e8	cpu3.c	/^void op_30e8(ULONG opcode)$/;"	f
+op_30f0	cpu3.c	/^void op_30f0(ULONG opcode)$/;"	f
+op_30f8	cpu3.c	/^void op_30f8(ULONG opcode)$/;"	f
+op_30f9	cpu3.c	/^void op_30f9(ULONG opcode)$/;"	f
+op_30fa	cpu3.c	/^void op_30fa(ULONG opcode)$/;"	f
+op_30fb	cpu3.c	/^void op_30fb(ULONG opcode)$/;"	f
+op_30fc	cpu3.c	/^void op_30fc(ULONG opcode)$/;"	f
+op_3100	cpu3.c	/^void op_3100(ULONG opcode)$/;"	f
+op_3108	cpu3.c	/^void op_3108(ULONG opcode)$/;"	f
+op_3110	cpu3.c	/^void op_3110(ULONG opcode)$/;"	f
+op_3118	cpu3.c	/^void op_3118(ULONG opcode)$/;"	f
+op_3120	cpu3.c	/^void op_3120(ULONG opcode)$/;"	f
+op_3128	cpu3.c	/^void op_3128(ULONG opcode)$/;"	f
+op_3130	cpu3.c	/^void op_3130(ULONG opcode)$/;"	f
+op_3138	cpu3.c	/^void op_3138(ULONG opcode)$/;"	f
+op_3139	cpu3.c	/^void op_3139(ULONG opcode)$/;"	f
+op_313a	cpu3.c	/^void op_313a(ULONG opcode)$/;"	f
+op_313b	cpu3.c	/^void op_313b(ULONG opcode)$/;"	f
+op_313c	cpu3.c	/^void op_313c(ULONG opcode)$/;"	f
+op_3140	cpu3.c	/^void op_3140(ULONG opcode)$/;"	f
+op_3148	cpu3.c	/^void op_3148(ULONG opcode)$/;"	f
+op_3150	cpu3.c	/^void op_3150(ULONG opcode)$/;"	f
+op_3158	cpu3.c	/^void op_3158(ULONG opcode)$/;"	f
+op_3160	cpu3.c	/^void op_3160(ULONG opcode)$/;"	f
+op_3168	cpu3.c	/^void op_3168(ULONG opcode)$/;"	f
+op_3170	cpu3.c	/^void op_3170(ULONG opcode)$/;"	f
+op_3178	cpu3.c	/^void op_3178(ULONG opcode)$/;"	f
+op_3179	cpu3.c	/^void op_3179(ULONG opcode)$/;"	f
+op_317a	cpu3.c	/^void op_317a(ULONG opcode)$/;"	f
+op_317b	cpu3.c	/^void op_317b(ULONG opcode)$/;"	f
+op_317c	cpu3.c	/^void op_317c(ULONG opcode)$/;"	f
+op_3180	cpu3.c	/^void op_3180(ULONG opcode)$/;"	f
+op_3188	cpu3.c	/^void op_3188(ULONG opcode)$/;"	f
+op_3190	cpu3.c	/^void op_3190(ULONG opcode)$/;"	f
+op_3198	cpu3.c	/^void op_3198(ULONG opcode)$/;"	f
+op_31a0	cpu3.c	/^void op_31a0(ULONG opcode)$/;"	f
+op_31a8	cpu3.c	/^void op_31a8(ULONG opcode)$/;"	f
+op_31b0	cpu3.c	/^void op_31b0(ULONG opcode)$/;"	f
+op_31b8	cpu3.c	/^void op_31b8(ULONG opcode)$/;"	f
+op_31b9	cpu3.c	/^void op_31b9(ULONG opcode)$/;"	f
+op_31ba	cpu3.c	/^void op_31ba(ULONG opcode)$/;"	f
+op_31bb	cpu3.c	/^void op_31bb(ULONG opcode)$/;"	f
+op_31bc	cpu3.c	/^void op_31bc(ULONG opcode)$/;"	f
+op_31c0	cpu3.c	/^void op_31c0(ULONG opcode)$/;"	f
+op_31c8	cpu3.c	/^void op_31c8(ULONG opcode)$/;"	f
+op_31d0	cpu3.c	/^void op_31d0(ULONG opcode)$/;"	f
+op_31d8	cpu3.c	/^void op_31d8(ULONG opcode)$/;"	f
+op_31e0	cpu3.c	/^void op_31e0(ULONG opcode)$/;"	f
+op_31e8	cpu3.c	/^void op_31e8(ULONG opcode)$/;"	f
+op_31f0	cpu3.c	/^void op_31f0(ULONG opcode)$/;"	f
+op_31f8	cpu3.c	/^void op_31f8(ULONG opcode)$/;"	f
+op_31f9	cpu3.c	/^void op_31f9(ULONG opcode)$/;"	f
+op_31fa	cpu3.c	/^void op_31fa(ULONG opcode)$/;"	f
+op_31fb	cpu3.c	/^void op_31fb(ULONG opcode)$/;"	f
+op_31fc	cpu3.c	/^void op_31fc(ULONG opcode)$/;"	f
+op_33c0	cpu3.c	/^void op_33c0(ULONG opcode)$/;"	f
+op_33c8	cpu3.c	/^void op_33c8(ULONG opcode)$/;"	f
+op_33d0	cpu3.c	/^void op_33d0(ULONG opcode)$/;"	f
+op_33d8	cpu3.c	/^void op_33d8(ULONG opcode)$/;"	f
+op_33e0	cpu3.c	/^void op_33e0(ULONG opcode)$/;"	f
+op_33e8	cpu3.c	/^void op_33e8(ULONG opcode)$/;"	f
+op_33f0	cpu3.c	/^void op_33f0(ULONG opcode)$/;"	f
+op_33f8	cpu3.c	/^void op_33f8(ULONG opcode)$/;"	f
+op_33f9	cpu3.c	/^void op_33f9(ULONG opcode)$/;"	f
+op_33fa	cpu3.c	/^void op_33fa(ULONG opcode)$/;"	f
+op_33fb	cpu3.c	/^void op_33fb(ULONG opcode)$/;"	f
+op_33fc	cpu3.c	/^void op_33fc(ULONG opcode)$/;"	f
+op_38	cpu0.c	/^void op_38(ULONG opcode)$/;"	f
+op_39	cpu0.c	/^void op_39(ULONG opcode)$/;"	f
+op_3c	cpu0.c	/^void op_3c(ULONG opcode)$/;"	f
+op_40	cpu0.c	/^void op_40(ULONG opcode)$/;"	f
+op_400	cpu0.c	/^void op_400(ULONG opcode)$/;"	f
+op_4000	cpu4.c	/^void op_4000(ULONG opcode)$/;"	f
+op_4010	cpu4.c	/^void op_4010(ULONG opcode)$/;"	f
+op_4018	cpu4.c	/^void op_4018(ULONG opcode)$/;"	f
+op_4020	cpu4.c	/^void op_4020(ULONG opcode)$/;"	f
+op_4028	cpu4.c	/^void op_4028(ULONG opcode)$/;"	f
+op_4030	cpu4.c	/^void op_4030(ULONG opcode)$/;"	f
+op_4038	cpu4.c	/^void op_4038(ULONG opcode)$/;"	f
+op_4039	cpu4.c	/^void op_4039(ULONG opcode)$/;"	f
+op_4040	cpu4.c	/^void op_4040(ULONG opcode)$/;"	f
+op_4050	cpu4.c	/^void op_4050(ULONG opcode)$/;"	f
+op_4058	cpu4.c	/^void op_4058(ULONG opcode)$/;"	f
+op_4060	cpu4.c	/^void op_4060(ULONG opcode)$/;"	f
+op_4068	cpu4.c	/^void op_4068(ULONG opcode)$/;"	f
+op_4070	cpu4.c	/^void op_4070(ULONG opcode)$/;"	f
+op_4078	cpu4.c	/^void op_4078(ULONG opcode)$/;"	f
+op_4079	cpu4.c	/^void op_4079(ULONG opcode)$/;"	f
+op_4080	cpu4.c	/^void op_4080(ULONG opcode)$/;"	f
+op_4090	cpu4.c	/^void op_4090(ULONG opcode)$/;"	f
+op_4098	cpu4.c	/^void op_4098(ULONG opcode)$/;"	f
+op_40a0	cpu4.c	/^void op_40a0(ULONG opcode)$/;"	f
+op_40a8	cpu4.c	/^void op_40a8(ULONG opcode)$/;"	f
+op_40b0	cpu4.c	/^void op_40b0(ULONG opcode)$/;"	f
+op_40b8	cpu4.c	/^void op_40b8(ULONG opcode)$/;"	f
+op_40b9	cpu4.c	/^void op_40b9(ULONG opcode)$/;"	f
+op_40c0	cpu4.c	/^void op_40c0(ULONG opcode)$/;"	f
+op_40d0	cpu4.c	/^void op_40d0(ULONG opcode)$/;"	f
+op_40d8	cpu4.c	/^void op_40d8(ULONG opcode)$/;"	f
+op_40e0	cpu4.c	/^void op_40e0(ULONG opcode)$/;"	f
+op_40e8	cpu4.c	/^void op_40e8(ULONG opcode)$/;"	f
+op_40f0	cpu4.c	/^void op_40f0(ULONG opcode)$/;"	f
+op_40f8	cpu4.c	/^void op_40f8(ULONG opcode)$/;"	f
+op_40f9	cpu4.c	/^void op_40f9(ULONG opcode)$/;"	f
+op_410	cpu0.c	/^void op_410(ULONG opcode)$/;"	f
+op_418	cpu0.c	/^void op_418(ULONG opcode)$/;"	f
+op_4180	cpu4.c	/^void op_4180(ULONG opcode)$/;"	f
+op_4188	cpu4.c	/^void op_4188(ULONG opcode)$/;"	f
+op_4190	cpu4.c	/^void op_4190(ULONG opcode)$/;"	f
+op_4198	cpu4.c	/^void op_4198(ULONG opcode)$/;"	f
+op_41a0	cpu4.c	/^void op_41a0(ULONG opcode)$/;"	f
+op_41a8	cpu4.c	/^void op_41a8(ULONG opcode)$/;"	f
+op_41b0	cpu4.c	/^void op_41b0(ULONG opcode)$/;"	f
+op_41b8	cpu4.c	/^void op_41b8(ULONG opcode)$/;"	f
+op_41b9	cpu4.c	/^void op_41b9(ULONG opcode)$/;"	f
+op_41ba	cpu4.c	/^void op_41ba(ULONG opcode)$/;"	f
+op_41bb	cpu4.c	/^void op_41bb(ULONG opcode)$/;"	f
+op_41bc	cpu4.c	/^void op_41bc(ULONG opcode)$/;"	f
+op_41d0	cpu4.c	/^void op_41d0(ULONG opcode)$/;"	f
+op_41d8	cpu4.c	/^void op_41d8(ULONG opcode)$/;"	f
+op_41e0	cpu4.c	/^void op_41e0(ULONG opcode)$/;"	f
+op_41e8	cpu4.c	/^void op_41e8(ULONG opcode)$/;"	f
+op_41f0	cpu4.c	/^void op_41f0(ULONG opcode)$/;"	f
+op_41f8	cpu4.c	/^void op_41f8(ULONG opcode)$/;"	f
+op_41f9	cpu4.c	/^void op_41f9(ULONG opcode)$/;"	f
+op_41fa	cpu4.c	/^void op_41fa(ULONG opcode)$/;"	f
+op_41fb	cpu4.c	/^void op_41fb(ULONG opcode)$/;"	f
+op_420	cpu0.c	/^void op_420(ULONG opcode)$/;"	f
+op_4200	cpu4.c	/^void op_4200(ULONG opcode)$/;"	f
+op_4210	cpu4.c	/^void op_4210(ULONG opcode)$/;"	f
+op_4218	cpu4.c	/^void op_4218(ULONG opcode)$/;"	f
+op_4220	cpu4.c	/^void op_4220(ULONG opcode)$/;"	f
+op_4228	cpu4.c	/^void op_4228(ULONG opcode)$/;"	f
+op_4230	cpu4.c	/^void op_4230(ULONG opcode)$/;"	f
+op_4238	cpu4.c	/^void op_4238(ULONG opcode)$/;"	f
+op_4239	cpu4.c	/^void op_4239(ULONG opcode)$/;"	f
+op_4240	cpu4.c	/^void op_4240(ULONG opcode)$/;"	f
+op_4250	cpu4.c	/^void op_4250(ULONG opcode)$/;"	f
+op_4258	cpu4.c	/^void op_4258(ULONG opcode)$/;"	f
+op_4260	cpu4.c	/^void op_4260(ULONG opcode)$/;"	f
+op_4268	cpu4.c	/^void op_4268(ULONG opcode)$/;"	f
+op_4270	cpu4.c	/^void op_4270(ULONG opcode)$/;"	f
+op_4278	cpu4.c	/^void op_4278(ULONG opcode)$/;"	f
+op_4279	cpu4.c	/^void op_4279(ULONG opcode)$/;"	f
+op_428	cpu0.c	/^void op_428(ULONG opcode)$/;"	f
+op_4280	cpu4.c	/^void op_4280(ULONG opcode)$/;"	f
+op_4290	cpu4.c	/^void op_4290(ULONG opcode)$/;"	f
+op_4298	cpu4.c	/^void op_4298(ULONG opcode)$/;"	f
+op_42a0	cpu4.c	/^void op_42a0(ULONG opcode)$/;"	f
+op_42a8	cpu4.c	/^void op_42a8(ULONG opcode)$/;"	f
+op_42b0	cpu4.c	/^void op_42b0(ULONG opcode)$/;"	f
+op_42b8	cpu4.c	/^void op_42b8(ULONG opcode)$/;"	f
+op_42b9	cpu4.c	/^void op_42b9(ULONG opcode)$/;"	f
+op_430	cpu0.c	/^void op_430(ULONG opcode)$/;"	f
+op_438	cpu0.c	/^void op_438(ULONG opcode)$/;"	f
+op_439	cpu0.c	/^void op_439(ULONG opcode)$/;"	f
+op_440	cpu0.c	/^void op_440(ULONG opcode)$/;"	f
+op_4400	cpu4.c	/^void op_4400(ULONG opcode)$/;"	f
+op_4410	cpu4.c	/^void op_4410(ULONG opcode)$/;"	f
+op_4418	cpu4.c	/^void op_4418(ULONG opcode)$/;"	f
+op_4420	cpu4.c	/^void op_4420(ULONG opcode)$/;"	f
+op_4428	cpu4.c	/^void op_4428(ULONG opcode)$/;"	f
+op_4430	cpu4.c	/^void op_4430(ULONG opcode)$/;"	f
+op_4438	cpu4.c	/^void op_4438(ULONG opcode)$/;"	f
+op_4439	cpu4.c	/^void op_4439(ULONG opcode)$/;"	f
+op_4440	cpu4.c	/^void op_4440(ULONG opcode)$/;"	f
+op_4450	cpu4.c	/^void op_4450(ULONG opcode)$/;"	f
+op_4458	cpu4.c	/^void op_4458(ULONG opcode)$/;"	f
+op_4460	cpu4.c	/^void op_4460(ULONG opcode)$/;"	f
+op_4468	cpu4.c	/^void op_4468(ULONG opcode)$/;"	f
+op_4470	cpu4.c	/^void op_4470(ULONG opcode)$/;"	f
+op_4478	cpu4.c	/^void op_4478(ULONG opcode)$/;"	f
+op_4479	cpu4.c	/^void op_4479(ULONG opcode)$/;"	f
+op_4480	cpu4.c	/^void op_4480(ULONG opcode)$/;"	f
+op_4490	cpu4.c	/^void op_4490(ULONG opcode)$/;"	f
+op_4498	cpu4.c	/^void op_4498(ULONG opcode)$/;"	f
+op_44a0	cpu4.c	/^void op_44a0(ULONG opcode)$/;"	f
+op_44a8	cpu4.c	/^void op_44a8(ULONG opcode)$/;"	f
+op_44b0	cpu4.c	/^void op_44b0(ULONG opcode)$/;"	f
+op_44b8	cpu4.c	/^void op_44b8(ULONG opcode)$/;"	f
+op_44b9	cpu4.c	/^void op_44b9(ULONG opcode)$/;"	f
+op_44c0	cpu4.c	/^void op_44c0(ULONG opcode)$/;"	f
+op_44d0	cpu4.c	/^void op_44d0(ULONG opcode)$/;"	f
+op_44d8	cpu4.c	/^void op_44d8(ULONG opcode)$/;"	f
+op_44e0	cpu4.c	/^void op_44e0(ULONG opcode)$/;"	f
+op_44e8	cpu4.c	/^void op_44e8(ULONG opcode)$/;"	f
+op_44f0	cpu4.c	/^void op_44f0(ULONG opcode)$/;"	f
+op_44f8	cpu4.c	/^void op_44f8(ULONG opcode)$/;"	f
+op_44f9	cpu4.c	/^void op_44f9(ULONG opcode)$/;"	f
+op_44fa	cpu4.c	/^void op_44fa(ULONG opcode)$/;"	f
+op_44fb	cpu4.c	/^void op_44fb(ULONG opcode)$/;"	f
+op_44fc	cpu4.c	/^void op_44fc(ULONG opcode)$/;"	f
+op_450	cpu0.c	/^void op_450(ULONG opcode)$/;"	f
+op_458	cpu0.c	/^void op_458(ULONG opcode)$/;"	f
+op_460	cpu0.c	/^void op_460(ULONG opcode)$/;"	f
+op_4600	cpu4.c	/^void op_4600(ULONG opcode)$/;"	f
+op_4610	cpu4.c	/^void op_4610(ULONG opcode)$/;"	f
+op_4618	cpu4.c	/^void op_4618(ULONG opcode)$/;"	f
+op_4620	cpu4.c	/^void op_4620(ULONG opcode)$/;"	f
+op_4628	cpu4.c	/^void op_4628(ULONG opcode)$/;"	f
+op_4630	cpu4.c	/^void op_4630(ULONG opcode)$/;"	f
+op_4638	cpu4.c	/^void op_4638(ULONG opcode)$/;"	f
+op_4639	cpu4.c	/^void op_4639(ULONG opcode)$/;"	f
+op_4640	cpu4.c	/^void op_4640(ULONG opcode)$/;"	f
+op_4650	cpu4.c	/^void op_4650(ULONG opcode)$/;"	f
+op_4658	cpu4.c	/^void op_4658(ULONG opcode)$/;"	f
+op_4660	cpu4.c	/^void op_4660(ULONG opcode)$/;"	f
+op_4668	cpu4.c	/^void op_4668(ULONG opcode)$/;"	f
+op_4670	cpu4.c	/^void op_4670(ULONG opcode)$/;"	f
+op_4678	cpu4.c	/^void op_4678(ULONG opcode)$/;"	f
+op_4679	cpu4.c	/^void op_4679(ULONG opcode)$/;"	f
+op_468	cpu0.c	/^void op_468(ULONG opcode)$/;"	f
+op_4680	cpu4.c	/^void op_4680(ULONG opcode)$/;"	f
+op_4690	cpu4.c	/^void op_4690(ULONG opcode)$/;"	f
+op_4698	cpu4.c	/^void op_4698(ULONG opcode)$/;"	f
+op_46a0	cpu4.c	/^void op_46a0(ULONG opcode)$/;"	f
+op_46a8	cpu4.c	/^void op_46a8(ULONG opcode)$/;"	f
+op_46b0	cpu4.c	/^void op_46b0(ULONG opcode)$/;"	f
+op_46b8	cpu4.c	/^void op_46b8(ULONG opcode)$/;"	f
+op_46b9	cpu4.c	/^void op_46b9(ULONG opcode)$/;"	f
+op_46c0	cpu4.c	/^void op_46c0(ULONG opcode)$/;"	f
+op_46d0	cpu4.c	/^void op_46d0(ULONG opcode)$/;"	f
+op_46d8	cpu4.c	/^void op_46d8(ULONG opcode)$/;"	f
+op_46e0	cpu4.c	/^void op_46e0(ULONG opcode)$/;"	f
+op_46e8	cpu4.c	/^void op_46e8(ULONG opcode)$/;"	f
+op_46f0	cpu4.c	/^void op_46f0(ULONG opcode)$/;"	f
+op_46f8	cpu4.c	/^void op_46f8(ULONG opcode)$/;"	f
+op_46f9	cpu4.c	/^void op_46f9(ULONG opcode)$/;"	f
+op_46fa	cpu4.c	/^void op_46fa(ULONG opcode)$/;"	f
+op_46fb	cpu4.c	/^void op_46fb(ULONG opcode)$/;"	f
+op_46fc	cpu4.c	/^void op_46fc(ULONG opcode)$/;"	f
+op_470	cpu0.c	/^void op_470(ULONG opcode)$/;"	f
+op_478	cpu0.c	/^void op_478(ULONG opcode)$/;"	f
+op_479	cpu0.c	/^void op_479(ULONG opcode)$/;"	f
+op_480	cpu0.c	/^void op_480(ULONG opcode)$/;"	f
+op_4800	cpu4.c	/^void op_4800(ULONG opcode)$/;"	f
+op_4810	cpu4.c	/^void op_4810(ULONG opcode)$/;"	f
+op_4818	cpu4.c	/^void op_4818(ULONG opcode)$/;"	f
+op_4820	cpu4.c	/^void op_4820(ULONG opcode)$/;"	f
+op_4828	cpu4.c	/^void op_4828(ULONG opcode)$/;"	f
+op_4830	cpu4.c	/^void op_4830(ULONG opcode)$/;"	f
+op_4838	cpu4.c	/^void op_4838(ULONG opcode)$/;"	f
+op_4839	cpu4.c	/^void op_4839(ULONG opcode)$/;"	f
+op_4840	cpu4.c	/^void op_4840(ULONG opcode)$/;"	f
+op_4850	cpu4.c	/^void op_4850(ULONG opcode)$/;"	f
+op_4858	cpu4.c	/^void op_4858(ULONG opcode)$/;"	f
+op_4860	cpu4.c	/^void op_4860(ULONG opcode)$/;"	f
+op_4868	cpu4.c	/^void op_4868(ULONG opcode)$/;"	f
+op_4870	cpu4.c	/^void op_4870(ULONG opcode)$/;"	f
+op_4878	cpu4.c	/^void op_4878(ULONG opcode)$/;"	f
+op_4879	cpu4.c	/^void op_4879(ULONG opcode)$/;"	f
+op_487a	cpu4.c	/^void op_487a(ULONG opcode)$/;"	f
+op_487b	cpu4.c	/^void op_487b(ULONG opcode)$/;"	f
+op_4880	cpu4.c	/^void op_4880(ULONG opcode)$/;"	f
+op_4890	cpu4.c	/^void op_4890(ULONG opcode)$/;"	f
+op_4898	cpu4.c	/^void op_4898(ULONG opcode)$/;"	f
+op_48a0	cpu4.c	/^void op_48a0(ULONG opcode)$/;"	f
+op_48a8	cpu4.c	/^void op_48a8(ULONG opcode)$/;"	f
+op_48b0	cpu4.c	/^void op_48b0(ULONG opcode)$/;"	f
+op_48b8	cpu4.c	/^void op_48b8(ULONG opcode)$/;"	f
+op_48b9	cpu4.c	/^void op_48b9(ULONG opcode)$/;"	f
+op_48c0	cpu4.c	/^void op_48c0(ULONG opcode)$/;"	f
+op_48d0	cpu4.c	/^void op_48d0(ULONG opcode)$/;"	f
+op_48d8	cpu4.c	/^void op_48d8(ULONG opcode)$/;"	f
+op_48e0	cpu4.c	/^void op_48e0(ULONG opcode)$/;"	f
+op_48e8	cpu4.c	/^void op_48e8(ULONG opcode)$/;"	f
+op_48f0	cpu4.c	/^void op_48f0(ULONG opcode)$/;"	f
+op_48f8	cpu4.c	/^void op_48f8(ULONG opcode)$/;"	f
+op_48f9	cpu4.c	/^void op_48f9(ULONG opcode)$/;"	f
+op_490	cpu0.c	/^void op_490(ULONG opcode)$/;"	f
+op_498	cpu0.c	/^void op_498(ULONG opcode)$/;"	f
+op_4a0	cpu0.c	/^void op_4a0(ULONG opcode)$/;"	f
+op_4a00	cpu4.c	/^void op_4a00(ULONG opcode)$/;"	f
+op_4a10	cpu4.c	/^void op_4a10(ULONG opcode)$/;"	f
+op_4a18	cpu4.c	/^void op_4a18(ULONG opcode)$/;"	f
+op_4a20	cpu4.c	/^void op_4a20(ULONG opcode)$/;"	f
+op_4a28	cpu4.c	/^void op_4a28(ULONG opcode)$/;"	f
+op_4a30	cpu4.c	/^void op_4a30(ULONG opcode)$/;"	f
+op_4a38	cpu4.c	/^void op_4a38(ULONG opcode)$/;"	f
+op_4a39	cpu4.c	/^void op_4a39(ULONG opcode)$/;"	f
+op_4a40	cpu4.c	/^void op_4a40(ULONG opcode)$/;"	f
+op_4a48	cpu4.c	/^void op_4a48(ULONG opcode)$/;"	f
+op_4a50	cpu4.c	/^void op_4a50(ULONG opcode)$/;"	f
+op_4a58	cpu4.c	/^void op_4a58(ULONG opcode)$/;"	f
+op_4a60	cpu4.c	/^void op_4a60(ULONG opcode)$/;"	f
+op_4a68	cpu4.c	/^void op_4a68(ULONG opcode)$/;"	f
+op_4a70	cpu4.c	/^void op_4a70(ULONG opcode)$/;"	f
+op_4a78	cpu4.c	/^void op_4a78(ULONG opcode)$/;"	f
+op_4a79	cpu4.c	/^void op_4a79(ULONG opcode)$/;"	f
+op_4a8	cpu0.c	/^void op_4a8(ULONG opcode)$/;"	f
+op_4a80	cpu4.c	/^void op_4a80(ULONG opcode)$/;"	f
+op_4a88	cpu4.c	/^void op_4a88(ULONG opcode)$/;"	f
+op_4a90	cpu4.c	/^void op_4a90(ULONG opcode)$/;"	f
+op_4a98	cpu4.c	/^void op_4a98(ULONG opcode)$/;"	f
+op_4aa0	cpu4.c	/^void op_4aa0(ULONG opcode)$/;"	f
+op_4aa8	cpu4.c	/^void op_4aa8(ULONG opcode)$/;"	f
+op_4ab0	cpu4.c	/^void op_4ab0(ULONG opcode)$/;"	f
+op_4ab8	cpu4.c	/^void op_4ab8(ULONG opcode)$/;"	f
+op_4ab9	cpu4.c	/^void op_4ab9(ULONG opcode)$/;"	f
+op_4b0	cpu0.c	/^void op_4b0(ULONG opcode)$/;"	f
+op_4b8	cpu0.c	/^void op_4b8(ULONG opcode)$/;"	f
+op_4b9	cpu0.c	/^void op_4b9(ULONG opcode)$/;"	f
+op_4c90	cpu4.c	/^void op_4c90(ULONG opcode)$/;"	f
+op_4c98	cpu4.c	/^void op_4c98(ULONG opcode)$/;"	f
+op_4ca0	cpu4.c	/^void op_4ca0(ULONG opcode)$/;"	f
+op_4ca8	cpu4.c	/^void op_4ca8(ULONG opcode)$/;"	f
+op_4cb0	cpu4.c	/^void op_4cb0(ULONG opcode)$/;"	f
+op_4cb8	cpu4.c	/^void op_4cb8(ULONG opcode)$/;"	f
+op_4cb9	cpu4.c	/^void op_4cb9(ULONG opcode)$/;"	f
+op_4cba	cpu4.c	/^void op_4cba(ULONG opcode)$/;"	f
+op_4cbb	cpu4.c	/^void op_4cbb(ULONG opcode)$/;"	f
+op_4cd0	cpu4.c	/^void op_4cd0(ULONG opcode)$/;"	f
+op_4cd8	cpu4.c	/^void op_4cd8(ULONG opcode)$/;"	f
+op_4ce0	cpu4.c	/^void op_4ce0(ULONG opcode)$/;"	f
+op_4ce8	cpu4.c	/^void op_4ce8(ULONG opcode)$/;"	f
+op_4cf0	cpu4.c	/^void op_4cf0(ULONG opcode)$/;"	f
+op_4cf8	cpu4.c	/^void op_4cf8(ULONG opcode)$/;"	f
+op_4cf9	cpu4.c	/^void op_4cf9(ULONG opcode)$/;"	f
+op_4cfa	cpu4.c	/^void op_4cfa(ULONG opcode)$/;"	f
+op_4cfb	cpu4.c	/^void op_4cfb(ULONG opcode)$/;"	f
+op_4e40	cpu4.c	/^void op_4e40(ULONG opcode)$/;"	f
+op_4e50	cpu4.c	/^void op_4e50(ULONG opcode)$/;"	f
+op_4e58	cpu4.c	/^void op_4e58(ULONG opcode)$/;"	f
+op_4e60	cpu4.c	/^void op_4e60(ULONG opcode)$/;"	f
+op_4e68	cpu4.c	/^void op_4e68(ULONG opcode)$/;"	f
+op_4e70	cpu4.c	/^void op_4e70(ULONG opcode)$/;"	f
+op_4e71	cpu4.c	/^void op_4e71(ULONG opcode)$/;"	f
+op_4e72	cpu4.c	/^void op_4e72(ULONG opcode)$/;"	f
+op_4e73	cpu4.c	/^void op_4e73(ULONG opcode)$/;"	f
+op_4e74	cpu4.c	/^void op_4e74(ULONG opcode)$/;"	f
+op_4e75	cpu4.c	/^void op_4e75(ULONG opcode)$/;"	f
+op_4e76	cpu4.c	/^void op_4e76(ULONG opcode)$/;"	f
+op_4e77	cpu4.c	/^void op_4e77(ULONG opcode)$/;"	f
+op_4e90	cpu4.c	/^void op_4e90(ULONG opcode)$/;"	f
+op_4e98	cpu4.c	/^void op_4e98(ULONG opcode)$/;"	f
+op_4ea0	cpu4.c	/^void op_4ea0(ULONG opcode)$/;"	f
+op_4ea8	cpu4.c	/^void op_4ea8(ULONG opcode)$/;"	f
+op_4eb0	cpu4.c	/^void op_4eb0(ULONG opcode)$/;"	f
+op_4eb8	cpu4.c	/^void op_4eb8(ULONG opcode)$/;"	f
+op_4eb9	cpu4.c	/^void op_4eb9(ULONG opcode)$/;"	f
+op_4eba	cpu4.c	/^void op_4eba(ULONG opcode)$/;"	f
+op_4ebb	cpu4.c	/^void op_4ebb(ULONG opcode)$/;"	f
+op_4ed0	cpu4.c	/^void op_4ed0(ULONG opcode)$/;"	f
+op_4ed8	cpu4.c	/^void op_4ed8(ULONG opcode)$/;"	f
+op_4ee0	cpu4.c	/^void op_4ee0(ULONG opcode)$/;"	f
+op_4ee8	cpu4.c	/^void op_4ee8(ULONG opcode)$/;"	f
+op_4ef0	cpu4.c	/^void op_4ef0(ULONG opcode)$/;"	f
+op_4ef8	cpu4.c	/^void op_4ef8(ULONG opcode)$/;"	f
+op_4ef9	cpu4.c	/^void op_4ef9(ULONG opcode)$/;"	f
+op_4efa	cpu4.c	/^void op_4efa(ULONG opcode)$/;"	f
+op_4efb	cpu4.c	/^void op_4efb(ULONG opcode)$/;"	f
+op_50	cpu0.c	/^void op_50(ULONG opcode)$/;"	f
+op_5000	cpu5.c	/^void op_5000(ULONG opcode)$/;"	f
+op_5010	cpu5.c	/^void op_5010(ULONG opcode)$/;"	f
+op_5018	cpu5.c	/^void op_5018(ULONG opcode)$/;"	f
+op_5020	cpu5.c	/^void op_5020(ULONG opcode)$/;"	f
+op_5028	cpu5.c	/^void op_5028(ULONG opcode)$/;"	f
+op_5030	cpu5.c	/^void op_5030(ULONG opcode)$/;"	f
+op_5038	cpu5.c	/^void op_5038(ULONG opcode)$/;"	f
+op_5039	cpu5.c	/^void op_5039(ULONG opcode)$/;"	f
+op_5040	cpu5.c	/^void op_5040(ULONG opcode)$/;"	f
+op_5048	cpu5.c	/^void op_5048(ULONG opcode)$/;"	f
+op_5050	cpu5.c	/^void op_5050(ULONG opcode)$/;"	f
+op_5058	cpu5.c	/^void op_5058(ULONG opcode)$/;"	f
+op_5060	cpu5.c	/^void op_5060(ULONG opcode)$/;"	f
+op_5068	cpu5.c	/^void op_5068(ULONG opcode)$/;"	f
+op_5070	cpu5.c	/^void op_5070(ULONG opcode)$/;"	f
+op_5078	cpu5.c	/^void op_5078(ULONG opcode)$/;"	f
+op_5079	cpu5.c	/^void op_5079(ULONG opcode)$/;"	f
+op_5080	cpu5.c	/^void op_5080(ULONG opcode)$/;"	f
+op_5088	cpu5.c	/^void op_5088(ULONG opcode)$/;"	f
+op_5090	cpu5.c	/^void op_5090(ULONG opcode)$/;"	f
+op_5098	cpu5.c	/^void op_5098(ULONG opcode)$/;"	f
+op_50a0	cpu5.c	/^void op_50a0(ULONG opcode)$/;"	f
+op_50a8	cpu5.c	/^void op_50a8(ULONG opcode)$/;"	f
+op_50b0	cpu5.c	/^void op_50b0(ULONG opcode)$/;"	f
+op_50b8	cpu5.c	/^void op_50b8(ULONG opcode)$/;"	f
+op_50b9	cpu5.c	/^void op_50b9(ULONG opcode)$/;"	f
+op_50c0	cpu5.c	/^void op_50c0(ULONG opcode)$/;"	f
+op_50c8	cpu5.c	/^void op_50c8(ULONG opcode)$/;"	f
+op_50d0	cpu5.c	/^void op_50d0(ULONG opcode)$/;"	f
+op_50d8	cpu5.c	/^void op_50d8(ULONG opcode)$/;"	f
+op_50e0	cpu5.c	/^void op_50e0(ULONG opcode)$/;"	f
+op_50e8	cpu5.c	/^void op_50e8(ULONG opcode)$/;"	f
+op_50f0	cpu5.c	/^void op_50f0(ULONG opcode)$/;"	f
+op_50f8	cpu5.c	/^void op_50f8(ULONG opcode)$/;"	f
+op_50f9	cpu5.c	/^void op_50f9(ULONG opcode)$/;"	f
+op_5100	cpu5.c	/^void op_5100(ULONG opcode)$/;"	f
+op_5110	cpu5.c	/^void op_5110(ULONG opcode)$/;"	f
+op_5118	cpu5.c	/^void op_5118(ULONG opcode)$/;"	f
+op_5120	cpu5.c	/^void op_5120(ULONG opcode)$/;"	f
+op_5128	cpu5.c	/^void op_5128(ULONG opcode)$/;"	f
+op_5130	cpu5.c	/^void op_5130(ULONG opcode)$/;"	f
+op_5138	cpu5.c	/^void op_5138(ULONG opcode)$/;"	f
+op_5139	cpu5.c	/^void op_5139(ULONG opcode)$/;"	f
+op_5140	cpu5.c	/^void op_5140(ULONG opcode)$/;"	f
+op_5148	cpu5.c	/^void op_5148(ULONG opcode)$/;"	f
+op_5150	cpu5.c	/^void op_5150(ULONG opcode)$/;"	f
+op_5158	cpu5.c	/^void op_5158(ULONG opcode)$/;"	f
+op_5160	cpu5.c	/^void op_5160(ULONG opcode)$/;"	f
+op_5168	cpu5.c	/^void op_5168(ULONG opcode)$/;"	f
+op_5170	cpu5.c	/^void op_5170(ULONG opcode)$/;"	f
+op_5178	cpu5.c	/^void op_5178(ULONG opcode)$/;"	f
+op_5179	cpu5.c	/^void op_5179(ULONG opcode)$/;"	f
+op_5180	cpu5.c	/^void op_5180(ULONG opcode)$/;"	f
+op_5188	cpu5.c	/^void op_5188(ULONG opcode)$/;"	f
+op_5190	cpu5.c	/^void op_5190(ULONG opcode)$/;"	f
+op_5198	cpu5.c	/^void op_5198(ULONG opcode)$/;"	f
+op_51a0	cpu5.c	/^void op_51a0(ULONG opcode)$/;"	f
+op_51a8	cpu5.c	/^void op_51a8(ULONG opcode)$/;"	f
+op_51b0	cpu5.c	/^void op_51b0(ULONG opcode)$/;"	f
+op_51b8	cpu5.c	/^void op_51b8(ULONG opcode)$/;"	f
+op_51b9	cpu5.c	/^void op_51b9(ULONG opcode)$/;"	f
+op_51c0	cpu5.c	/^void op_51c0(ULONG opcode)$/;"	f
+op_51c8	cpu5.c	/^void op_51c8(ULONG opcode)$/;"	f
+op_51d0	cpu5.c	/^void op_51d0(ULONG opcode)$/;"	f
+op_51d8	cpu5.c	/^void op_51d8(ULONG opcode)$/;"	f
+op_51e0	cpu5.c	/^void op_51e0(ULONG opcode)$/;"	f
+op_51e8	cpu5.c	/^void op_51e8(ULONG opcode)$/;"	f
+op_51f0	cpu5.c	/^void op_51f0(ULONG opcode)$/;"	f
+op_51f8	cpu5.c	/^void op_51f8(ULONG opcode)$/;"	f
+op_51f9	cpu5.c	/^void op_51f9(ULONG opcode)$/;"	f
+op_52c0	cpu5.c	/^void op_52c0(ULONG opcode)$/;"	f
+op_52c8	cpu5.c	/^void op_52c8(ULONG opcode)$/;"	f
+op_52d0	cpu5.c	/^void op_52d0(ULONG opcode)$/;"	f
+op_52d8	cpu5.c	/^void op_52d8(ULONG opcode)$/;"	f
+op_52e0	cpu5.c	/^void op_52e0(ULONG opcode)$/;"	f
+op_52e8	cpu5.c	/^void op_52e8(ULONG opcode)$/;"	f
+op_52f0	cpu5.c	/^void op_52f0(ULONG opcode)$/;"	f
+op_52f8	cpu5.c	/^void op_52f8(ULONG opcode)$/;"	f
+op_52f9	cpu5.c	/^void op_52f9(ULONG opcode)$/;"	f
+op_53c0	cpu5.c	/^void op_53c0(ULONG opcode)$/;"	f
+op_53c8	cpu5.c	/^void op_53c8(ULONG opcode)$/;"	f
+op_53d0	cpu5.c	/^void op_53d0(ULONG opcode)$/;"	f
+op_53d8	cpu5.c	/^void op_53d8(ULONG opcode)$/;"	f
+op_53e0	cpu5.c	/^void op_53e0(ULONG opcode)$/;"	f
+op_53e8	cpu5.c	/^void op_53e8(ULONG opcode)$/;"	f
+op_53f0	cpu5.c	/^void op_53f0(ULONG opcode)$/;"	f
+op_53f8	cpu5.c	/^void op_53f8(ULONG opcode)$/;"	f
+op_53f9	cpu5.c	/^void op_53f9(ULONG opcode)$/;"	f
+op_54c0	cpu5.c	/^void op_54c0(ULONG opcode)$/;"	f
+op_54c8	cpu5.c	/^void op_54c8(ULONG opcode)$/;"	f
+op_54d0	cpu5.c	/^void op_54d0(ULONG opcode)$/;"	f
+op_54d8	cpu5.c	/^void op_54d8(ULONG opcode)$/;"	f
+op_54e0	cpu5.c	/^void op_54e0(ULONG opcode)$/;"	f
+op_54e8	cpu5.c	/^void op_54e8(ULONG opcode)$/;"	f
+op_54f0	cpu5.c	/^void op_54f0(ULONG opcode)$/;"	f
+op_54f8	cpu5.c	/^void op_54f8(ULONG opcode)$/;"	f
+op_54f9	cpu5.c	/^void op_54f9(ULONG opcode)$/;"	f
+op_55c0	cpu5.c	/^void op_55c0(ULONG opcode)$/;"	f
+op_55c8	cpu5.c	/^void op_55c8(ULONG opcode)$/;"	f
+op_55d0	cpu5.c	/^void op_55d0(ULONG opcode)$/;"	f
+op_55d8	cpu5.c	/^void op_55d8(ULONG opcode)$/;"	f
+op_55e0	cpu5.c	/^void op_55e0(ULONG opcode)$/;"	f
+op_55e8	cpu5.c	/^void op_55e8(ULONG opcode)$/;"	f
+op_55f0	cpu5.c	/^void op_55f0(ULONG opcode)$/;"	f
+op_55f8	cpu5.c	/^void op_55f8(ULONG opcode)$/;"	f
+op_55f9	cpu5.c	/^void op_55f9(ULONG opcode)$/;"	f
+op_56c0	cpu5.c	/^void op_56c0(ULONG opcode)$/;"	f
+op_56c8	cpu5.c	/^void op_56c8(ULONG opcode)$/;"	f
+op_56d0	cpu5.c	/^void op_56d0(ULONG opcode)$/;"	f
+op_56d8	cpu5.c	/^void op_56d8(ULONG opcode)$/;"	f
+op_56e0	cpu5.c	/^void op_56e0(ULONG opcode)$/;"	f
+op_56e8	cpu5.c	/^void op_56e8(ULONG opcode)$/;"	f
+op_56f0	cpu5.c	/^void op_56f0(ULONG opcode)$/;"	f
+op_56f8	cpu5.c	/^void op_56f8(ULONG opcode)$/;"	f
+op_56f9	cpu5.c	/^void op_56f9(ULONG opcode)$/;"	f
+op_57c0	cpu5.c	/^void op_57c0(ULONG opcode)$/;"	f
+op_57c8	cpu5.c	/^void op_57c8(ULONG opcode)$/;"	f
+op_57d0	cpu5.c	/^void op_57d0(ULONG opcode)$/;"	f
+op_57d8	cpu5.c	/^void op_57d8(ULONG opcode)$/;"	f
+op_57e0	cpu5.c	/^void op_57e0(ULONG opcode)$/;"	f
+op_57e8	cpu5.c	/^void op_57e8(ULONG opcode)$/;"	f
+op_57f0	cpu5.c	/^void op_57f0(ULONG opcode)$/;"	f
+op_57f8	cpu5.c	/^void op_57f8(ULONG opcode)$/;"	f
+op_57f9	cpu5.c	/^void op_57f9(ULONG opcode)$/;"	f
+op_58	cpu0.c	/^void op_58(ULONG opcode)$/;"	f
+op_58c0	cpu5.c	/^void op_58c0(ULONG opcode)$/;"	f
+op_58c8	cpu5.c	/^void op_58c8(ULONG opcode)$/;"	f
+op_58d0	cpu5.c	/^void op_58d0(ULONG opcode)$/;"	f
+op_58d8	cpu5.c	/^void op_58d8(ULONG opcode)$/;"	f
+op_58e0	cpu5.c	/^void op_58e0(ULONG opcode)$/;"	f
+op_58e8	cpu5.c	/^void op_58e8(ULONG opcode)$/;"	f
+op_58f0	cpu5.c	/^void op_58f0(ULONG opcode)$/;"	f
+op_58f8	cpu5.c	/^void op_58f8(ULONG opcode)$/;"	f
+op_58f9	cpu5.c	/^void op_58f9(ULONG opcode)$/;"	f
+op_59c0	cpu5.c	/^void op_59c0(ULONG opcode)$/;"	f
+op_59c8	cpu5.c	/^void op_59c8(ULONG opcode)$/;"	f
+op_59d0	cpu5.c	/^void op_59d0(ULONG opcode)$/;"	f
+op_59d8	cpu5.c	/^void op_59d8(ULONG opcode)$/;"	f
+op_59e0	cpu5.c	/^void op_59e0(ULONG opcode)$/;"	f
+op_59e8	cpu5.c	/^void op_59e8(ULONG opcode)$/;"	f
+op_59f0	cpu5.c	/^void op_59f0(ULONG opcode)$/;"	f
+op_59f8	cpu5.c	/^void op_59f8(ULONG opcode)$/;"	f
+op_59f9	cpu5.c	/^void op_59f9(ULONG opcode)$/;"	f
+op_5ac0	cpu5.c	/^void op_5ac0(ULONG opcode)$/;"	f
+op_5ac8	cpu5.c	/^void op_5ac8(ULONG opcode)$/;"	f
+op_5ad0	cpu5.c	/^void op_5ad0(ULONG opcode)$/;"	f
+op_5ad8	cpu5.c	/^void op_5ad8(ULONG opcode)$/;"	f
+op_5ae0	cpu5.c	/^void op_5ae0(ULONG opcode)$/;"	f
+op_5ae8	cpu5.c	/^void op_5ae8(ULONG opcode)$/;"	f
+op_5af0	cpu5.c	/^void op_5af0(ULONG opcode)$/;"	f
+op_5af8	cpu5.c	/^void op_5af8(ULONG opcode)$/;"	f
+op_5af9	cpu5.c	/^void op_5af9(ULONG opcode)$/;"	f
+op_5bc0	cpu5.c	/^void op_5bc0(ULONG opcode)$/;"	f
+op_5bc8	cpu5.c	/^void op_5bc8(ULONG opcode)$/;"	f
+op_5bd0	cpu5.c	/^void op_5bd0(ULONG opcode)$/;"	f
+op_5bd8	cpu5.c	/^void op_5bd8(ULONG opcode)$/;"	f
+op_5be0	cpu5.c	/^void op_5be0(ULONG opcode)$/;"	f
+op_5be8	cpu5.c	/^void op_5be8(ULONG opcode)$/;"	f
+op_5bf0	cpu5.c	/^void op_5bf0(ULONG opcode)$/;"	f
+op_5bf8	cpu5.c	/^void op_5bf8(ULONG opcode)$/;"	f
+op_5bf9	cpu5.c	/^void op_5bf9(ULONG opcode)$/;"	f
+op_5cc0	cpu5.c	/^void op_5cc0(ULONG opcode)$/;"	f
+op_5cc8	cpu5.c	/^void op_5cc8(ULONG opcode)$/;"	f
+op_5cd0	cpu5.c	/^void op_5cd0(ULONG opcode)$/;"	f
+op_5cd8	cpu5.c	/^void op_5cd8(ULONG opcode)$/;"	f
+op_5ce0	cpu5.c	/^void op_5ce0(ULONG opcode)$/;"	f
+op_5ce8	cpu5.c	/^void op_5ce8(ULONG opcode)$/;"	f
+op_5cf0	cpu5.c	/^void op_5cf0(ULONG opcode)$/;"	f
+op_5cf8	cpu5.c	/^void op_5cf8(ULONG opcode)$/;"	f
+op_5cf9	cpu5.c	/^void op_5cf9(ULONG opcode)$/;"	f
+op_5dc0	cpu5.c	/^void op_5dc0(ULONG opcode)$/;"	f
+op_5dc8	cpu5.c	/^void op_5dc8(ULONG opcode)$/;"	f
+op_5dd0	cpu5.c	/^void op_5dd0(ULONG opcode)$/;"	f
+op_5dd8	cpu5.c	/^void op_5dd8(ULONG opcode)$/;"	f
+op_5de0	cpu5.c	/^void op_5de0(ULONG opcode)$/;"	f
+op_5de8	cpu5.c	/^void op_5de8(ULONG opcode)$/;"	f
+op_5df0	cpu5.c	/^void op_5df0(ULONG opcode)$/;"	f
+op_5df8	cpu5.c	/^void op_5df8(ULONG opcode)$/;"	f
+op_5df9	cpu5.c	/^void op_5df9(ULONG opcode)$/;"	f
+op_5ec0	cpu5.c	/^void op_5ec0(ULONG opcode)$/;"	f
+op_5ec8	cpu5.c	/^void op_5ec8(ULONG opcode)$/;"	f
+op_5ed0	cpu5.c	/^void op_5ed0(ULONG opcode)$/;"	f
+op_5ed8	cpu5.c	/^void op_5ed8(ULONG opcode)$/;"	f
+op_5ee0	cpu5.c	/^void op_5ee0(ULONG opcode)$/;"	f
+op_5ee8	cpu5.c	/^void op_5ee8(ULONG opcode)$/;"	f
+op_5ef0	cpu5.c	/^void op_5ef0(ULONG opcode)$/;"	f
+op_5ef8	cpu5.c	/^void op_5ef8(ULONG opcode)$/;"	f
+op_5ef9	cpu5.c	/^void op_5ef9(ULONG opcode)$/;"	f
+op_5fc0	cpu5.c	/^void op_5fc0(ULONG opcode)$/;"	f
+op_5fc8	cpu5.c	/^void op_5fc8(ULONG opcode)$/;"	f
+op_5fd0	cpu5.c	/^void op_5fd0(ULONG opcode)$/;"	f
+op_5fd8	cpu5.c	/^void op_5fd8(ULONG opcode)$/;"	f
+op_5fe0	cpu5.c	/^void op_5fe0(ULONG opcode)$/;"	f
+op_5fe8	cpu5.c	/^void op_5fe8(ULONG opcode)$/;"	f
+op_5ff0	cpu5.c	/^void op_5ff0(ULONG opcode)$/;"	f
+op_5ff8	cpu5.c	/^void op_5ff8(ULONG opcode)$/;"	f
+op_5ff9	cpu5.c	/^void op_5ff9(ULONG opcode)$/;"	f
+op_60	cpu0.c	/^void op_60(ULONG opcode)$/;"	f
+op_600	cpu0.c	/^void op_600(ULONG opcode)$/;"	f
+op_6000	cpu6.c	/^void op_6000(ULONG opcode)$/;"	f
+op_6001	cpu6.c	/^void op_6001(ULONG opcode)$/;"	f
+op_610	cpu0.c	/^void op_610(ULONG opcode)$/;"	f
+op_6100	cpu6.c	/^void op_6100(ULONG opcode)$/;"	f
+op_6101	cpu6.c	/^void op_6101(ULONG opcode)$/;"	f
+op_618	cpu0.c	/^void op_618(ULONG opcode)$/;"	f
+op_620	cpu0.c	/^void op_620(ULONG opcode)$/;"	f
+op_6200	cpu6.c	/^void op_6200(ULONG opcode)$/;"	f
+op_6201	cpu6.c	/^void op_6201(ULONG opcode)$/;"	f
+op_628	cpu0.c	/^void op_628(ULONG opcode)$/;"	f
+op_630	cpu0.c	/^void op_630(ULONG opcode)$/;"	f
+op_6300	cpu6.c	/^void op_6300(ULONG opcode)$/;"	f
+op_6301	cpu6.c	/^void op_6301(ULONG opcode)$/;"	f
+op_638	cpu0.c	/^void op_638(ULONG opcode)$/;"	f
+op_639	cpu0.c	/^void op_639(ULONG opcode)$/;"	f
+op_640	cpu0.c	/^void op_640(ULONG opcode)$/;"	f
+op_6400	cpu6.c	/^void op_6400(ULONG opcode)$/;"	f
+op_6401	cpu6.c	/^void op_6401(ULONG opcode)$/;"	f
+op_650	cpu0.c	/^void op_650(ULONG opcode)$/;"	f
+op_6500	cpu6.c	/^void op_6500(ULONG opcode)$/;"	f
+op_6501	cpu6.c	/^void op_6501(ULONG opcode)$/;"	f
+op_658	cpu0.c	/^void op_658(ULONG opcode)$/;"	f
+op_660	cpu0.c	/^void op_660(ULONG opcode)$/;"	f
+op_6600	cpu6.c	/^void op_6600(ULONG opcode)$/;"	f
+op_6601	cpu6.c	/^void op_6601(ULONG opcode)$/;"	f
+op_668	cpu0.c	/^void op_668(ULONG opcode)$/;"	f
+op_670	cpu0.c	/^void op_670(ULONG opcode)$/;"	f
+op_6700	cpu6.c	/^void op_6700(ULONG opcode)$/;"	f
+op_6701	cpu6.c	/^void op_6701(ULONG opcode)$/;"	f
+op_678	cpu0.c	/^void op_678(ULONG opcode)$/;"	f
+op_679	cpu0.c	/^void op_679(ULONG opcode)$/;"	f
+op_68	cpu0.c	/^void op_68(ULONG opcode)$/;"	f
+op_680	cpu0.c	/^void op_680(ULONG opcode)$/;"	f
+op_6800	cpu6.c	/^void op_6800(ULONG opcode)$/;"	f
+op_6801	cpu6.c	/^void op_6801(ULONG opcode)$/;"	f
+op_690	cpu0.c	/^void op_690(ULONG opcode)$/;"	f
+op_6900	cpu6.c	/^void op_6900(ULONG opcode)$/;"	f
+op_6901	cpu6.c	/^void op_6901(ULONG opcode)$/;"	f
+op_698	cpu0.c	/^void op_698(ULONG opcode)$/;"	f
+op_6a0	cpu0.c	/^void op_6a0(ULONG opcode)$/;"	f
+op_6a00	cpu6.c	/^void op_6a00(ULONG opcode)$/;"	f
+op_6a01	cpu6.c	/^void op_6a01(ULONG opcode)$/;"	f
+op_6a8	cpu0.c	/^void op_6a8(ULONG opcode)$/;"	f
+op_6b0	cpu0.c	/^void op_6b0(ULONG opcode)$/;"	f
+op_6b00	cpu6.c	/^void op_6b00(ULONG opcode)$/;"	f
+op_6b01	cpu6.c	/^void op_6b01(ULONG opcode)$/;"	f
+op_6b8	cpu0.c	/^void op_6b8(ULONG opcode)$/;"	f
+op_6b9	cpu0.c	/^void op_6b9(ULONG opcode)$/;"	f
+op_6c00	cpu6.c	/^void op_6c00(ULONG opcode)$/;"	f
+op_6c01	cpu6.c	/^void op_6c01(ULONG opcode)$/;"	f
+op_6d00	cpu6.c	/^void op_6d00(ULONG opcode)$/;"	f
+op_6d01	cpu6.c	/^void op_6d01(ULONG opcode)$/;"	f
+op_6e00	cpu6.c	/^void op_6e00(ULONG opcode)$/;"	f
+op_6e01	cpu6.c	/^void op_6e01(ULONG opcode)$/;"	f
+op_6f00	cpu6.c	/^void op_6f00(ULONG opcode)$/;"	f
+op_6f01	cpu6.c	/^void op_6f01(ULONG opcode)$/;"	f
+op_70	cpu0.c	/^void op_70(ULONG opcode)$/;"	f
+op_7000	cpu7.c	/^void op_7000(ULONG opcode)$/;"	f
+op_78	cpu0.c	/^void op_78(ULONG opcode)$/;"	f
+op_79	cpu0.c	/^void op_79(ULONG opcode)$/;"	f
+op_7c	cpu0.c	/^void op_7c(ULONG opcode)$/;"	f
+op_80	cpu0.c	/^void op_80(ULONG opcode)$/;"	f
+op_800	cpu0.c	/^void op_800(ULONG opcode)$/;"	f
+op_8000	cpu8.c	/^void op_8000(ULONG opcode)$/;"	f
+op_8010	cpu8.c	/^void op_8010(ULONG opcode)$/;"	f
+op_8018	cpu8.c	/^void op_8018(ULONG opcode)$/;"	f
+op_8020	cpu8.c	/^void op_8020(ULONG opcode)$/;"	f
+op_8028	cpu8.c	/^void op_8028(ULONG opcode)$/;"	f
+op_8030	cpu8.c	/^void op_8030(ULONG opcode)$/;"	f
+op_8038	cpu8.c	/^void op_8038(ULONG opcode)$/;"	f
+op_8039	cpu8.c	/^void op_8039(ULONG opcode)$/;"	f
+op_803a	cpu8.c	/^void op_803a(ULONG opcode)$/;"	f
+op_803b	cpu8.c	/^void op_803b(ULONG opcode)$/;"	f
+op_803c	cpu8.c	/^void op_803c(ULONG opcode)$/;"	f
+op_8040	cpu8.c	/^void op_8040(ULONG opcode)$/;"	f
+op_8050	cpu8.c	/^void op_8050(ULONG opcode)$/;"	f
+op_8058	cpu8.c	/^void op_8058(ULONG opcode)$/;"	f
+op_8060	cpu8.c	/^void op_8060(ULONG opcode)$/;"	f
+op_8068	cpu8.c	/^void op_8068(ULONG opcode)$/;"	f
+op_8070	cpu8.c	/^void op_8070(ULONG opcode)$/;"	f
+op_8078	cpu8.c	/^void op_8078(ULONG opcode)$/;"	f
+op_8079	cpu8.c	/^void op_8079(ULONG opcode)$/;"	f
+op_807a	cpu8.c	/^void op_807a(ULONG opcode)$/;"	f
+op_807b	cpu8.c	/^void op_807b(ULONG opcode)$/;"	f
+op_807c	cpu8.c	/^void op_807c(ULONG opcode)$/;"	f
+op_8080	cpu8.c	/^void op_8080(ULONG opcode)$/;"	f
+op_8090	cpu8.c	/^void op_8090(ULONG opcode)$/;"	f
+op_8098	cpu8.c	/^void op_8098(ULONG opcode)$/;"	f
+op_80a0	cpu8.c	/^void op_80a0(ULONG opcode)$/;"	f
+op_80a8	cpu8.c	/^void op_80a8(ULONG opcode)$/;"	f
+op_80b0	cpu8.c	/^void op_80b0(ULONG opcode)$/;"	f
+op_80b8	cpu8.c	/^void op_80b8(ULONG opcode)$/;"	f
+op_80b9	cpu8.c	/^void op_80b9(ULONG opcode)$/;"	f
+op_80ba	cpu8.c	/^void op_80ba(ULONG opcode)$/;"	f
+op_80bb	cpu8.c	/^void op_80bb(ULONG opcode)$/;"	f
+op_80bc	cpu8.c	/^void op_80bc(ULONG opcode)$/;"	f
+op_80c0	cpu8.c	/^void op_80c0(ULONG opcode)$/;"	f
+op_80d0	cpu8.c	/^void op_80d0(ULONG opcode)$/;"	f
+op_80d8	cpu8.c	/^void op_80d8(ULONG opcode)$/;"	f
+op_80e0	cpu8.c	/^void op_80e0(ULONG opcode)$/;"	f
+op_80e8	cpu8.c	/^void op_80e8(ULONG opcode)$/;"	f
+op_80f0	cpu8.c	/^void op_80f0(ULONG opcode)$/;"	f
+op_80f8	cpu8.c	/^void op_80f8(ULONG opcode)$/;"	f
+op_80f9	cpu8.c	/^void op_80f9(ULONG opcode)$/;"	f
+op_80fa	cpu8.c	/^void op_80fa(ULONG opcode)$/;"	f
+op_80fb	cpu8.c	/^void op_80fb(ULONG opcode)$/;"	f
+op_80fc	cpu8.c	/^void op_80fc(ULONG opcode)$/;"	f
+op_810	cpu0.c	/^void op_810(ULONG opcode)$/;"	f
+op_8100	cpu8.c	/^void op_8100(ULONG opcode)$/;"	f
+op_8108	cpu8.c	/^void op_8108(ULONG opcode)$/;"	f
+op_8110	cpu8.c	/^void op_8110(ULONG opcode)$/;"	f
+op_8118	cpu8.c	/^void op_8118(ULONG opcode)$/;"	f
+op_8120	cpu8.c	/^void op_8120(ULONG opcode)$/;"	f
+op_8128	cpu8.c	/^void op_8128(ULONG opcode)$/;"	f
+op_8130	cpu8.c	/^void op_8130(ULONG opcode)$/;"	f
+op_8138	cpu8.c	/^void op_8138(ULONG opcode)$/;"	f
+op_8139	cpu8.c	/^void op_8139(ULONG opcode)$/;"	f
+op_8150	cpu8.c	/^void op_8150(ULONG opcode)$/;"	f
+op_8158	cpu8.c	/^void op_8158(ULONG opcode)$/;"	f
+op_8160	cpu8.c	/^void op_8160(ULONG opcode)$/;"	f
+op_8168	cpu8.c	/^void op_8168(ULONG opcode)$/;"	f
+op_8170	cpu8.c	/^void op_8170(ULONG opcode)$/;"	f
+op_8178	cpu8.c	/^void op_8178(ULONG opcode)$/;"	f
+op_8179	cpu8.c	/^void op_8179(ULONG opcode)$/;"	f
+op_818	cpu0.c	/^void op_818(ULONG opcode)$/;"	f
+op_8190	cpu8.c	/^void op_8190(ULONG opcode)$/;"	f
+op_8198	cpu8.c	/^void op_8198(ULONG opcode)$/;"	f
+op_81a0	cpu8.c	/^void op_81a0(ULONG opcode)$/;"	f
+op_81a8	cpu8.c	/^void op_81a8(ULONG opcode)$/;"	f
+op_81b0	cpu8.c	/^void op_81b0(ULONG opcode)$/;"	f
+op_81b8	cpu8.c	/^void op_81b8(ULONG opcode)$/;"	f
+op_81b9	cpu8.c	/^void op_81b9(ULONG opcode)$/;"	f
+op_81c0	cpu8.c	/^void op_81c0(ULONG opcode)$/;"	f
+op_81d0	cpu8.c	/^void op_81d0(ULONG opcode)$/;"	f
+op_81d8	cpu8.c	/^void op_81d8(ULONG opcode)$/;"	f
+op_81e0	cpu8.c	/^void op_81e0(ULONG opcode)$/;"	f
+op_81e8	cpu8.c	/^void op_81e8(ULONG opcode)$/;"	f
+op_81f0	cpu8.c	/^void op_81f0(ULONG opcode)$/;"	f
+op_81f8	cpu8.c	/^void op_81f8(ULONG opcode)$/;"	f
+op_81f9	cpu8.c	/^void op_81f9(ULONG opcode)$/;"	f
+op_81fa	cpu8.c	/^void op_81fa(ULONG opcode)$/;"	f
+op_81fb	cpu8.c	/^void op_81fb(ULONG opcode)$/;"	f
+op_81fc	cpu8.c	/^void op_81fc(ULONG opcode)$/;"	f
+op_820	cpu0.c	/^void op_820(ULONG opcode)$/;"	f
+op_828	cpu0.c	/^void op_828(ULONG opcode)$/;"	f
+op_830	cpu0.c	/^void op_830(ULONG opcode)$/;"	f
+op_838	cpu0.c	/^void op_838(ULONG opcode)$/;"	f
+op_839	cpu0.c	/^void op_839(ULONG opcode)$/;"	f
+op_83a	cpu0.c	/^void op_83a(ULONG opcode)$/;"	f
+op_83b	cpu0.c	/^void op_83b(ULONG opcode)$/;"	f
+op_83c	cpu0.c	/^void op_83c(ULONG opcode)$/;"	f
+op_840	cpu0.c	/^void op_840(ULONG opcode)$/;"	f
+op_850	cpu0.c	/^void op_850(ULONG opcode)$/;"	f
+op_858	cpu0.c	/^void op_858(ULONG opcode)$/;"	f
+op_860	cpu0.c	/^void op_860(ULONG opcode)$/;"	f
+op_868	cpu0.c	/^void op_868(ULONG opcode)$/;"	f
+op_870	cpu0.c	/^void op_870(ULONG opcode)$/;"	f
+op_878	cpu0.c	/^void op_878(ULONG opcode)$/;"	f
+op_879	cpu0.c	/^void op_879(ULONG opcode)$/;"	f
+op_87a	cpu0.c	/^void op_87a(ULONG opcode)$/;"	f
+op_87b	cpu0.c	/^void op_87b(ULONG opcode)$/;"	f
+op_880	cpu0.c	/^void op_880(ULONG opcode)$/;"	f
+op_890	cpu0.c	/^void op_890(ULONG opcode)$/;"	f
+op_898	cpu0.c	/^void op_898(ULONG opcode)$/;"	f
+op_8a0	cpu0.c	/^void op_8a0(ULONG opcode)$/;"	f
+op_8a8	cpu0.c	/^void op_8a8(ULONG opcode)$/;"	f
+op_8b0	cpu0.c	/^void op_8b0(ULONG opcode)$/;"	f
+op_8b8	cpu0.c	/^void op_8b8(ULONG opcode)$/;"	f
+op_8b9	cpu0.c	/^void op_8b9(ULONG opcode)$/;"	f
+op_8ba	cpu0.c	/^void op_8ba(ULONG opcode)$/;"	f
+op_8bb	cpu0.c	/^void op_8bb(ULONG opcode)$/;"	f
+op_8c0	cpu0.c	/^void op_8c0(ULONG opcode)$/;"	f
+op_8d0	cpu0.c	/^void op_8d0(ULONG opcode)$/;"	f
+op_8d8	cpu0.c	/^void op_8d8(ULONG opcode)$/;"	f
+op_8e0	cpu0.c	/^void op_8e0(ULONG opcode)$/;"	f
+op_8e8	cpu0.c	/^void op_8e8(ULONG opcode)$/;"	f
+op_8f0	cpu0.c	/^void op_8f0(ULONG opcode)$/;"	f
+op_8f8	cpu0.c	/^void op_8f8(ULONG opcode)$/;"	f
+op_8f9	cpu0.c	/^void op_8f9(ULONG opcode)$/;"	f
+op_8fa	cpu0.c	/^void op_8fa(ULONG opcode)$/;"	f
+op_8fb	cpu0.c	/^void op_8fb(ULONG opcode)$/;"	f
+op_90	cpu0.c	/^void op_90(ULONG opcode)$/;"	f
+op_9000	cpu9.c	/^void op_9000(ULONG opcode)$/;"	f
+op_9010	cpu9.c	/^void op_9010(ULONG opcode)$/;"	f
+op_9018	cpu9.c	/^void op_9018(ULONG opcode)$/;"	f
+op_9020	cpu9.c	/^void op_9020(ULONG opcode)$/;"	f
+op_9028	cpu9.c	/^void op_9028(ULONG opcode)$/;"	f
+op_9030	cpu9.c	/^void op_9030(ULONG opcode)$/;"	f
+op_9038	cpu9.c	/^void op_9038(ULONG opcode)$/;"	f
+op_9039	cpu9.c	/^void op_9039(ULONG opcode)$/;"	f
+op_903a	cpu9.c	/^void op_903a(ULONG opcode)$/;"	f
+op_903b	cpu9.c	/^void op_903b(ULONG opcode)$/;"	f
+op_903c	cpu9.c	/^void op_903c(ULONG opcode)$/;"	f
+op_9040	cpu9.c	/^void op_9040(ULONG opcode)$/;"	f
+op_9048	cpu9.c	/^void op_9048(ULONG opcode)$/;"	f
+op_9050	cpu9.c	/^void op_9050(ULONG opcode)$/;"	f
+op_9058	cpu9.c	/^void op_9058(ULONG opcode)$/;"	f
+op_9060	cpu9.c	/^void op_9060(ULONG opcode)$/;"	f
+op_9068	cpu9.c	/^void op_9068(ULONG opcode)$/;"	f
+op_9070	cpu9.c	/^void op_9070(ULONG opcode)$/;"	f
+op_9078	cpu9.c	/^void op_9078(ULONG opcode)$/;"	f
+op_9079	cpu9.c	/^void op_9079(ULONG opcode)$/;"	f
+op_907a	cpu9.c	/^void op_907a(ULONG opcode)$/;"	f
+op_907b	cpu9.c	/^void op_907b(ULONG opcode)$/;"	f
+op_907c	cpu9.c	/^void op_907c(ULONG opcode)$/;"	f
+op_9080	cpu9.c	/^void op_9080(ULONG opcode)$/;"	f
+op_9088	cpu9.c	/^void op_9088(ULONG opcode)$/;"	f
+op_9090	cpu9.c	/^void op_9090(ULONG opcode)$/;"	f
+op_9098	cpu9.c	/^void op_9098(ULONG opcode)$/;"	f
+op_90a0	cpu9.c	/^void op_90a0(ULONG opcode)$/;"	f
+op_90a8	cpu9.c	/^void op_90a8(ULONG opcode)$/;"	f
+op_90b0	cpu9.c	/^void op_90b0(ULONG opcode)$/;"	f
+op_90b8	cpu9.c	/^void op_90b8(ULONG opcode)$/;"	f
+op_90b9	cpu9.c	/^void op_90b9(ULONG opcode)$/;"	f
+op_90ba	cpu9.c	/^void op_90ba(ULONG opcode)$/;"	f
+op_90bb	cpu9.c	/^void op_90bb(ULONG opcode)$/;"	f
+op_90bc	cpu9.c	/^void op_90bc(ULONG opcode)$/;"	f
+op_90c0	cpu9.c	/^void op_90c0(ULONG opcode)$/;"	f
+op_90c8	cpu9.c	/^void op_90c8(ULONG opcode)$/;"	f
+op_90d0	cpu9.c	/^void op_90d0(ULONG opcode)$/;"	f
+op_90d8	cpu9.c	/^void op_90d8(ULONG opcode)$/;"	f
+op_90e0	cpu9.c	/^void op_90e0(ULONG opcode)$/;"	f
+op_90e8	cpu9.c	/^void op_90e8(ULONG opcode)$/;"	f
+op_90f0	cpu9.c	/^void op_90f0(ULONG opcode)$/;"	f
+op_90f8	cpu9.c	/^void op_90f8(ULONG opcode)$/;"	f
+op_90f9	cpu9.c	/^void op_90f9(ULONG opcode)$/;"	f
+op_90fa	cpu9.c	/^void op_90fa(ULONG opcode)$/;"	f
+op_90fb	cpu9.c	/^void op_90fb(ULONG opcode)$/;"	f
+op_90fc	cpu9.c	/^void op_90fc(ULONG opcode)$/;"	f
+op_9100	cpu9.c	/^void op_9100(ULONG opcode)$/;"	f
+op_9108	cpu9.c	/^void op_9108(ULONG opcode)$/;"	f
+op_9110	cpu9.c	/^void op_9110(ULONG opcode)$/;"	f
+op_9118	cpu9.c	/^void op_9118(ULONG opcode)$/;"	f
+op_9120	cpu9.c	/^void op_9120(ULONG opcode)$/;"	f
+op_9128	cpu9.c	/^void op_9128(ULONG opcode)$/;"	f
+op_9130	cpu9.c	/^void op_9130(ULONG opcode)$/;"	f
+op_9138	cpu9.c	/^void op_9138(ULONG opcode)$/;"	f
+op_9139	cpu9.c	/^void op_9139(ULONG opcode)$/;"	f
+op_9140	cpu9.c	/^void op_9140(ULONG opcode)$/;"	f
+op_9148	cpu9.c	/^void op_9148(ULONG opcode)$/;"	f
+op_9150	cpu9.c	/^void op_9150(ULONG opcode)$/;"	f
+op_9158	cpu9.c	/^void op_9158(ULONG opcode)$/;"	f
+op_9160	cpu9.c	/^void op_9160(ULONG opcode)$/;"	f
+op_9168	cpu9.c	/^void op_9168(ULONG opcode)$/;"	f
+op_9170	cpu9.c	/^void op_9170(ULONG opcode)$/;"	f
+op_9178	cpu9.c	/^void op_9178(ULONG opcode)$/;"	f
+op_9179	cpu9.c	/^void op_9179(ULONG opcode)$/;"	f
+op_9180	cpu9.c	/^void op_9180(ULONG opcode)$/;"	f
+op_9188	cpu9.c	/^void op_9188(ULONG opcode)$/;"	f
+op_9190	cpu9.c	/^void op_9190(ULONG opcode)$/;"	f
+op_9198	cpu9.c	/^void op_9198(ULONG opcode)$/;"	f
+op_91a0	cpu9.c	/^void op_91a0(ULONG opcode)$/;"	f
+op_91a8	cpu9.c	/^void op_91a8(ULONG opcode)$/;"	f
+op_91b0	cpu9.c	/^void op_91b0(ULONG opcode)$/;"	f
+op_91b8	cpu9.c	/^void op_91b8(ULONG opcode)$/;"	f
+op_91b9	cpu9.c	/^void op_91b9(ULONG opcode)$/;"	f
+op_91c0	cpu9.c	/^void op_91c0(ULONG opcode)$/;"	f
+op_91c8	cpu9.c	/^void op_91c8(ULONG opcode)$/;"	f
+op_91d0	cpu9.c	/^void op_91d0(ULONG opcode)$/;"	f
+op_91d8	cpu9.c	/^void op_91d8(ULONG opcode)$/;"	f
+op_91e0	cpu9.c	/^void op_91e0(ULONG opcode)$/;"	f
+op_91e8	cpu9.c	/^void op_91e8(ULONG opcode)$/;"	f
+op_91f0	cpu9.c	/^void op_91f0(ULONG opcode)$/;"	f
+op_91f8	cpu9.c	/^void op_91f8(ULONG opcode)$/;"	f
+op_91f9	cpu9.c	/^void op_91f9(ULONG opcode)$/;"	f
+op_91fa	cpu9.c	/^void op_91fa(ULONG opcode)$/;"	f
+op_91fb	cpu9.c	/^void op_91fb(ULONG opcode)$/;"	f
+op_91fc	cpu9.c	/^void op_91fc(ULONG opcode)$/;"	f
+op_98	cpu0.c	/^void op_98(ULONG opcode)$/;"	f
+op_a0	cpu0.c	/^void op_a0(ULONG opcode)$/;"	f
+op_a00	cpu0.c	/^void op_a00(ULONG opcode)$/;"	f
+op_a10	cpu0.c	/^void op_a10(ULONG opcode)$/;"	f
+op_a18	cpu0.c	/^void op_a18(ULONG opcode)$/;"	f
+op_a20	cpu0.c	/^void op_a20(ULONG opcode)$/;"	f
+op_a28	cpu0.c	/^void op_a28(ULONG opcode)$/;"	f
+op_a30	cpu0.c	/^void op_a30(ULONG opcode)$/;"	f
+op_a38	cpu0.c	/^void op_a38(ULONG opcode)$/;"	f
+op_a39	cpu0.c	/^void op_a39(ULONG opcode)$/;"	f
+op_a3c	cpu0.c	/^void op_a3c(ULONG opcode)$/;"	f
+op_a40	cpu0.c	/^void op_a40(ULONG opcode)$/;"	f
+op_a50	cpu0.c	/^void op_a50(ULONG opcode)$/;"	f
+op_a58	cpu0.c	/^void op_a58(ULONG opcode)$/;"	f
+op_a60	cpu0.c	/^void op_a60(ULONG opcode)$/;"	f
+op_a68	cpu0.c	/^void op_a68(ULONG opcode)$/;"	f
+op_a70	cpu0.c	/^void op_a70(ULONG opcode)$/;"	f
+op_a78	cpu0.c	/^void op_a78(ULONG opcode)$/;"	f
+op_a79	cpu0.c	/^void op_a79(ULONG opcode)$/;"	f
+op_a7c	cpu0.c	/^void op_a7c(ULONG opcode)$/;"	f
+op_a8	cpu0.c	/^void op_a8(ULONG opcode)$/;"	f
+op_a80	cpu0.c	/^void op_a80(ULONG opcode)$/;"	f
+op_a90	cpu0.c	/^void op_a90(ULONG opcode)$/;"	f
+op_a98	cpu0.c	/^void op_a98(ULONG opcode)$/;"	f
+op_aa0	cpu0.c	/^void op_aa0(ULONG opcode)$/;"	f
+op_aa8	cpu0.c	/^void op_aa8(ULONG opcode)$/;"	f
+op_ab0	cpu0.c	/^void op_ab0(ULONG opcode)$/;"	f
+op_ab8	cpu0.c	/^void op_ab8(ULONG opcode)$/;"	f
+op_ab9	cpu0.c	/^void op_ab9(ULONG opcode)$/;"	f
+op_b0	cpu0.c	/^void op_b0(ULONG opcode)$/;"	f
+op_b000	cpuB.c	/^void op_b000(ULONG opcode)$/;"	f
+op_b010	cpuB.c	/^void op_b010(ULONG opcode)$/;"	f
+op_b018	cpuB.c	/^void op_b018(ULONG opcode)$/;"	f
+op_b020	cpuB.c	/^void op_b020(ULONG opcode)$/;"	f
+op_b028	cpuB.c	/^void op_b028(ULONG opcode)$/;"	f
+op_b030	cpuB.c	/^void op_b030(ULONG opcode)$/;"	f
+op_b038	cpuB.c	/^void op_b038(ULONG opcode)$/;"	f
+op_b039	cpuB.c	/^void op_b039(ULONG opcode)$/;"	f
+op_b03a	cpuB.c	/^void op_b03a(ULONG opcode)$/;"	f
+op_b03b	cpuB.c	/^void op_b03b(ULONG opcode)$/;"	f
+op_b03c	cpuB.c	/^void op_b03c(ULONG opcode)$/;"	f
+op_b040	cpuB.c	/^void op_b040(ULONG opcode)$/;"	f
+op_b048	cpuB.c	/^void op_b048(ULONG opcode)$/;"	f
+op_b050	cpuB.c	/^void op_b050(ULONG opcode)$/;"	f
+op_b058	cpuB.c	/^void op_b058(ULONG opcode)$/;"	f
+op_b060	cpuB.c	/^void op_b060(ULONG opcode)$/;"	f
+op_b068	cpuB.c	/^void op_b068(ULONG opcode)$/;"	f
+op_b070	cpuB.c	/^void op_b070(ULONG opcode)$/;"	f
+op_b078	cpuB.c	/^void op_b078(ULONG opcode)$/;"	f
+op_b079	cpuB.c	/^void op_b079(ULONG opcode)$/;"	f
+op_b07a	cpuB.c	/^void op_b07a(ULONG opcode)$/;"	f
+op_b07b	cpuB.c	/^void op_b07b(ULONG opcode)$/;"	f
+op_b07c	cpuB.c	/^void op_b07c(ULONG opcode)$/;"	f
+op_b080	cpuB.c	/^void op_b080(ULONG opcode)$/;"	f
+op_b088	cpuB.c	/^void op_b088(ULONG opcode)$/;"	f
+op_b090	cpuB.c	/^void op_b090(ULONG opcode)$/;"	f
+op_b098	cpuB.c	/^void op_b098(ULONG opcode)$/;"	f
+op_b0a0	cpuB.c	/^void op_b0a0(ULONG opcode)$/;"	f
+op_b0a8	cpuB.c	/^void op_b0a8(ULONG opcode)$/;"	f
+op_b0b0	cpuB.c	/^void op_b0b0(ULONG opcode)$/;"	f
+op_b0b8	cpuB.c	/^void op_b0b8(ULONG opcode)$/;"	f
+op_b0b9	cpuB.c	/^void op_b0b9(ULONG opcode)$/;"	f
+op_b0ba	cpuB.c	/^void op_b0ba(ULONG opcode)$/;"	f
+op_b0bb	cpuB.c	/^void op_b0bb(ULONG opcode)$/;"	f
+op_b0bc	cpuB.c	/^void op_b0bc(ULONG opcode)$/;"	f
+op_b0c0	cpuB.c	/^void op_b0c0(ULONG opcode)$/;"	f
+op_b0c8	cpuB.c	/^void op_b0c8(ULONG opcode)$/;"	f
+op_b0d0	cpuB.c	/^void op_b0d0(ULONG opcode)$/;"	f
+op_b0d8	cpuB.c	/^void op_b0d8(ULONG opcode)$/;"	f
+op_b0e0	cpuB.c	/^void op_b0e0(ULONG opcode)$/;"	f
+op_b0e8	cpuB.c	/^void op_b0e8(ULONG opcode)$/;"	f
+op_b0f0	cpuB.c	/^void op_b0f0(ULONG opcode)$/;"	f
+op_b0f8	cpuB.c	/^void op_b0f8(ULONG opcode)$/;"	f
+op_b0f9	cpuB.c	/^void op_b0f9(ULONG opcode)$/;"	f
+op_b0fa	cpuB.c	/^void op_b0fa(ULONG opcode)$/;"	f
+op_b0fb	cpuB.c	/^void op_b0fb(ULONG opcode)$/;"	f
+op_b0fc	cpuB.c	/^void op_b0fc(ULONG opcode)$/;"	f
+op_b100	cpuB.c	/^void op_b100(ULONG opcode)$/;"	f
+op_b108	cpuB.c	/^void op_b108(ULONG opcode)$/;"	f
+op_b110	cpuB.c	/^void op_b110(ULONG opcode)$/;"	f
+op_b118	cpuB.c	/^void op_b118(ULONG opcode)$/;"	f
+op_b120	cpuB.c	/^void op_b120(ULONG opcode)$/;"	f
+op_b128	cpuB.c	/^void op_b128(ULONG opcode)$/;"	f
+op_b130	cpuB.c	/^void op_b130(ULONG opcode)$/;"	f
+op_b138	cpuB.c	/^void op_b138(ULONG opcode)$/;"	f
+op_b139	cpuB.c	/^void op_b139(ULONG opcode)$/;"	f
+op_b140	cpuB.c	/^void op_b140(ULONG opcode)$/;"	f
+op_b148	cpuB.c	/^void op_b148(ULONG opcode)$/;"	f
+op_b150	cpuB.c	/^void op_b150(ULONG opcode)$/;"	f
+op_b158	cpuB.c	/^void op_b158(ULONG opcode)$/;"	f
+op_b160	cpuB.c	/^void op_b160(ULONG opcode)$/;"	f
+op_b168	cpuB.c	/^void op_b168(ULONG opcode)$/;"	f
+op_b170	cpuB.c	/^void op_b170(ULONG opcode)$/;"	f
+op_b178	cpuB.c	/^void op_b178(ULONG opcode)$/;"	f
+op_b179	cpuB.c	/^void op_b179(ULONG opcode)$/;"	f
+op_b180	cpuB.c	/^void op_b180(ULONG opcode)$/;"	f
+op_b188	cpuB.c	/^void op_b188(ULONG opcode)$/;"	f
+op_b190	cpuB.c	/^void op_b190(ULONG opcode)$/;"	f
+op_b198	cpuB.c	/^void op_b198(ULONG opcode)$/;"	f
+op_b1a0	cpuB.c	/^void op_b1a0(ULONG opcode)$/;"	f
+op_b1a8	cpuB.c	/^void op_b1a8(ULONG opcode)$/;"	f
+op_b1b0	cpuB.c	/^void op_b1b0(ULONG opcode)$/;"	f
+op_b1b8	cpuB.c	/^void op_b1b8(ULONG opcode)$/;"	f
+op_b1b9	cpuB.c	/^void op_b1b9(ULONG opcode)$/;"	f
+op_b1c0	cpuB.c	/^void op_b1c0(ULONG opcode)$/;"	f
+op_b1c8	cpuB.c	/^void op_b1c8(ULONG opcode)$/;"	f
+op_b1d0	cpuB.c	/^void op_b1d0(ULONG opcode)$/;"	f
+op_b1d8	cpuB.c	/^void op_b1d8(ULONG opcode)$/;"	f
+op_b1e0	cpuB.c	/^void op_b1e0(ULONG opcode)$/;"	f
+op_b1e8	cpuB.c	/^void op_b1e8(ULONG opcode)$/;"	f
+op_b1f0	cpuB.c	/^void op_b1f0(ULONG opcode)$/;"	f
+op_b1f8	cpuB.c	/^void op_b1f8(ULONG opcode)$/;"	f
+op_b1f9	cpuB.c	/^void op_b1f9(ULONG opcode)$/;"	f
+op_b1fa	cpuB.c	/^void op_b1fa(ULONG opcode)$/;"	f
+op_b1fb	cpuB.c	/^void op_b1fb(ULONG opcode)$/;"	f
+op_b1fc	cpuB.c	/^void op_b1fc(ULONG opcode)$/;"	f
+op_b8	cpu0.c	/^void op_b8(ULONG opcode)$/;"	f
+op_b9	cpu0.c	/^void op_b9(ULONG opcode)$/;"	f
+op_c00	cpu0.c	/^void op_c00(ULONG opcode)$/;"	f
+op_c000	cpuC.c	/^void op_c000(ULONG opcode)$/;"	f
+op_c010	cpuC.c	/^void op_c010(ULONG opcode)$/;"	f
+op_c018	cpuC.c	/^void op_c018(ULONG opcode)$/;"	f
+op_c020	cpuC.c	/^void op_c020(ULONG opcode)$/;"	f
+op_c028	cpuC.c	/^void op_c028(ULONG opcode)$/;"	f
+op_c030	cpuC.c	/^void op_c030(ULONG opcode)$/;"	f
+op_c038	cpuC.c	/^void op_c038(ULONG opcode)$/;"	f
+op_c039	cpuC.c	/^void op_c039(ULONG opcode)$/;"	f
+op_c03a	cpuC.c	/^void op_c03a(ULONG opcode)$/;"	f
+op_c03b	cpuC.c	/^void op_c03b(ULONG opcode)$/;"	f
+op_c03c	cpuC.c	/^void op_c03c(ULONG opcode)$/;"	f
+op_c040	cpuC.c	/^void op_c040(ULONG opcode)$/;"	f
+op_c050	cpuC.c	/^void op_c050(ULONG opcode)$/;"	f
+op_c058	cpuC.c	/^void op_c058(ULONG opcode)$/;"	f
+op_c060	cpuC.c	/^void op_c060(ULONG opcode)$/;"	f
+op_c068	cpuC.c	/^void op_c068(ULONG opcode)$/;"	f
+op_c070	cpuC.c	/^void op_c070(ULONG opcode)$/;"	f
+op_c078	cpuC.c	/^void op_c078(ULONG opcode)$/;"	f
+op_c079	cpuC.c	/^void op_c079(ULONG opcode)$/;"	f
+op_c07a	cpuC.c	/^void op_c07a(ULONG opcode)$/;"	f
+op_c07b	cpuC.c	/^void op_c07b(ULONG opcode)$/;"	f
+op_c07c	cpuC.c	/^void op_c07c(ULONG opcode)$/;"	f
+op_c080	cpuC.c	/^void op_c080(ULONG opcode)$/;"	f
+op_c090	cpuC.c	/^void op_c090(ULONG opcode)$/;"	f
+op_c098	cpuC.c	/^void op_c098(ULONG opcode)$/;"	f
+op_c0a0	cpuC.c	/^void op_c0a0(ULONG opcode)$/;"	f
+op_c0a8	cpuC.c	/^void op_c0a8(ULONG opcode)$/;"	f
+op_c0b0	cpuC.c	/^void op_c0b0(ULONG opcode)$/;"	f
+op_c0b8	cpuC.c	/^void op_c0b8(ULONG opcode)$/;"	f
+op_c0b9	cpuC.c	/^void op_c0b9(ULONG opcode)$/;"	f
+op_c0ba	cpuC.c	/^void op_c0ba(ULONG opcode)$/;"	f
+op_c0bb	cpuC.c	/^void op_c0bb(ULONG opcode)$/;"	f
+op_c0bc	cpuC.c	/^void op_c0bc(ULONG opcode)$/;"	f
+op_c0c0	cpuC.c	/^void op_c0c0(ULONG opcode)$/;"	f
+op_c0d0	cpuC.c	/^void op_c0d0(ULONG opcode)$/;"	f
+op_c0d8	cpuC.c	/^void op_c0d8(ULONG opcode)$/;"	f
+op_c0e0	cpuC.c	/^void op_c0e0(ULONG opcode)$/;"	f
+op_c0e8	cpuC.c	/^void op_c0e8(ULONG opcode)$/;"	f
+op_c0f0	cpuC.c	/^void op_c0f0(ULONG opcode)$/;"	f
+op_c0f8	cpuC.c	/^void op_c0f8(ULONG opcode)$/;"	f
+op_c0f9	cpuC.c	/^void op_c0f9(ULONG opcode)$/;"	f
+op_c0fa	cpuC.c	/^void op_c0fa(ULONG opcode)$/;"	f
+op_c0fb	cpuC.c	/^void op_c0fb(ULONG opcode)$/;"	f
+op_c0fc	cpuC.c	/^void op_c0fc(ULONG opcode)$/;"	f
+op_c10	cpu0.c	/^void op_c10(ULONG opcode)$/;"	f
+op_c100	cpuC.c	/^void op_c100(ULONG opcode)$/;"	f
+op_c108	cpuC.c	/^void op_c108(ULONG opcode)$/;"	f
+op_c110	cpuC.c	/^void op_c110(ULONG opcode)$/;"	f
+op_c118	cpuC.c	/^void op_c118(ULONG opcode)$/;"	f
+op_c120	cpuC.c	/^void op_c120(ULONG opcode)$/;"	f
+op_c128	cpuC.c	/^void op_c128(ULONG opcode)$/;"	f
+op_c130	cpuC.c	/^void op_c130(ULONG opcode)$/;"	f
+op_c138	cpuC.c	/^void op_c138(ULONG opcode)$/;"	f
+op_c139	cpuC.c	/^void op_c139(ULONG opcode)$/;"	f
+op_c140	cpuC.c	/^void op_c140(ULONG opcode)$/;"	f
+op_c148	cpuC.c	/^void op_c148(ULONG opcode)$/;"	f
+op_c150	cpuC.c	/^void op_c150(ULONG opcode)$/;"	f
+op_c158	cpuC.c	/^void op_c158(ULONG opcode)$/;"	f
+op_c160	cpuC.c	/^void op_c160(ULONG opcode)$/;"	f
+op_c168	cpuC.c	/^void op_c168(ULONG opcode)$/;"	f
+op_c170	cpuC.c	/^void op_c170(ULONG opcode)$/;"	f
+op_c178	cpuC.c	/^void op_c178(ULONG opcode)$/;"	f
+op_c179	cpuC.c	/^void op_c179(ULONG opcode)$/;"	f
+op_c18	cpu0.c	/^void op_c18(ULONG opcode)$/;"	f
+op_c188	cpuC.c	/^void op_c188(ULONG opcode)$/;"	f
+op_c190	cpuC.c	/^void op_c190(ULONG opcode)$/;"	f
+op_c198	cpuC.c	/^void op_c198(ULONG opcode)$/;"	f
+op_c1a0	cpuC.c	/^void op_c1a0(ULONG opcode)$/;"	f
+op_c1a8	cpuC.c	/^void op_c1a8(ULONG opcode)$/;"	f
+op_c1b0	cpuC.c	/^void op_c1b0(ULONG opcode)$/;"	f
+op_c1b8	cpuC.c	/^void op_c1b8(ULONG opcode)$/;"	f
+op_c1b9	cpuC.c	/^void op_c1b9(ULONG opcode)$/;"	f
+op_c1c0	cpuC.c	/^void op_c1c0(ULONG opcode)$/;"	f
+op_c1d0	cpuC.c	/^void op_c1d0(ULONG opcode)$/;"	f
+op_c1d8	cpuC.c	/^void op_c1d8(ULONG opcode)$/;"	f
+op_c1e0	cpuC.c	/^void op_c1e0(ULONG opcode)$/;"	f
+op_c1e8	cpuC.c	/^void op_c1e8(ULONG opcode)$/;"	f
+op_c1f0	cpuC.c	/^void op_c1f0(ULONG opcode)$/;"	f
+op_c1f8	cpuC.c	/^void op_c1f8(ULONG opcode)$/;"	f
+op_c1f9	cpuC.c	/^void op_c1f9(ULONG opcode)$/;"	f
+op_c1fa	cpuC.c	/^void op_c1fa(ULONG opcode)$/;"	f
+op_c1fb	cpuC.c	/^void op_c1fb(ULONG opcode)$/;"	f
+op_c1fc	cpuC.c	/^void op_c1fc(ULONG opcode)$/;"	f
+op_c20	cpu0.c	/^void op_c20(ULONG opcode)$/;"	f
+op_c28	cpu0.c	/^void op_c28(ULONG opcode)$/;"	f
+op_c30	cpu0.c	/^void op_c30(ULONG opcode)$/;"	f
+op_c38	cpu0.c	/^void op_c38(ULONG opcode)$/;"	f
+op_c39	cpu0.c	/^void op_c39(ULONG opcode)$/;"	f
+op_c40	cpu0.c	/^void op_c40(ULONG opcode)$/;"	f
+op_c50	cpu0.c	/^void op_c50(ULONG opcode)$/;"	f
+op_c58	cpu0.c	/^void op_c58(ULONG opcode)$/;"	f
+op_c60	cpu0.c	/^void op_c60(ULONG opcode)$/;"	f
+op_c68	cpu0.c	/^void op_c68(ULONG opcode)$/;"	f
+op_c70	cpu0.c	/^void op_c70(ULONG opcode)$/;"	f
+op_c78	cpu0.c	/^void op_c78(ULONG opcode)$/;"	f
+op_c79	cpu0.c	/^void op_c79(ULONG opcode)$/;"	f
+op_c80	cpu0.c	/^void op_c80(ULONG opcode)$/;"	f
+op_c90	cpu0.c	/^void op_c90(ULONG opcode)$/;"	f
+op_c98	cpu0.c	/^void op_c98(ULONG opcode)$/;"	f
+op_ca0	cpu0.c	/^void op_ca0(ULONG opcode)$/;"	f
+op_ca8	cpu0.c	/^void op_ca8(ULONG opcode)$/;"	f
+op_cb0	cpu0.c	/^void op_cb0(ULONG opcode)$/;"	f
+op_cb8	cpu0.c	/^void op_cb8(ULONG opcode)$/;"	f
+op_cb9	cpu0.c	/^void op_cb9(ULONG opcode)$/;"	f
+op_d000	cpuD.c	/^void op_d000(ULONG opcode)$/;"	f
+op_d010	cpuD.c	/^void op_d010(ULONG opcode)$/;"	f
+op_d018	cpuD.c	/^void op_d018(ULONG opcode)$/;"	f
+op_d020	cpuD.c	/^void op_d020(ULONG opcode)$/;"	f
+op_d028	cpuD.c	/^void op_d028(ULONG opcode)$/;"	f
+op_d030	cpuD.c	/^void op_d030(ULONG opcode)$/;"	f
+op_d038	cpuD.c	/^void op_d038(ULONG opcode)$/;"	f
+op_d039	cpuD.c	/^void op_d039(ULONG opcode)$/;"	f
+op_d03a	cpuD.c	/^void op_d03a(ULONG opcode)$/;"	f
+op_d03b	cpuD.c	/^void op_d03b(ULONG opcode)$/;"	f
+op_d03c	cpuD.c	/^void op_d03c(ULONG opcode)$/;"	f
+op_d040	cpuD.c	/^void op_d040(ULONG opcode)$/;"	f
+op_d048	cpuD.c	/^void op_d048(ULONG opcode)$/;"	f
+op_d050	cpuD.c	/^void op_d050(ULONG opcode)$/;"	f
+op_d058	cpuD.c	/^void op_d058(ULONG opcode)$/;"	f
+op_d060	cpuD.c	/^void op_d060(ULONG opcode)$/;"	f
+op_d068	cpuD.c	/^void op_d068(ULONG opcode)$/;"	f
+op_d070	cpuD.c	/^void op_d070(ULONG opcode)$/;"	f
+op_d078	cpuD.c	/^void op_d078(ULONG opcode)$/;"	f
+op_d079	cpuD.c	/^void op_d079(ULONG opcode)$/;"	f
+op_d07a	cpuD.c	/^void op_d07a(ULONG opcode)$/;"	f
+op_d07b	cpuD.c	/^void op_d07b(ULONG opcode)$/;"	f
+op_d07c	cpuD.c	/^void op_d07c(ULONG opcode)$/;"	f
+op_d080	cpuD.c	/^void op_d080(ULONG opcode)$/;"	f
+op_d088	cpuD.c	/^void op_d088(ULONG opcode)$/;"	f
+op_d090	cpuD.c	/^void op_d090(ULONG opcode)$/;"	f
+op_d098	cpuD.c	/^void op_d098(ULONG opcode)$/;"	f
+op_d0a0	cpuD.c	/^void op_d0a0(ULONG opcode)$/;"	f
+op_d0a8	cpuD.c	/^void op_d0a8(ULONG opcode)$/;"	f
+op_d0b0	cpuD.c	/^void op_d0b0(ULONG opcode)$/;"	f
+op_d0b8	cpuD.c	/^void op_d0b8(ULONG opcode)$/;"	f
+op_d0b9	cpuD.c	/^void op_d0b9(ULONG opcode)$/;"	f
+op_d0ba	cpuD.c	/^void op_d0ba(ULONG opcode)$/;"	f
+op_d0bb	cpuD.c	/^void op_d0bb(ULONG opcode)$/;"	f
+op_d0bc	cpuD.c	/^void op_d0bc(ULONG opcode)$/;"	f
+op_d0c0	cpuD.c	/^void op_d0c0(ULONG opcode)$/;"	f
+op_d0c8	cpuD.c	/^void op_d0c8(ULONG opcode)$/;"	f
+op_d0d0	cpuD.c	/^void op_d0d0(ULONG opcode)$/;"	f
+op_d0d8	cpuD.c	/^void op_d0d8(ULONG opcode)$/;"	f
+op_d0e0	cpuD.c	/^void op_d0e0(ULONG opcode)$/;"	f
+op_d0e8	cpuD.c	/^void op_d0e8(ULONG opcode)$/;"	f
+op_d0f0	cpuD.c	/^void op_d0f0(ULONG opcode)$/;"	f
+op_d0f8	cpuD.c	/^void op_d0f8(ULONG opcode)$/;"	f
+op_d0f9	cpuD.c	/^void op_d0f9(ULONG opcode)$/;"	f
+op_d0fa	cpuD.c	/^void op_d0fa(ULONG opcode)$/;"	f
+op_d0fb	cpuD.c	/^void op_d0fb(ULONG opcode)$/;"	f
+op_d0fc	cpuD.c	/^void op_d0fc(ULONG opcode)$/;"	f
+op_d100	cpuD.c	/^void op_d100(ULONG opcode)$/;"	f
+op_d108	cpuD.c	/^void op_d108(ULONG opcode)$/;"	f
+op_d110	cpuD.c	/^void op_d110(ULONG opcode)$/;"	f
+op_d118	cpuD.c	/^void op_d118(ULONG opcode)$/;"	f
+op_d120	cpuD.c	/^void op_d120(ULONG opcode)$/;"	f
+op_d128	cpuD.c	/^void op_d128(ULONG opcode)$/;"	f
+op_d130	cpuD.c	/^void op_d130(ULONG opcode)$/;"	f
+op_d138	cpuD.c	/^void op_d138(ULONG opcode)$/;"	f
+op_d139	cpuD.c	/^void op_d139(ULONG opcode)$/;"	f
+op_d140	cpuD.c	/^void op_d140(ULONG opcode)$/;"	f
+op_d148	cpuD.c	/^void op_d148(ULONG opcode)$/;"	f
+op_d150	cpuD.c	/^void op_d150(ULONG opcode)$/;"	f
+op_d158	cpuD.c	/^void op_d158(ULONG opcode)$/;"	f
+op_d160	cpuD.c	/^void op_d160(ULONG opcode)$/;"	f
+op_d168	cpuD.c	/^void op_d168(ULONG opcode)$/;"	f
+op_d170	cpuD.c	/^void op_d170(ULONG opcode)$/;"	f
+op_d178	cpuD.c	/^void op_d178(ULONG opcode)$/;"	f
+op_d179	cpuD.c	/^void op_d179(ULONG opcode)$/;"	f
+op_d180	cpuD.c	/^void op_d180(ULONG opcode)$/;"	f
+op_d188	cpuD.c	/^void op_d188(ULONG opcode)$/;"	f
+op_d190	cpuD.c	/^void op_d190(ULONG opcode)$/;"	f
+op_d198	cpuD.c	/^void op_d198(ULONG opcode)$/;"	f
+op_d1a0	cpuD.c	/^void op_d1a0(ULONG opcode)$/;"	f
+op_d1a8	cpuD.c	/^void op_d1a8(ULONG opcode)$/;"	f
+op_d1b0	cpuD.c	/^void op_d1b0(ULONG opcode)$/;"	f
+op_d1b8	cpuD.c	/^void op_d1b8(ULONG opcode)$/;"	f
+op_d1b9	cpuD.c	/^void op_d1b9(ULONG opcode)$/;"	f
+op_d1c0	cpuD.c	/^void op_d1c0(ULONG opcode)$/;"	f
+op_d1c8	cpuD.c	/^void op_d1c8(ULONG opcode)$/;"	f
+op_d1d0	cpuD.c	/^void op_d1d0(ULONG opcode)$/;"	f
+op_d1d8	cpuD.c	/^void op_d1d8(ULONG opcode)$/;"	f
+op_d1e0	cpuD.c	/^void op_d1e0(ULONG opcode)$/;"	f
+op_d1e8	cpuD.c	/^void op_d1e8(ULONG opcode)$/;"	f
+op_d1f0	cpuD.c	/^void op_d1f0(ULONG opcode)$/;"	f
+op_d1f8	cpuD.c	/^void op_d1f8(ULONG opcode)$/;"	f
+op_d1f9	cpuD.c	/^void op_d1f9(ULONG opcode)$/;"	f
+op_d1fa	cpuD.c	/^void op_d1fa(ULONG opcode)$/;"	f
+op_d1fb	cpuD.c	/^void op_d1fb(ULONG opcode)$/;"	f
+op_d1fc	cpuD.c	/^void op_d1fc(ULONG opcode)$/;"	f
+op_e000	cpuE.c	/^void op_e000(ULONG opcode)$/;"	f
+op_e008	cpuE.c	/^void op_e008(ULONG opcode)$/;"	f
+op_e010	cpuE.c	/^void op_e010(ULONG opcode)$/;"	f
+op_e018	cpuE.c	/^void op_e018(ULONG opcode)$/;"	f
+op_e020	cpuE.c	/^void op_e020(ULONG opcode)$/;"	f
+op_e028	cpuE.c	/^void op_e028(ULONG opcode)$/;"	f
+op_e030	cpuE.c	/^void op_e030(ULONG opcode)$/;"	f
+op_e038	cpuE.c	/^void op_e038(ULONG opcode)$/;"	f
+op_e040	cpuE.c	/^void op_e040(ULONG opcode)$/;"	f
+op_e048	cpuE.c	/^void op_e048(ULONG opcode)$/;"	f
+op_e050	cpuE.c	/^void op_e050(ULONG opcode)$/;"	f
+op_e058	cpuE.c	/^void op_e058(ULONG opcode)$/;"	f
+op_e060	cpuE.c	/^void op_e060(ULONG opcode)$/;"	f
+op_e068	cpuE.c	/^void op_e068(ULONG opcode)$/;"	f
+op_e070	cpuE.c	/^void op_e070(ULONG opcode)$/;"	f
+op_e078	cpuE.c	/^void op_e078(ULONG opcode)$/;"	f
+op_e080	cpuE.c	/^void op_e080(ULONG opcode)$/;"	f
+op_e088	cpuE.c	/^void op_e088(ULONG opcode)$/;"	f
+op_e090	cpuE.c	/^void op_e090(ULONG opcode)$/;"	f
+op_e098	cpuE.c	/^void op_e098(ULONG opcode)$/;"	f
+op_e0a0	cpuE.c	/^void op_e0a0(ULONG opcode)$/;"	f
+op_e0a8	cpuE.c	/^void op_e0a8(ULONG opcode)$/;"	f
+op_e0b0	cpuE.c	/^void op_e0b0(ULONG opcode)$/;"	f
+op_e0b8	cpuE.c	/^void op_e0b8(ULONG opcode)$/;"	f
+op_e0d0	cpuE.c	/^void op_e0d0(ULONG opcode)$/;"	f
+op_e0d8	cpuE.c	/^void op_e0d8(ULONG opcode)$/;"	f
+op_e0e0	cpuE.c	/^void op_e0e0(ULONG opcode)$/;"	f
+op_e0e8	cpuE.c	/^void op_e0e8(ULONG opcode)$/;"	f
+op_e0f0	cpuE.c	/^void op_e0f0(ULONG opcode)$/;"	f
+op_e0f8	cpuE.c	/^void op_e0f8(ULONG opcode)$/;"	f
+op_e0f9	cpuE.c	/^void op_e0f9(ULONG opcode)$/;"	f
+op_e100	cpuE.c	/^void op_e100(ULONG opcode)$/;"	f
+op_e108	cpuE.c	/^void op_e108(ULONG opcode)$/;"	f
+op_e110	cpuE.c	/^void op_e110(ULONG opcode)$/;"	f
+op_e118	cpuE.c	/^void op_e118(ULONG opcode)$/;"	f
+op_e120	cpuE.c	/^void op_e120(ULONG opcode)$/;"	f
+op_e128	cpuE.c	/^void op_e128(ULONG opcode)$/;"	f
+op_e130	cpuE.c	/^void op_e130(ULONG opcode)$/;"	f
+op_e138	cpuE.c	/^void op_e138(ULONG opcode)$/;"	f
+op_e140	cpuE.c	/^void op_e140(ULONG opcode)$/;"	f
+op_e148	cpuE.c	/^void op_e148(ULONG opcode)$/;"	f
+op_e150	cpuE.c	/^void op_e150(ULONG opcode)$/;"	f
+op_e158	cpuE.c	/^void op_e158(ULONG opcode)$/;"	f
+op_e160	cpuE.c	/^void op_e160(ULONG opcode)$/;"	f
+op_e168	cpuE.c	/^void op_e168(ULONG opcode)$/;"	f
+op_e170	cpuE.c	/^void op_e170(ULONG opcode)$/;"	f
+op_e178	cpuE.c	/^void op_e178(ULONG opcode)$/;"	f
+op_e180	cpuE.c	/^void op_e180(ULONG opcode)$/;"	f
+op_e188	cpuE.c	/^void op_e188(ULONG opcode)$/;"	f
+op_e190	cpuE.c	/^void op_e190(ULONG opcode)$/;"	f
+op_e198	cpuE.c	/^void op_e198(ULONG opcode)$/;"	f
+op_e1a0	cpuE.c	/^void op_e1a0(ULONG opcode)$/;"	f
+op_e1a8	cpuE.c	/^void op_e1a8(ULONG opcode)$/;"	f
+op_e1b0	cpuE.c	/^void op_e1b0(ULONG opcode)$/;"	f
+op_e1b8	cpuE.c	/^void op_e1b8(ULONG opcode)$/;"	f
+op_e1d0	cpuE.c	/^void op_e1d0(ULONG opcode)$/;"	f
+op_e1d8	cpuE.c	/^void op_e1d8(ULONG opcode)$/;"	f
+op_e1e0	cpuE.c	/^void op_e1e0(ULONG opcode)$/;"	f
+op_e1e8	cpuE.c	/^void op_e1e8(ULONG opcode)$/;"	f
+op_e1f0	cpuE.c	/^void op_e1f0(ULONG opcode)$/;"	f
+op_e1f8	cpuE.c	/^void op_e1f8(ULONG opcode)$/;"	f
+op_e1f9	cpuE.c	/^void op_e1f9(ULONG opcode)$/;"	f
+op_e2d0	cpuE.c	/^void op_e2d0(ULONG opcode)$/;"	f
+op_e2d8	cpuE.c	/^void op_e2d8(ULONG opcode)$/;"	f
+op_e2e0	cpuE.c	/^void op_e2e0(ULONG opcode)$/;"	f
+op_e2e8	cpuE.c	/^void op_e2e8(ULONG opcode)$/;"	f
+op_e2f0	cpuE.c	/^void op_e2f0(ULONG opcode)$/;"	f
+op_e2f8	cpuE.c	/^void op_e2f8(ULONG opcode)$/;"	f
+op_e2f9	cpuE.c	/^void op_e2f9(ULONG opcode)$/;"	f
+op_e3d0	cpuE.c	/^void op_e3d0(ULONG opcode)$/;"	f
+op_e3d8	cpuE.c	/^void op_e3d8(ULONG opcode)$/;"	f
+op_e3e0	cpuE.c	/^void op_e3e0(ULONG opcode)$/;"	f
+op_e3e8	cpuE.c	/^void op_e3e8(ULONG opcode)$/;"	f
+op_e3f0	cpuE.c	/^void op_e3f0(ULONG opcode)$/;"	f
+op_e3f8	cpuE.c	/^void op_e3f8(ULONG opcode)$/;"	f
+op_e3f9	cpuE.c	/^void op_e3f9(ULONG opcode)$/;"	f
+op_e4d0	cpuE.c	/^void op_e4d0(ULONG opcode)$/;"	f
+op_e4d8	cpuE.c	/^void op_e4d8(ULONG opcode)$/;"	f
+op_e4e0	cpuE.c	/^void op_e4e0(ULONG opcode)$/;"	f
+op_e4e8	cpuE.c	/^void op_e4e8(ULONG opcode)$/;"	f
+op_e4f0	cpuE.c	/^void op_e4f0(ULONG opcode)$/;"	f
+op_e4f8	cpuE.c	/^void op_e4f8(ULONG opcode)$/;"	f
+op_e4f9	cpuE.c	/^void op_e4f9(ULONG opcode)$/;"	f
+op_e5d0	cpuE.c	/^void op_e5d0(ULONG opcode)$/;"	f
+op_e5d8	cpuE.c	/^void op_e5d8(ULONG opcode)$/;"	f
+op_e5e0	cpuE.c	/^void op_e5e0(ULONG opcode)$/;"	f
+op_e5e8	cpuE.c	/^void op_e5e8(ULONG opcode)$/;"	f
+op_e5f0	cpuE.c	/^void op_e5f0(ULONG opcode)$/;"	f
+op_e5f8	cpuE.c	/^void op_e5f8(ULONG opcode)$/;"	f
+op_e5f9	cpuE.c	/^void op_e5f9(ULONG opcode)$/;"	f
+op_e6d0	cpuE.c	/^void op_e6d0(ULONG opcode)$/;"	f
+op_e6d8	cpuE.c	/^void op_e6d8(ULONG opcode)$/;"	f
+op_e6e0	cpuE.c	/^void op_e6e0(ULONG opcode)$/;"	f
+op_e6e8	cpuE.c	/^void op_e6e8(ULONG opcode)$/;"	f
+op_e6f0	cpuE.c	/^void op_e6f0(ULONG opcode)$/;"	f
+op_e6f8	cpuE.c	/^void op_e6f8(ULONG opcode)$/;"	f
+op_e6f9	cpuE.c	/^void op_e6f9(ULONG opcode)$/;"	f
+op_e7d0	cpuE.c	/^void op_e7d0(ULONG opcode)$/;"	f
+op_e7d8	cpuE.c	/^void op_e7d8(ULONG opcode)$/;"	f
+op_e7e0	cpuE.c	/^void op_e7e0(ULONG opcode)$/;"	f
+op_e7e8	cpuE.c	/^void op_e7e8(ULONG opcode)$/;"	f
+op_e7f0	cpuE.c	/^void op_e7f0(ULONG opcode)$/;"	f
+op_e7f8	cpuE.c	/^void op_e7f8(ULONG opcode)$/;"	f
+op_e7f9	cpuE.c	/^void op_e7f9(ULONG opcode)$/;"	f
+op_illg	newcpu.c	/^void op_illg(ULONG opcode)$/;"	f
+opcode	newcpu.h	/^    UWORD opcode;$/;"	m	struct:cputbl
+opcstr	readcpu.h	/^    const char *opcstr;	$/;"	m	struct:instr_def
+outBuffer	packets.c	/^UBYTE *outBuffer;$/;"	v
+outBytes	packets.c	/^int outBytes = 0;$/;"	v
+outPos	packets.c	/^int outPos = 0;$/;"	v
+pc	newcpu.h	/^    ULONG pc;$/;"	m	struct:regstruct
+pc_oldp	newcpu.h	/^    UBYTE *pc_oldp;$/;"	m	struct:regstruct
+pc_p	newcpu.h	/^    UBYTE *pc_p;$/;"	m	struct:regstruct
+permSec	newcpu.c	/^unsigned long permSec = 0;$/;"	v
+plev	readcpu.h	/^    unsigned char plev:2;$/;"	m	struct:instr
+plevel	readcpu.h	/^    int plevel;$/;"	m	struct:instr_def
+prot_bytes_left	packets.c	/^int prot_bytes_left(void) {$/;"	f
+prot_get_byte	packets.c	/^UBYTE prot_get_byte(void) {$/;"	f
+prot_receive_byte	packets.c	/^void prot_receive_byte(UBYTE arg) {$/;"	f
+pspDebugScreenInit	pspsdk_linux.c	/^pspDebugScreenInit()$/;"	f
+psp_convert_utf8_to_iso_8859_1	psp_sdl.c	/^psp_convert_utf8_to_iso_8859_1(unsigned char c1, unsigned char c2)$/;"	f
+psp_cpu_clock	global.h	/^     unsigned int  psp_cpu_clock;$/;"	m	struct:TI92_t
+psp_cpu_clock	psp_menu.c	/^  static int psp_cpu_clock         = 222;$/;"	v	file:
+psp_debug	psp_sdl.h	25;"	d
+psp_display_lr	global.h	/^     unsigned char psp_display_lr;$/;"	m	struct:TI92_t
+psp_display_lr	psp_menu.c	/^  static int psp_display_lr        = 0;$/;"	v	file:
+psp_display_screen_fmgr	psp_fmgr.c	/^psp_display_screen_fmgr(void)$/;"	f	file:
+psp_display_screen_help	psp_menu_help.c	/^psp_display_screen_help(void)$/;"	f	file:
+psp_display_screen_kbd_menu	psp_menu_kbd.c	/^psp_display_screen_kbd_menu(void)$/;"	f	file:
+psp_display_screen_menu	psp_menu.c	/^psp_display_screen_menu(void)$/;"	f	file:
+psp_display_screen_menu_battery	psp_menu.c	/^psp_display_screen_menu_battery(void)$/;"	f
+psp_file_request	psp_fmgr.c	/^psp_file_request(char *out, char *pszStartPath)$/;"	f
+psp_fmgr_ask_confirm	psp_fmgr.c	/^psp_fmgr_ask_confirm(void)$/;"	f	file:
+psp_fmgr_getExtId	psp_fmgr.c	/^psp_fmgr_getExtId(const char *szFilePath) $/;"	f
+psp_fmgr_get_dir_list	psp_fmgr.c	/^psp_fmgr_get_dir_list(char *basedir, int dirmax, char **dirname)$/;"	f
+psp_fmgr_menu	psp_fmgr.c	/^psp_fmgr_menu(int format)$/;"	f
+psp_font	psp_font.c	/^unsigned char psp_font[] = {$/;"	v
+psp_get_battery_string	psp_battery.c	/^psp_get_battery_string()$/;"	f
+psp_help	psp_menu_help.c	/^  static char* psp_help[MAX_HELP_LINE];$/;"	v	file:
+psp_help_current	psp_menu_help.c	/^  static int   psp_help_current = 0;$/;"	v	file:
+psp_help_menu	psp_menu_help.c	/^psp_help_menu()$/;"	f
+psp_help_size	psp_menu_help.c	/^  static int   psp_help_size    = -1;$/;"	v	file:
+psp_home_path	global.h	/^     char          psp_home_path[MAX_PATH];$/;"	m	struct:TI92_t
+psp_init_keyboard	psp_kbd.c	/^psp_init_keyboard(void)$/;"	f
+psp_initialize_help	psp_menu_help.c	/^psp_initialize_help(void)$/;"	f	file:
+psp_irkeyb_check_key	psp_irkeyb.c	/^psp_irkeyb_check_key()$/;"	f	file:
+psp_irkeyb_exit	psp_irkeyb.c	/^psp_irkeyb_exit()$/;"	f
+psp_irkeyb_inc_buffer	psp_irkeyb.c	/^psp_irkeyb_inc_buffer()$/;"	f	file:
+psp_irkeyb_init	psp_irkeyb.c	/^psp_irkeyb_init()$/;"	f
+psp_irkeyb_read_key	psp_irkeyb.c	/^psp_irkeyb_read_key()$/;"	f
+psp_irkeyb_set_psp_key	psp_irkeyb.c	/^psp_irkeyb_set_psp_key(SceCtrlData* c)$/;"	f
+psp_is_key_pressed	psp_kbd.c	/^psp_is_key_pressed(int key)$/;"	f
+psp_is_low_battery	psp_battery.c	/^psp_is_low_battery()$/;"	f
+psp_kbd_display_active_mapping	psp_kbd.c	/^psp_kbd_display_active_mapping()$/;"	f
+psp_kbd_enter_danzeff	psp_kbd.c	/^psp_kbd_enter_danzeff()$/;"	f
+psp_kbd_enter_irkeyb	psp_kbd.c	/^psp_kbd_enter_irkeyb()$/;"	f
+psp_kbd_is_danzeff_mode	psp_kbd.c	/^psp_kbd_is_danzeff_mode()$/;"	f
+psp_kbd_last_skin	psp_danzeff.c	/^  int    psp_kbd_last_skin  = 0;$/;"	v
+psp_kbd_load_mapping	psp_kbd.c	/^psp_kbd_load_mapping(char *kbd_filename)$/;"	f
+psp_kbd_load_mapping_file	psp_kbd.c	/^psp_kbd_load_mapping_file(FILE *KbdFile)$/;"	f
+psp_kbd_mapping	psp_kbd.c	/^ int psp_kbd_mapping[ KBD_ALL_BUTTONS ];$/;"	v
+psp_kbd_mapping_L	psp_kbd.c	/^ int psp_kbd_mapping_L[ KBD_ALL_BUTTONS ];$/;"	v
+psp_kbd_mapping_R	psp_kbd.c	/^ int psp_kbd_mapping_R[ KBD_ALL_BUTTONS ];$/;"	v
+psp_kbd_menu_id_to_key_id	psp_menu_kbd.c	/^psp_kbd_menu_id_to_key_id(int menu_id)$/;"	f	file:
+psp_kbd_presses	psp_kbd.c	/^ int psp_kbd_presses[ KBD_ALL_BUTTONS ];$/;"	v
+psp_kbd_reset_mapping	psp_kbd.c	/^psp_kbd_reset_mapping(void)$/;"	f
+psp_kbd_save_mapping	psp_kbd.c	/^psp_kbd_save_mapping(char *kbd_filename)$/;"	f
+psp_kbd_skin	psp_danzeff.c	/^  int    psp_kbd_skin       = -1;$/;"	v
+psp_kbd_skin_dir	psp_danzeff.c	/^  char  *psp_kbd_skin_dir[PSP_KBD_MAX_SKIN];$/;"	v
+psp_kbd_skin_first	psp_danzeff.c	/^  int    psp_kbd_skin_first = 1;$/;"	v
+psp_kbd_wait_button	psp_kbd.c	/^psp_kbd_wait_button(void)$/;"	f
+psp_kbd_wait_no_button	psp_kbd.c	/^psp_kbd_wait_no_button(void)$/;"	f
+psp_keyboard_menu	psp_menu_kbd.c	/^psp_keyboard_menu(void)$/;"	f
+psp_keyboard_menu_load	psp_menu_kbd.c	/^psp_keyboard_menu_load()$/;"	f	file:
+psp_keyboard_menu_mapping	psp_menu_kbd.c	/^psp_keyboard_menu_mapping(int kbd_id, int step)$/;"	f	file:
+psp_keyboard_menu_reset_kbd	psp_menu_kbd.c	/^psp_keyboard_menu_reset_kbd(void)$/;"	f	file:
+psp_keyboard_menu_save	psp_menu_kbd.c	/^psp_keyboard_menu_save()$/;"	f	file:
+psp_keyboard_menu_skin	psp_menu_kbd.c	/^psp_keyboard_menu_skin(int step)$/;"	f	file:
+psp_keyboard_menu_update_lr	psp_menu_kbd.c	/^psp_keyboard_menu_update_lr(void)$/;"	f	file:
+psp_keyboard_select_change	psp_menu_kbd.c	/^psp_keyboard_select_change(int step)$/;"	f	file:
+psp_main_menu	psp_menu.c	/^psp_main_menu(void)$/;"	f
+psp_main_menu_clock	psp_menu.c	/^psp_main_menu_clock(int step)$/;"	f	file:
+psp_main_menu_exit	psp_menu.c	/^psp_main_menu_exit(void)$/;"	f
+psp_main_menu_hard_reset	psp_menu.c	/^psp_main_menu_hard_reset(void)$/;"	f	file:
+psp_main_menu_load	psp_menu.c	/^psp_main_menu_load()$/;"	f	file:
+psp_main_menu_reset	psp_menu.c	/^psp_main_menu_reset(void)$/;"	f	file:
+psp_main_menu_save_config	psp_menu.c	/^psp_main_menu_save_config()$/;"	f	file:
+psp_main_menu_screenshot	psp_menu.c	/^psp_main_menu_screenshot(void)$/;"	f	file:
+psp_main_menu_skip_fps	psp_menu.c	/^psp_main_menu_skip_fps(int step)$/;"	f	file:
+psp_main_menu_validate	psp_menu.c	/^psp_main_menu_validate()$/;"	f	file:
+psp_menu_dirty	psp_menu.c	/^static int psp_menu_dirty = 1;$/;"	v	file:
+psp_menu_dirty	psp_menu_help.c	/^  static int psp_menu_dirty = 1;$/;"	v	file:
+psp_menu_dirty	psp_menu_kbd.c	/^  static int psp_menu_dirty = 1;$/;"	v	file:
+psp_reverse_analog	global.h	/^     unsigned char psp_reverse_analog;$/;"	m	struct:TI92_t
+psp_reverse_analog	psp_menu.c	/^  static int psp_reverse_analog    = 0;$/;"	v	file:
+psp_save_screenshot	psp_specific.c	/^psp_save_screenshot(void)$/;"	f
+psp_screenshot_id	global.h	/^     int           psp_screenshot_id;$/;"	m	struct:TI92_t
+psp_screenshot_mode	global.c	/^  int    psp_screenshot_mode = 0;$/;"	v
+psp_screenshot_path	global.h	/^     char          psp_screenshot_path[MAX_PATH];$/;"	m	struct:TI92_t
+psp_sdl_back2_print	psp_sdl.c	/^psp_sdl_back2_print(int x,int y,const char *str, int color)$/;"	f
+psp_sdl_back2_put_char	psp_sdl.c	/^psp_sdl_back2_put_char(int x, int y, int color, uchar c)$/;"	f
+psp_sdl_back2_rectangle	psp_sdl.c	/^psp_sdl_back2_rectangle(int x, int y, int w, int h)$/;"	f
+psp_sdl_black_screen	psp_sdl.c	/^psp_sdl_black_screen()$/;"	f
+psp_sdl_blit_background	psp_sdl.c	/^psp_sdl_blit_background()$/;"	f
+psp_sdl_blit_splash	psp_sdl.c	/^psp_sdl_blit_splash()$/;"	f
+psp_sdl_clear_screen	psp_sdl.c	/^psp_sdl_clear_screen(int color)$/;"	f
+psp_sdl_display_splash	psp_sdl.c	/^psp_sdl_display_splash()$/;"	f
+psp_sdl_draw_rectangle	psp_sdl.c	/^psp_sdl_draw_rectangle(int x, int y, int w, int h, int border, int mode) $/;"	f
+psp_sdl_exit	psp_sdl.c	/^psp_sdl_exit(int status)$/;"	f
+psp_sdl_fill_print	psp_sdl.c	/^psp_sdl_fill_print(int x,int y,const char *str, int color, int bgcolor)$/;"	f
+psp_sdl_fill_rectangle	psp_sdl.c	/^psp_sdl_fill_rectangle(int x, int y, int w, int h, int color, int mode)$/;"	f
+psp_sdl_flip	psp_sdl.c	/^psp_sdl_flip(void)$/;"	f
+psp_sdl_get_back2_color	psp_sdl.c	/^psp_sdl_get_back2_color(int x, int y)$/;"	f	file:
+psp_sdl_get_vram_addr	psp_sdl.c	/^psp_sdl_get_vram_addr(uint x, uint y)$/;"	f
+psp_sdl_init	psp_sdl.c	/^psp_sdl_init(void)$/;"	f
+psp_sdl_load_images	psp_sdl.c	/^psp_sdl_load_images()$/;"	f
+psp_sdl_print	psp_sdl.c	/^psp_sdl_print(int x,int y, char *str, int color)$/;"	f
+psp_sdl_put_char	psp_sdl.c	/^psp_sdl_put_char(int x, int y, int color, int bgcolor, uchar c, int drawfg, int drawbg)$/;"	f
+psp_sdl_rgb	psp_sdl.c	/^psp_sdl_rgb(uchar R, uchar G, uchar B)$/;"	f
+psp_sdl_save_png	psp_sdl.c	/^psp_sdl_save_png(char *filename)$/;"	f
+psp_skip_cur_frame	global.h	/^     int           psp_skip_cur_frame;$/;"	m	struct:TI92_t
+psp_skip_fps	psp_menu.c	/^  static int psp_skip_fps          = 0;$/;"	v	file:
+psp_skip_max_frame	global.h	/^     int           psp_skip_max_frame;$/;"	m	struct:TI92_t
+psp_update_keys	psp_kbd.c	/^psp_update_keys(void)$/;"	f
+put_byte	memory.c	/^void put_byte(CPTR adr, UBYTE arg) {$/;"	f
+put_long	memory.c	/^void put_long(CPTR adr, ULONG arg) {$/;"	f
+put_word	memory.c	/^void put_word(CPTR adr, UWORD arg) {$/;"	f
+query_libs	packets.c	/^int query_libs(char *fname, char *libBuf, char **libPtrs) {$/;"	f
+ram_at_0	memory.h	54;"	d
+read_keyboard_mask	hardware.c	/^UBYTE read_keyboard_mask(void) {$/;"	f
+read_onkey	hardware.c	/^UBYTE read_onkey(void) {$/;"	f
+read_table68k	readcpu.c	/^void read_table68k ()$/;"	f
+readpec	newcpu.c	68;"	d	file:
+receive_packet	packets.c	/^void receive_packet(int type, int size, UBYTE *data) {$/;"	f
+regflags	newcpu.c	/^union flagu regflags;$/;"	v
+regs	newcpu.c	/^struct regstruct regs;$/;"	v
+regstruct	newcpu.h	/^extern struct regstruct $/;"	s
+request_var	packets.c	/^void request_var(char *name, int type) {$/;"	f
+resend_lastpacket	packets.c	/^void resend_lastpacket(void) {$/;"	f
+reset_protocol	packets.c	/^void reset_protocol(void) {$/;"	f
+romFile	globinfo.h	/^  char romFile[128];$/;"	m	struct:GlobalInformation
+rom_at_0	memory.h	53;"	d
+romsize	ti_main.c	/^int romsize = 0;$/;"	v
+run_emulator	ti_main.c	/^run_emulator(void)$/;"	f
+rw_str	memory.c	/^char * rw_str[] = {"read", "write"};$/;"	v
+s	newcpu.h	/^    flagtype s;$/;"	m	struct:regstruct
+sceConvertMaskToButtons	pspsdk_linux.c	/^sceConvertMaskToButtons(int Mask)$/;"	f	file:
+sceCtrlPeekBufferPositive	pspsdk_linux.c	/^sceCtrlPeekBufferPositive(SceCtrlData* c, int v)$/;"	f
+sceCtrlReadBufferPositive	pspsdk_linux.c	/^sceCtrlReadBufferPositive(SceCtrlData* c, int v)$/;"	f
+sceDisplayWaitVblankStart	pspsdk_linux.c	/^sceDisplayWaitVblankStart()$/;"	f
+sceKernelDelayThread	pspsdk_linux.c	/^sceKernelDelayThread(int uvalue)$/;"	f
+sceKernelExitGame	pspsdk_linux.c	/^sceKernelExitGame(int status)$/;"	f
+scePowerSetClockFrequency	pspsdk_linux.c	/^scePowerSetClockFrequency(int freq1, int freq2, int freq3)$/;"	f
+screenBuf	psp_specific.c	/^ULONG *screenBuf = NULL;$/;"	v
+sdl_psp_callback_thread	psp_main.c	/^int sdl_psp_callback_thread(SceSize args, void *argp)$/;"	f
+sdl_psp_exit_callback	psp_main.c	/^sdl_psp_exit_callback(int arg1, int arg2, void *common)$/;"	f
+sdl_psp_setup_callbacks	psp_main.c	/^int sdl_psp_setup_callbacks(void)$/;"	f
+selected_x	psp_danzeff.c	/^static int selected_x = 1;$/;"	v	file:
+selected_y	psp_danzeff.c	/^static int selected_y = 1;$/;"	v	file:
+send_packet	packets.c	/^send_packet(int type, int size, UBYTE *data) $/;"	f
+send_ti_file	packets.c	/^send_ti_file(char *fname, UBYTE *backBuf) $/;"	f
+send_varheader	packets.c	/^void send_varheader(int vartype, int size, char *name) {$/;"	f
+set_contrast	psp_specific.c	/^set_contrast(int c) $/;"	f
+set_screen_ptr	psp_specific.c	/^void set_screen_ptr(unsigned char *ptr) {$/;"	f
+sfc	newcpu.h	/^    ULONG vbr,sfc,dfc;$/;"	m	struct:regstruct
+shifted	psp_danzeff.c	/^static \/*bool*\/ int shifted = false;     \/\/user is holding shift$/;"	v	file:
+size	packets.h	/^  int size;$/;"	m
+size	readcpu.h	/^    wordsizes size;$/;"	m	struct:instr
+smallcputbl	cpustbl.c	/^struct cputbl smallcputbl[] = {$/;"	v
+smode	readcpu.h	/^    amodes smode;$/;"	m	struct:instr
+sort	psp_fmgr.c	/^sort(struct SceIoDirent **a, int left, int right) $/;"	f	file:
+sortfiles	psp_fmgr.c	/^static struct SceIoDirent *sortfiles[PSP_FMGR_MAX_ENTRY];$/;"	v	file:
+specialflags	newcpu.c	/^unsigned long specialflags;$/;"	v
+specific	newcpu.h	/^    int specific;$/;"	m	struct:cputbl
+speedyLink	newcpu.c	/^int speedyLink = 0;$/;"	v
+splash_surface	psp_sdl.c	/^  SDL_Surface *splash_surface;$/;"	v
+spos	readcpu.h	/^    signed char spos;$/;"	m	struct:instr
+sr	newcpu.h	/^    UWORD sr;$/;"	m	struct:regstruct
+sreg	readcpu.h	/^    unsigned char sreg;$/;"	m	struct:instr
+start_get_directory	packets.c	/^void start_get_directory(tifile *buffer, int bufsize) {$/;"	f
+start_send_backup	packets.c	/^void start_send_backup(UBYTE *ptr, int size) {$/;"	f
+start_send_variable	packets.c	/^void start_send_variable(UBYTE *var, char *name, UBYTE type, int size) {$/;"	f
+stopped	newcpu.h	/^    flagtype stopped;$/;"	m	struct:regstruct
+string_fill_with_space	psp_menu.c	/^string_fill_with_space(char *buffer, int size)$/;"	f
+stype	readcpu.h	/^    unsigned char stype:2;$/;"	m	struct:instr
+sub2_flags_b	noasm.c	/^sub2_flags_b(BYTE src, BYTE dst)$/;"	f
+sub2_flags_l	noasm.c	/^sub2_flags_l(LONG src, LONG dst)$/;"	f
+sub2_flags_w	noasm.c	/^sub2_flags_w(WORD src, WORD dst)$/;"	f
+sub_flags_b	noasm.c	/^sub_flags_b(BYTE src, BYTE dst)$/;"	f
+sub_flags_l	noasm.c	/^sub_flags_l(LONG src, LONG dst)$/;"	f
+sub_flags_w	noasm.c	/^sub_flags_w(WORD src, WORD dst)$/;"	f
+surface_draw	psp_danzeff.c	/^surface_draw(SDL_Surface* pixels)$/;"	f
+surface_draw_offset	psp_danzeff.c	/^surface_draw_offset(SDL_Surface* pixels, int screenX, int screenY, int offsetX, int offsetY, int intWidth, int intHeight)$/;"	f
+suse	readcpu.h	/^    unsigned char suse:1;$/;"	m	struct:instr
+syncOne	globinfo.h	/^  int syncOne;$/;"	m	struct:GlobalInformation
+systemBlueMask	psp_sdl.c	355;"	d	file:
+systemBlueShift	psp_sdl.c	352;"	d	file:
+systemGreenMask	psp_sdl.c	354;"	d	file:
+systemGreenShift	psp_sdl.c	351;"	d	file:
+systemRedMask	psp_sdl.c	353;"	d	file:
+systemRedShift	psp_sdl.c	350;"	d	file:
+sz_byte	readcpu.h	/^    sz_unknown, sz_byte, sz_word, sz_long$/;"	e
+sz_long	readcpu.h	/^    sz_unknown, sz_byte, sz_word, sz_long$/;"	e
+sz_unknown	readcpu.h	/^    sz_unknown, sz_byte, sz_word, sz_long$/;"	e
+sz_word	readcpu.h	/^    sz_unknown, sz_byte, sz_word, sz_long$/;"	e
+t	newcpu.h	/^    flagtype t;$/;"	m	struct:regstruct
+table68k	readcpu.c	/^struct instr *table68k;$/;"	v
+table68k	readcpu.h	/^struct instr *table68k;$/;"	v
+test_flags_b	noasm.c	/^test_flags_b(BYTE src)$/;"	f
+test_flags_l	noasm.c	/^test_flags_l(LONG src)$/;"	f
+test_flags_w	noasm.c	/^test_flags_w(WORD src)$/;"	f
+the_screen	psp_specific.c	/^unsigned char *the_screen = NULL;$/;"	v
+ti92_button_id	psp_kbd.h	/^  enum ti92_button_id {$/;"	g
+ti92_button_t	psp_kbd.h	/^  typedef struct ti92_button_t {$/;"	s
+ti92_button_t	psp_kbd.h	/^  } ti92_button_t;$/;"	t
+ti92_buttons_info	psp_kbd.c	/^  ti92_button_t ti92_buttons_info[ TI92_LAST_BUTTON ] =  $/;"	v
+ti92_clear_screen	psp_specific.c	/^ti92_clear_screen()$/;"	f
+ti92_current_fps	global.h	/^     int           ti92_current_fps;$/;"	m	struct:TI92_t
+ti92_decode_key	psp_kbd.c	/^ti92_decode_key(int psp_b, int button_pressed)$/;"	f
+ti92_get_key_from_ascii	psp_kbd.c	/^ti92_get_key_from_ascii(int key_ascii)$/;"	f
+ti92_init_resource	global.c	/^ti92_init_resource()$/;"	f
+ti92_kbd_load	global.c	/^ti92_kbd_load(void)$/;"	f
+ti92_kbd_save	global.c	/^ti92_kbd_save(void)$/;"	f
+ti92_key_event	psp_kbd.c	/^ti92_key_event(int b, int button_pressed)$/;"	f
+ti92_load_prog_file	ti_main.c	/^ti92_load_prog_file(char *prog_filename)$/;"	f
+ti92_parse_configuration	global.c	/^ti92_parse_configuration(void)$/;"	f
+ti92_save_configuration	global.c	/^ti92_save_configuration(void)$/;"	f
+ti92_save_emulator_stuff	ti_main.c	/^ti92_save_emulator_stuff(void)$/;"	f
+ti92_update_fps	psp_specific.c	/^ti92_update_fps()$/;"	f
+ti92_update_screen	psp_specific.c	/^ti92_update_screen(void) $/;"	f
+ti92_view_fps	global.h	/^     int           ti92_view_fps;$/;"	m	struct:TI92_t
+ti92_view_fps	psp_menu.c	/^  static int ti92_view_fps         = 0;$/;"	v	file:
+ti_io	memory.c	/^UBYTE *ti_io;$/;"	v
+ti_mem	memory.c	/^UBYTE *ti_mem;$/;"	v
+ti_rom	memory.c	/^UBYTE *ti_rom;$/;"	v
+ti_update_keys	keyboard.c	/^ti_update_keys(void) $/;"	f
+tickRate	globinfo.h	/^  ULONG tickRate;$/;"	m	struct:GlobalInformation
+tickRate	newcpu.c	/^unsigned long tickRate = 0;$/;"	v
+tifile	packets.h	/^} tifile;$/;"	t
+timeDiff	newcpu.c	/^unsigned long timeDiff = 0;$/;"	v
+timeOut	hardware.c	/^int timeOut = 0;$/;"	v
+timerVal	hardware.c	/^int timerVal = 0;$/;"	v
+title	psp_menu.h	/^    char *title;$/;"	m	struct:menu_item_t
+true	psp_danzeff.c	9;"	d	file:
+txMode	packets.c	/^int txMode  = 0;$/;"	v
+type	packets.h	/^  UBYTE type;$/;"	m
+uchar	psp_sdl.h	/^  typedef unsigned char   uchar;$/;"	t
+uint	psp_sdl.h	/^  typedef unsigned int    uint;$/;"	t
+update_bitmap	hardware.c	/^void update_bitmap(void) {$/;"	f
+update_contrast	hardware.c	/^void update_contrast(void) {$/;"	f
+update_progbar	psp_specific.c	/^update_progbar(int size) $/;"	f
+update_timer	hardware.c	/^void update_timer(UBYTE arg) {$/;"	f
+uscycle	newcpu.c	/^int uscycle = 0;$/;"	v
+user_file_format	psp_fmgr.c	/^static int user_file_format = 0;$/;"	v	file:
+user_filedir_92	psp_fmgr.c	/^static char user_filedir_92[PSP_FMGR_MAX_NAME];$/;"	v	file:
+ushort	psp_sdl.h	/^  typedef unsigned short  ushort;$/;"	t
+usp	newcpu.h	/^    CPTR  a[8],usp;$/;"	m	struct:regstruct
+v	newcpu.h	/^        char v;$/;"	m	struct:flagu::<anonymous>
+valid_address	memory.c	/^int valid_address(CPTR adr, ULONG size) {$/;"	f
+varPtr	packets.c	/^UBYTE *varPtr = NULL;$/;"	v
+varSize	packets.c	/^int varSize = 0;$/;"	v
+vbr	newcpu.h	/^    ULONG vbr,sfc,dfc;$/;"	m	struct:regstruct
+wget	memory.c	126;"	d	file:
+wordsizes	readcpu.h	/^} wordsizes;$/;"	t
+wput	memory.c	122;"	d	file:
+x	newcpu.h	/^    flagtype x;$/;"	m	struct:regstruct
+z	newcpu.h	/^        char z;$/;"	m	struct:flagu::<anonymous>

@@ -1,0 +1,122 @@
+1.3.0
+
+- New background images
+- Add Load / Save states feature
+- Text editor to write your own comments 
+  (or to read math courses ;) )
+- Finally fix issue with "Home -> Exit" !
+- Add settings menu
+
+
+1.2.4
+
+- Fix IR keyboard issue with fw >= 3.80 for FAT PSP
+- Put Danzeff keyboard in a better location
+- Virtual keyboard is now usable in the file requester menu 
+  to specify the first letter of a file 
+- Add music in EBOOT (Below The Arctic Ocean from Azhrak)
+- Tested with 4.01-m33 on psp slim
+
+1.2.3
+
+- add diamond, 2nd, hand and home as Ctrl-O,P,K,L
+  with IR-keyboard
+
+1.2.2
+
+- Major speed improvements !
+- New eboot icons from Raven
+- Add view fps and frameskip options
+- Bug fix in the low battery watchdog
+- Analog pad can be used in the rom file requester
+
+1.2.1
+
+- Now compatible with custom firmwares 3.x and PSP-slim
+- Option to prevent the blue led to be displayed when
+  L or R are pressed
+- It has been linked with latest IR keyboard library 
+  so it should work better with Palm Keyboard
+- The power '^' character is now properly mapped 
+  on IR keyboard
+- Add a simple intro splash screen
+- Support iso8859-1 fonts in print text functions
+  (might be useful to translate menus in german, french ...)
+- Bug fix and code cleaning
+
+
+1.2.0
+
+- IR keyboard support !
+
+1.1.0
+
+- New user interface !
+- Use Virtual keyboard !
+- Use SDL library
+- Render mode max (fullscreen)
+- Add keyboard mapping menu
+- New help window
+- New background image
+- Multiple keyboard mappings feature :
+  You can now toggle between 3 different keyboard mapping using 
+  LTrigger and RTrigger keys
+- Delete files option
+- Bug fix in the file requester
+
+1.0.8
+
+- Save state is now done using zlib so ram file size is smaller 
+  and as a consequence, it is much faster to save
+- Bug fix (may display stange characters in the emulator menu)
+
+1.0.7
+
+- Add new beautiful icons and background designed by Jer666 !
+- New user interface with menus and usefull options
+- Add Help window with all PSP shortkeys
+- Save configuration file option
+- Screenshot image option
+- PNG images instead of BMP (smaller images)
+- Toogle between analog and digital pad option
+- New keyboard handler and new mapping
+- Bug fix (keyboard freeze etc ...)
+
+1.0.6
+
+- Fullscreen feature :)
+
+1.0.5
+
+- Bug fix in 12 instructions of the 68k processor
+
+1.0.4
+
+- Improve keyboard stability
+- Capability to change between aqua and classic skin
+- (inside the application file selector window)
+
+
+1.0.3
+
+- Works now with TI-92+ v1.x ROM !
+- Capability to reset the TI-92 
+- (inside the application file selector window)
+- The TI-92 has now 256Kb memory
+- Add GNU ROM Pedrom in PSPXTI package
+
+
+1.0.2
+
+- Improve aqua keyboard mapping (Functions keys are now usable)
+- New feature: capability to load external application file 
+- (.9xx file extentions)
+
+1.0.1
+
+- Aqua skin 
+- Improve keyboard mapping
+
+1.0.0
+
+- Intial release with classic skin.

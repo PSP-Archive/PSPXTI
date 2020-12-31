@@ -1,0 +1,8 @@
+XTiger : TI 92 Emulator for Unix/X11 
+
+  Jonas Minnberg <j.minnberg@upright.se>
+  Misha Nasledov <misha@nasledov.com>
+
+PSPXTI : Porting on PSP
+
+  Ludovic Jacomme (zx81.zx81@gmail.com)

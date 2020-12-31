@@ -1,0 +1,75 @@
+#
+# PSPXTI port on PSP 
+#
+# Copyright (C) 2009 Ludovic Jacomme (ludovic.jacomme@gmail.com)
+#
+# This program is free software; you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation; either version 2 of the License, or
+# (at your option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# along with this program; if not, write to the Free Software
+# Foundation, Inc., 675 Mass Ave, Cambridge, MA 02139, USA.
+#
+TARGET = pspxti
+PSPSDK = $(shell psp-config --pspsdk-path)
+PSPBIN = $(shell psp-config --psp-prefix)/bin
+SDL_CONFIG = $(PSPBIN)/sdl-config
+OBJS = psp_main.o ti92_main.o psp_font.o psp_sdl.o psp_danzeff.o psp_fmgr.o \
+      psp_menu.o psp_menu_help.o psp_irkeyb.o psp_editor.o \
+      psp_battery.o psp_danzeff.o psp_menu_kbd.o psp_menu_set.o \
+      newcpu.o memory.o hardware.o packets.o keyboard.o \
+      readcpu.o cpudefs.o cpu0.o cpu1.o cpu2.o cpu3.o cpu4.o cpu5.o cpu6.o \
+      cpu7.o cpu8.o cpu9.o cpuA.o cpuB.o cpuC.o cpuD.o cpuE.o cpuF.o \
+      cpustbl.o noasm.o psp_kbd.o \
+      global.o psp_specific.o ti_main.o
+
+
+INCDIR = 
+DEFAULT_CFLAGS = $(shell $(SDL_CONFIG) --cflags)
+PSP_FW_VERSION=15
+
+MORE_CFLAGS = -I. \
+-DPSPXTI_VERSION=\"$(PSPXTI_VERSION)\" \
+-DINTEL_FLAG_OPT \
+-O2 \
+ -funroll-loops -ffast-math -fomit-frame-pointer \
+ -fno-strength-reduce -finline-functions \
+ -fsingle-precision-constant \
+ -DNO_STDIO_REDIRECT \
+ -DUSE_PSP_IRKEYB
+
+
+PSPXTI_VERSION=1.3.0-fw15
+
+CFLAGS = $(DEFAULT_CFLAGS) $(MORE_CFLAGS)
+CXXFLAGS = $(DEFAULT_CFLAGS) $(MORE_CFLAGS) -fno-exceptions -fno-rtti
+
+LIBS += -lpspirkeyb -lpsppower -lSDL_image -lSDL -lpng -ljpeg -lpspaudio -lpspgu -lpsphprm -lz -lm
+
+EXTRA_TARGETS = EBOOT.PBP
+PSP_EBOOT_TITLE = PSPXTI-v$(PSPXTI_VERSION)
+PSP_EBOOT_ICON= pspxti.png
+PSP_EBOOT_PIC1 = pspxti-pic.png
+PSP_EBOOT_SND0  = pspxti.at3
+
+include $(PSPSDK)/lib/build.mak
+
+all: SCEkxploit
+
+
+install: all
+	@mkdir -p /media/disk/psp/game150/__SCE__pspxti/
+	@mkdir -p /media/disk/psp/game150/%__SCE__pspxti/
+	cp __SCE__pspxti/EBOOT.PBP /media/disk/psp/game150/__SCE__pspxti/
+	cp %__SCE__pspxti/EBOOT.PBP /media/disk/psp/game150/%__SCE__pspxti/
+
+realclean:
+	/bin/rm -f $(OBJS) EBOOT.PBP PARAM.SFO
+
